@@ -17,11 +17,16 @@
     <maven.compiler.target>11</maven.compiler.target>
 
     <lombok.version>1.18.10</lombok.version>
+    <vavr.version>0.10.2</vavr.version>
     <slf4j-api.version>1.7.25</slf4j-api.version>
-
     <logback-classic.version>1.2.3</logback-classic.version>
+    <jackson.version>2.11.0</jackson.version>
+
+    <!-- Testing -->
     <junit.jupiter.version>5.5.2</junit.jupiter.version>
     <assertj-core.version>3.13.2</assertj-core.version>
+    <rest-assured.version>4.0.0</rest-assured.version>
+    <wiremock.version>2.24.1</wiremock.version>
   </properties>
 
   <dependencies>
@@ -31,13 +36,17 @@
           <version>${lombok.version}</version>
           <scope>provided</scope>
       </dependency>
+      <dependency>
+          <groupId>io.vavr</groupId>
+          <artifactId>vavr</artifactId>
+          <version>${vavr.version}</version>
+      </dependency>
 
       <dependency>
           <groupId>org.slf4j</groupId>
           <artifactId>slf4j-api</artifactId>
           <version>${slf4j-api.version}</version>
       </dependency>
-
       <dependency>
           <groupId>ch.qos.logback</groupId>
           <artifactId>logback-classic</artifactId>
@@ -47,7 +56,7 @@
       <dependency>
           <groupId>com.fasterxml.jackson.core</groupId>
           <artifactId>jackson-databind</artifactId>
-          <version>2.11.0</version>
+          <version>${jackson.version}</version>
       </dependency>
 
       <dependency>
@@ -79,6 +88,19 @@
           <groupId>org.assertj</groupId>
           <artifactId>assertj-core</artifactId>
           <version>${assertj-core.version}</version>
+          <scope>test</scope>
+      </dependency>
+
+      <dependency>
+          <groupId>com.github.tomakehurst</groupId>
+          <artifactId>wiremock</artifactId>
+          <version>${wiremock.version}</version>
+      </dependency>
+
+      <dependency>
+          <groupId>io.rest-assured</groupId>
+          <artifactId>rest-assured</artifactId>
+          <version>${rest-assured.version}</version>
           <scope>test</scope>
       </dependency>
 

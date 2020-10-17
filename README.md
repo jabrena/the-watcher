@@ -8,3 +8,4 @@ It is a project to visualize the evolution of JVM ecosystem.
 
 - https://en.wikipedia.org/wiki/Watcher_(comics)
 - https://developer.github.com/v3/
+- http://www.jsonschema2pojo.org/
