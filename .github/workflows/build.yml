@@ -13,5 +13,5 @@ jobs:
               with:
                   java-version: 11
             - name: Build with Maven
-              run: mvnw clean test site
+              run: ./mvnw clean test site
 
