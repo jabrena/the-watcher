@@ -1,7 +1,11 @@
 package com.jab.watcher;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
-import com.jab.watcher.model.GithubRepository;
+import com.jab.watcher.model.stars.GithubRepository;
+import io.vavr.Tuple;
+import io.vavr.Tuple2;
+import java.util.List;
+import java.util.stream.Collectors;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -30,10 +34,7 @@ class GithubTest {
 
     private void loadStubs() {
 
-        wireMockServer.stubFor(get(urlEqualTo("/users/jabrena/starred"))
-            .willReturn(aResponse().withHeader("Content-Type", "application/json")
-                .withStatus(200)
-                .withBodyFile("github/jabrena-starred-page1-ok.json")));
+        //Github Starred Projects
 
         wireMockServer.stubFor(get(urlEqualTo("/users/jabrena/starred?page=1"))
             .willReturn(aResponse().withHeader("Content-Type", "application/json")
@@ -44,6 +45,25 @@ class GithubTest {
             .willReturn(aResponse().withHeader("Content-Type", "application/json")
                 .withStatus(200)
                 .withBodyFile("github/jabrena-starred-page2-ok.json")));
+
+        //Github Repository Issues
+
+        wireMockServer.stubFor(get(urlEqualTo("/repos/arrow-kt/arrow-core/issues"))
+            .willReturn(aResponse().withHeader("Content-Type", "application/json")
+                .withStatus(200)
+                .withBodyFile("github/arrow-kt-arrow-core-page1-ok.json")));
+
+        wireMockServer.stubFor(get(urlEqualTo("/repos/arrow-kt/arrow-core/issues?page=1"))
+            .willReturn(aResponse().withHeader("Content-Type", "application/json")
+                .withStatus(200)
+                .withBodyFile("github/arrow-kt-arrow-core-page1-ok.json")));
+
+        wireMockServer.stubFor(get(urlEqualTo("/repos/arrow-kt/arrow-core/issues?page=2"))
+            .willReturn(aResponse().withHeader("Content-Type", "application/json")
+                .withStatus(200)
+                .withBodyFile("github/arrow-kt-arrow-core-page2-ok.json")));
+
+
     }
 
     @Test
@@ -62,6 +82,30 @@ class GithubTest {
             .forEach(LOGGER::info);
 
         then(starredProjects).isNotNull();
+    }
+
+    @Test
+    public void given_githubService_when_callIssues_then_ok() {
+
+        loadStubs();
+
+        GithubService service = new GithubServiceImpl();
+
+        var repository = "arrow-kt/arrow-core";
+        var list = List.of(repository);
+
+        //TODO Add pagination support and date parameter
+        //?since=2020-01-01T00:00:00Z&page=4
+        //var baseAddress = "https://api.github.com/repos/";
+        var baseAddress  = "http://localhost:8090/repos/";
+        var resources = "/issues";
+        List<Tuple2<String, Long>> issues = list.stream()
+            .map(x -> baseAddress + x + resources)
+            .map(service::getIssuesByProject)
+            .peek(x -> LOGGER.info(x.toString()))
+            .collect(Collectors.toUnmodifiableList());
+
+        then(issues).isNotNull();
     }
 
 }

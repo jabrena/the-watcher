@@ -1,6 +1,6 @@
 package com.jab.watcher;
 
-import com.jab.watcher.model.GithubRepository;
+import com.jab.watcher.model.stars.GithubRepository;
 import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,5 +1,5 @@
 
-package com.jab.watcher.model;
+package com.jab.watcher.model.stars;
 
 import java.util.HashMap;
 import java.util.Map;

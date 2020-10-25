@@ -1,5 +1,5 @@
 
-package com.jab.watcher.model;
+package com.jab.watcher.model.issues;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,9 +9,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import lombok.ToString;
 
-@ToString
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonPropertyOrder({
     "login",
@@ -33,7 +31,7 @@ import lombok.ToString;
     "type",
     "site_admin"
 })
-public class Owner {
+public class User {
 
     @JsonProperty("login")
     private String login;
@@ -73,6 +71,56 @@ public class Owner {
     private Boolean siteAdmin;
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
+
+    /**
+     * No args constructor for use in serialization
+     *
+     */
+    public User() {
+    }
+
+    /**
+     *
+     * @param receivedEventsUrl
+     * @param siteAdmin
+     * @param followingUrl
+     * @param gistsUrl
+     * @param avatarUrl
+     * @param organizationsUrl
+     * @param reposUrl
+     * @param htmlUrl
+     * @param subscriptionsUrl
+     * @param login
+     * @param type
+     * @param url
+     * @param starredUrl
+     * @param gravatarId
+     * @param followersUrl
+     * @param id
+     * @param eventsUrl
+     * @param nodeId
+     */
+    public User(String login, Integer id, String nodeId, String avatarUrl, String gravatarId, String url, String htmlUrl, String followersUrl, String followingUrl, String gistsUrl, String starredUrl, String subscriptionsUrl, String organizationsUrl, String reposUrl, String eventsUrl, String receivedEventsUrl, String type, Boolean siteAdmin) {
+        super();
+        this.login = login;
+        this.id = id;
+        this.nodeId = nodeId;
+        this.avatarUrl = avatarUrl;
+        this.gravatarId = gravatarId;
+        this.url = url;
+        this.htmlUrl = htmlUrl;
+        this.followersUrl = followersUrl;
+        this.followingUrl = followingUrl;
+        this.gistsUrl = gistsUrl;
+        this.starredUrl = starredUrl;
+        this.subscriptionsUrl = subscriptionsUrl;
+        this.organizationsUrl = organizationsUrl;
+        this.reposUrl = reposUrl;
+        this.eventsUrl = eventsUrl;
+        this.receivedEventsUrl = receivedEventsUrl;
+        this.type = type;
+        this.siteAdmin = siteAdmin;
+    }
 
     @JsonProperty("login")
     public String getLogin() {
