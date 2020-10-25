@@ -2,6 +2,6 @@ package com.jab.watcher;
 
 public interface GithubService {
 
-    StarredProjects getStarredProjects();
+    StarredProjects getStarredProjects(String baseAddress);
 
 }

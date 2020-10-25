@@ -1,6 +1,8 @@
 package com.jab.watcher;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
+import com.jab.watcher.model.GithubRepository;
+import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -10,6 +12,7 @@ import static com.github.tomakehurst.wiremock.client.WireMock.get;
 import static com.github.tomakehurst.wiremock.client.WireMock.urlEqualTo;
 import static org.assertj.core.api.BDDAssertions.then;
 
+@Slf4j
 class GithubTest {
 
     WireMockServer wireMockServer;
@@ -49,7 +52,14 @@ class GithubTest {
         loadStubs();
 
         GithubService service = new GithubServiceImpl();
-        var starredProjects = service.getStarredProjects();
+        //var address = "https://api.github.com/users/jabrena/starred";
+        var address = "http://localhost:8090/users/jabrena/starred";
+        var starredProjects = service.getStarredProjects(address);
+
+        //TODO Remove
+        starredProjects.getList().stream()
+            .map(GithubRepository::getFullName)
+            .forEach(LOGGER::info);
 
         then(starredProjects).isNotNull();
     }
