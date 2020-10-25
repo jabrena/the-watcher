@@ -1,8 +1,8 @@
 package com.jab.watcher;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
+import com.jab.watcher.model.rate.GithubRateLimit;
 import com.jab.watcher.model.stars.GithubRepository;
-import io.vavr.Tuple;
 import io.vavr.Tuple2;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -10,6 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.slf4j.bridge.SLF4JBridgeHandler;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.aResponse;
 import static com.github.tomakehurst.wiremock.client.WireMock.get;
@@ -18,6 +19,11 @@ import static org.assertj.core.api.BDDAssertions.then;
 
 @Slf4j
 class GithubTest {
+
+    static {
+        SLF4JBridgeHandler.removeHandlersForRootLogger();
+        SLF4JBridgeHandler.install();
+    }
 
     WireMockServer wireMockServer;
 
@@ -63,7 +69,12 @@ class GithubTest {
                 .withStatus(200)
                 .withBodyFile("github/arrow-kt-arrow-core-page2-ok.json")));
 
+        //Github Rate Limit
 
+        wireMockServer.stubFor(get(urlEqualTo("/rate_limit"))
+            .willReturn(aResponse().withHeader("Content-Type", "application/json")
+                .withStatus(200)
+                .withBodyFile("github/jabrena-rate_limit.json")));
     }
 
     @Test
@@ -106,6 +117,22 @@ class GithubTest {
             .collect(Collectors.toUnmodifiableList());
 
         then(issues).isNotNull();
+    }
+
+    @Test
+    public void given_githubService_when_callRateLimitMetrics_then_ok() {
+
+        loadStubs();
+
+        String token = "MY_GITHUB_OAUTH_TOKEN";
+        //String address = "https://api.github.com/rate_limit";
+        String address  = "http://localhost:8090/rate_limit";
+
+        GithubService service = new GithubServiceImpl();
+        GithubRateLimit githubRateLimit = service.getRateLimitMetrics(token, address);
+
+        then(githubRateLimit.getRate().getLimit()).isEqualTo(5000);
+        then(githubRateLimit.getRate().getRemaining()).isGreaterThan(0);
     }
 
 }

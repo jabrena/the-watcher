@@ -3,6 +3,7 @@ package com.jab.watcher;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jab.watcher.model.issues.GithubIssues;
+import com.jab.watcher.model.rate.GithubRateLimit;
 import com.jab.watcher.model.stars.GithubRepository;
 import io.vavr.Tuple2;
 import io.vavr.control.Try;
@@ -95,5 +96,34 @@ public class GithubServiceImpl implements GithubService {
 
 
         return new Tuple2(address, currentPage.size());
+    }
+
+    Function<Optional<String>, GithubRateLimit> unserializeRateLimitMetrics = param -> Try.of(() -> {
+        ObjectMapper objectMapper = new ObjectMapper();
+
+        //TODO Refactor
+        if(param.isPresent()) {
+            GithubRateLimit deserializedData = objectMapper
+                .readValue(param.get(), new TypeReference<GithubRateLimit>() {});
+
+            return deserializedData;
+        } else {
+            LOGGER.error("Bad Serialization process");
+            throw new RuntimeException();
+        }
+    }).getOrElseThrow(ex -> {
+        LOGGER.error("Bad Serialization process", ex);
+        throw new RuntimeException(ex);
+    });
+
+    @Override
+    public GithubRateLimit getRateLimitMetrics(String token, String address) {
+
+        var metrics = toURL
+            .andThen(url -> SimpleCurl.fetchWithToken.apply(url, token))
+            .andThen(unserializeRateLimitMetrics)
+            .apply(address);
+
+        return metrics;
     }
 }
