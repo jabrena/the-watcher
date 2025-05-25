@@ -198,6 +198,9 @@ function populateLanguageFilter() {
     // Sort languages by count in descending order (highest count first)
     languagesWithCounts.sort((a, b) => b.count - a.count);
 
+    // Debug: Log language counts for verification
+    console.log('Language counts:', languagesWithCounts.slice(0, 10));
+
     // Add sorted language options
     languagesWithCounts.forEach(item => {
         const option = document.createElement('option');
@@ -220,10 +223,6 @@ function filterRepositories() {
     );
 
     filteredRepos = allRepos.filter(repo => {
-        // Visibility filter - if visible field doesn't exist, show repository (default visible)
-        // If visible field exists, only show if it's not "false"
-        const isVisible = !repo.hasOwnProperty('visible') || repo.visible !== "false";
-
         // Text search filter
         const repoName = repo.url.split('/').slice(-2).join('/').toLowerCase();
         const description = (repo.description || '').toLowerCase();
@@ -243,7 +242,7 @@ function filterRepositories() {
         // Language filter
         const matchesLanguage = selectedLanguage === '' || repo.language === selectedLanguage;
 
-        return isVisible && matchesSearch && matchesCategory && matchesLanguage;
+        return matchesSearch && matchesCategory && matchesLanguage;
     });
 
     displayRepositories();

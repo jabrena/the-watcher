@@ -8214,7 +8214,7 @@
     "last_update": "2025-05-22T16:24:31Z",
     "category": "Web Frameworks & HTTP",
     "category_corrected": "Educational & Learning",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/jaapcoomans/spring-boot-modules",
@@ -8269,7 +8269,7 @@
     "last_update": "2025-05-25T07:28:41Z",
     "category": "Web Frameworks & HTTP",
     "category_corrected": "Educational & Learning",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/palatable/lambda",
@@ -11107,7 +11107,7 @@
     "last_update": "2025-05-23T02:46:07Z",
     "category": "Computer Vision & Graphics",
     "category_corrected": "Educational & Learning",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/wiremock/wiremock",
