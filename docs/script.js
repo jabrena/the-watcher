@@ -165,18 +165,21 @@ function populateCategoryFilter() {
     // Clear existing options except the first one
     categoryFilter.innerHTML = '<option value="">📂 All Categories</option>';
 
-    // Add category options with repository counts
-    allCategories.forEach(category => {
-        // Count repositories for this category
+    // Create array of categories with their counts
+    const categoriesWithCounts = allCategories.map(category => {
         const repoCount = allRepos.filter(repo => getEffectiveCategory(repo) === category).length;
+        return { category, count: repoCount };
+    }).filter(item => item.count > 0); // Only include categories that have repositories
 
-        // Only add categories that have repositories
-        if (repoCount > 0) {
-            const option = document.createElement('option');
-            option.value = category;
-            option.textContent = `${category} (${repoCount})`;
-            categoryFilter.appendChild(option);
-        }
+    // Sort categories by count in descending order (highest count first)
+    categoriesWithCounts.sort((a, b) => b.count - a.count);
+
+    // Add sorted category options
+    categoriesWithCounts.forEach(item => {
+        const option = document.createElement('option');
+        option.value = item.category;
+        option.textContent = `${item.category} (${item.count})`;
+        categoryFilter.appendChild(option);
     });
 }
 
@@ -186,18 +189,21 @@ function populateLanguageFilter() {
     // Clear existing options except the first one
     languageFilter.innerHTML = '<option value="">☕ All Languages</option>';
 
-    // Add language options with repository counts
-    allLanguages.forEach(language => {
-        // Count repositories for this language
+    // Create array of languages with their counts
+    const languagesWithCounts = allLanguages.map(language => {
         const repoCount = allRepos.filter(repo => repo.language === language).length;
+        return { language, count: repoCount };
+    }).filter(item => item.count > 0); // Only include languages that have repositories
 
-        // Only add languages that have repositories
-        if (repoCount > 0) {
-            const option = document.createElement('option');
-            option.value = language;
-            option.textContent = `${language} (${repoCount})`;
-            languageFilter.appendChild(option);
-        }
+    // Sort languages by count in descending order (highest count first)
+    languagesWithCounts.sort((a, b) => b.count - a.count);
+
+    // Add sorted language options
+    languagesWithCounts.forEach(item => {
+        const option = document.createElement('option');
+        option.value = item.language;
+        option.textContent = `${item.language} (${item.count})`;
+        languageFilter.appendChild(option);
     });
 }
 
