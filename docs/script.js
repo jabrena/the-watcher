@@ -13,6 +13,67 @@ function getEffectiveCategory(repo) {
         : repo.category;
 }
 
+
+
+// URL parameter management functions
+function getUrlParams() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return {
+        search: urlParams.get('search') || '',
+        category: urlParams.get('category') || '',
+        language: urlParams.get('language') || ''
+    };
+}
+
+function updateUrlParams(search, category, language) {
+    const url = new URL(window.location);
+
+    // Remove empty parameters
+    if (search) {
+        url.searchParams.set('search', search);
+    } else {
+        url.searchParams.delete('search');
+    }
+
+    if (category) {
+        url.searchParams.set('category', category);
+    } else {
+        url.searchParams.delete('category');
+    }
+
+    if (language) {
+        url.searchParams.set('language', language);
+    } else {
+        url.searchParams.delete('language');
+    }
+
+    // Update URL without reloading the page
+    window.history.replaceState({}, '', url);
+}
+
+function loadFiltersFromUrl() {
+    const params = getUrlParams();
+
+    // Set form values from URL parameters
+    document.getElementById('searchInput').value = params.search;
+
+    // Only set category if it exists in the available options
+    const categoryFilter = document.getElementById('categoryFilter');
+    if (params.category && allCategories.includes(params.category)) {
+        categoryFilter.value = params.category;
+    } else {
+        categoryFilter.value = '';
+    }
+
+    // Only set language if it exists in the available options
+    const languageFilter = document.getElementById('languageFilter');
+    if (params.language && allLanguages.includes(params.language)) {
+        languageFilter.value = params.language;
+    } else {
+        languageFilter.value = '';
+    }
+}
+
 async function loadRepositories() {
     try {
         const response = await fetch('data.js');
@@ -24,15 +85,17 @@ async function loadRepositories() {
             .sort((a, b) => parseInt(b.stars) - parseInt(a.stars));
         filteredRepos = [...allRepos];
 
-        // Extract unique categories (prioritizing category_corrected)
-        allCategories = [...new Set(repos.map(repo => getEffectiveCategory(repo)).filter(cat => cat && cat.trim() !== ''))].sort();
+        // Extract unique categories from filtered repositories only (prioritizing category_corrected)
+        allCategories = [...new Set(allRepos.map(repo => getEffectiveCategory(repo)).filter(cat => cat && cat.trim() !== ''))].sort();
         populateCategoryFilter();
 
-        // Extract unique languages
-        allLanguages = [...new Set(repos.map(repo => repo.language).filter(lang => lang && lang.trim() !== ''))].sort();
+        // Extract unique languages from filtered repositories only
+        allLanguages = [...new Set(allRepos.map(repo => repo.language).filter(lang => lang && lang.trim() !== ''))].sort();
         populateLanguageFilter();
 
-        displayRepositories();
+        // Load filters from URL and apply them
+        loadFiltersFromUrl();
+        filterRepositories();
         updateStats();
 
         document.getElementById('loading').style.display = 'none';
@@ -97,12 +160,18 @@ function populateCategoryFilter() {
     // Clear existing options except the first one
     categoryFilter.innerHTML = '<option value="">📂 All Categories</option>';
 
-    // Add category options
+    // Add category options with repository counts
     allCategories.forEach(category => {
-        const option = document.createElement('option');
-        option.value = category;
-        option.textContent = category;
-        categoryFilter.appendChild(option);
+        // Count repositories for this category
+        const repoCount = allRepos.filter(repo => getEffectiveCategory(repo) === category).length;
+
+        // Only add categories that have repositories
+        if (repoCount > 0) {
+            const option = document.createElement('option');
+            option.value = category;
+            option.textContent = `${category} (${repoCount})`;
+            categoryFilter.appendChild(option);
+        }
     });
 }
 
@@ -112,12 +181,18 @@ function populateLanguageFilter() {
     // Clear existing options except the first one
     languageFilter.innerHTML = '<option value="">☕ All Languages</option>';
 
-    // Add language options
+    // Add language options with repository counts
     allLanguages.forEach(language => {
-        const option = document.createElement('option');
-        option.value = language;
-        option.textContent = language;
-        languageFilter.appendChild(option);
+        // Count repositories for this language
+        const repoCount = allRepos.filter(repo => repo.language === language).length;
+
+        // Only add languages that have repositories
+        if (repoCount > 0) {
+            const option = document.createElement('option');
+            option.value = language;
+            option.textContent = `${language} (${repoCount})`;
+            languageFilter.appendChild(option);
+        }
     });
 }
 
@@ -125,6 +200,13 @@ function filterRepositories() {
     const searchTerm = document.getElementById('searchInput').value.toLowerCase();
     const selectedCategory = document.getElementById('categoryFilter').value;
     const selectedLanguage = document.getElementById('languageFilter').value;
+
+    // Update URL parameters
+    updateUrlParams(
+        document.getElementById('searchInput').value,
+        selectedCategory,
+        selectedLanguage
+    );
 
     filteredRepos = allRepos.filter(repo => {
         // Text search filter
@@ -157,11 +239,20 @@ function searchRepositories() {
     filterRepositories();
 }
 
+// Handle browser back/forward navigation
+function handlePopState() {
+    loadFiltersFromUrl();
+    filterRepositories();
+}
+
 // Event listeners
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('searchInput').addEventListener('input', filterRepositories);
     document.getElementById('categoryFilter').addEventListener('change', filterRepositories);
     document.getElementById('languageFilter').addEventListener('change', filterRepositories);
+
+    // Handle browser back/forward navigation
+    window.addEventListener('popstate', handlePopState);
 
     // Load repositories when page loads
     loadRepositories();

@@ -5887,7 +5887,7 @@
     "created": "2013-08-30T14:44:38Z",
     "last_update": "2025-05-21T23:32:52Z",
     "category": "Computer Vision & Graphics",
-    "category_corrected": "Maven Plugins"
+    "category_corrected": "Build & Deployment"
   },
   {
     "url": "https://github.com/AndriyKalashnykov/spring-microservices-k8s",
@@ -6607,7 +6607,7 @@
     "created": "2010-04-19T04:13:03Z",
     "last_update": "2025-05-23T09:33:03Z",
     "category": "API & Integration",
-    "category_corrected": ""
+    "category_corrected": "Web Frameworks & HTTP"
   },
   {
     "url": "https://github.com/playframework/playframework",
@@ -8027,7 +8027,7 @@
     "created": "2015-09-12T19:14:35Z",
     "last_update": "2025-05-14T17:15:22Z",
     "category": "API & Integration",
-    "category_corrected": ""
+    "category_corrected": "Web Frameworks & HTTP"
   },
   {
     "url": "https://github.com/carlphilipp/clean-architecture-example",
@@ -8217,7 +8217,7 @@
     "created": "2018-09-17T12:29:20Z",
     "last_update": "2025-05-25T06:35:47Z",
     "category": "Web Frameworks & HTTP",
-    "category_corrected": "JVM Languages"
+    "category_corrected": "JVM"
   },
   {
     "url": "https://github.com/null93/drawille",
@@ -8327,7 +8327,7 @@
     "created": "2018-01-22T18:30:43Z",
     "last_update": "2025-05-24T16:06:13Z",
     "category": "Computer Vision & Graphics",
-    "category_corrected": "Containerization"
+    "category_corrected": "Build & Deployment"
   },
   {
     "url": "https://github.com/dsyer/spring-boot-startup-bench",
@@ -8587,7 +8587,7 @@
     "created": "2014-08-11T16:06:56Z",
     "last_update": "2025-05-09T08:48:29Z",
     "category": "API & Integration",
-    "category_corrected": ""
+    "category_corrected": "Web Frameworks & HTTP"
   },
   {
     "url": "https://github.com/swagger-akka-http/swagger-akka-http",
@@ -8677,7 +8677,7 @@
     "created": "2016-01-14T17:11:35Z",
     "last_update": "2025-05-25T08:42:58Z",
     "category": "Computer Vision & Graphics",
-    "category_corrected": "JVM Languages"
+    "category_corrected": "JVM"
   },
   {
     "url": "https://github.com/AdoptOpenJDK/jitwatch",
@@ -8737,7 +8737,7 @@
     "created": "2013-08-31T02:05:05Z",
     "last_update": "2025-05-25T02:46:44Z",
     "category": "Configuration & Environment",
-    "category_corrected": "Maven Plugins"
+    "category_corrected": "Build & Deployment"
   },
   {
     "url": "https://github.com/LeonardoZ/java-concurrency-patterns",
@@ -9367,7 +9367,7 @@
     "created": "2012-12-19T16:13:32Z",
     "last_update": "2025-05-24T21:32:39Z",
     "category": "Database & ORM",
-    "category_corrected": "Gradle Plugins"
+    "category_corrected": "Build & Deployment"
   },
   {
     "url": "https://github.com/vlotar/spring-boot-elk",
