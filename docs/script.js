@@ -79,9 +79,10 @@ async function loadRepositories() {
         const response = await fetch('data.js');
         const repos = await response.json();
 
-        // Filter repositories with minimum stars threshold and sort by stars (descending)
+        // Filter repositories with minimum stars threshold, visibility filter, and sort by stars (descending)
         allRepos = repos
             .filter(repo => parseInt(repo.stars) >= MIN_STARS_THRESHOLD)
+            .filter(repo => repo.visible && repo.visible !== '')
             .sort((a, b) => parseInt(b.stars) - parseInt(a.stars));
         filteredRepos = [...allRepos];
 
@@ -209,6 +210,9 @@ function filterRepositories() {
     );
 
     filteredRepos = allRepos.filter(repo => {
+        // Visibility filter - only show repositories where visible is not empty
+        const isVisible = repo.visible && repo.visible !== '';
+
         // Text search filter
         const repoName = repo.url.split('/').slice(-2).join('/').toLowerCase();
         const description = (repo.description || '').toLowerCase();
@@ -228,7 +232,7 @@ function filterRepositories() {
         // Language filter
         const matchesLanguage = selectedLanguage === '' || repo.language === selectedLanguage;
 
-        return matchesSearch && matchesCategory && matchesLanguage;
+        return isVisible && matchesSearch && matchesCategory && matchesLanguage;
     });
 
     displayRepositories();
