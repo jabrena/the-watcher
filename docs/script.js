@@ -79,22 +79,16 @@ async function loadRepositories() {
         const response = await fetch('data.js');
         const repos = await response.json();
 
-        console.log(`Loaded ${repos.length} repositories from data.js`);
-
         // Filter repositories with minimum stars threshold, visibility filter, and sort by stars (descending)
-        const starsFiltered = repos.filter(repo => parseInt(repo.stars) >= MIN_STARS_THRESHOLD);
-        console.log(`After stars filter (>=${MIN_STARS_THRESHOLD}): ${starsFiltered.length} repositories`);
-
-        const visibilityFiltered = starsFiltered.filter(repo => {
-            // If visible field doesn't exist, show the repository (default visible)
-            // If visible field exists, only show if it's not empty
-            return !repo.hasOwnProperty('visible') || (repo.visible && repo.visible !== '');
-        });
-        console.log(`After visibility filter: ${visibilityFiltered.length} repositories`);
-
-        allRepos = visibilityFiltered.sort((a, b) => parseInt(b.stars) - parseInt(a.stars));
+        allRepos = repos
+            .filter(repo => parseInt(repo.stars) >= MIN_STARS_THRESHOLD)
+            .filter(repo => {
+                // If visible field doesn't exist, show the repository (default visible)
+                // If visible field exists, only show if it's not "false"
+                return !repo.hasOwnProperty('visible') || repo.visible !== "false";
+            })
+            .sort((a, b) => parseInt(b.stars) - parseInt(a.stars));
         filteredRepos = [...allRepos];
-        console.log(`Final allRepos count: ${allRepos.length}`);
 
         // Extract unique categories from filtered repositories only (prioritizing category_corrected)
         allCategories = [...new Set(allRepos.map(repo => getEffectiveCategory(repo)).filter(cat => cat && cat.trim() !== ''))].sort();
@@ -221,8 +215,8 @@ function filterRepositories() {
 
     filteredRepos = allRepos.filter(repo => {
         // Visibility filter - if visible field doesn't exist, show repository (default visible)
-        // If visible field exists, only show if it's not empty
-        const isVisible = !repo.hasOwnProperty('visible') || (repo.visible && repo.visible !== '');
+        // If visible field exists, only show if it's not "false"
+        const isVisible = !repo.hasOwnProperty('visible') || repo.visible !== "false";
 
         // Text search filter
         const repoName = repo.url.split('/').slice(-2).join('/').toLowerCase();
