@@ -1,5 +1,10 @@
 // Configuration constants
 const MIN_STARS_THRESHOLD = 500;
+// Categories to exclude from display - add more categories to this array as needed
+const EXCLUDED_CATEGORIES = [
+    "Educational & Learning",
+    "Development Tools & SDK Management",
+    "Gaming & Entertainment"];
 
 let allRepos = [];
 let filteredRepos = [];
@@ -79,13 +84,18 @@ async function loadRepositories() {
         const response = await fetch('data.js');
         const repos = await response.json();
 
-        // Filter repositories with minimum stars threshold, visibility filter, and sort by stars (descending)
+        // Filter repositories with minimum stars threshold, visibility filter, category exclusions, and sort by stars (descending)
         allRepos = repos
             .filter(repo => parseInt(repo.stars) >= MIN_STARS_THRESHOLD)
             .filter(repo => {
                 // If visible field doesn't exist, show the repository (default visible)
                 // If visible field exists, only show if it's not "false"
                 return !repo.hasOwnProperty('visible') || repo.visible !== "false";
+            })
+            .filter(repo => {
+                // Exclude repositories from specified categories
+                const effectiveCategory = getEffectiveCategory(repo);
+                return !EXCLUDED_CATEGORIES.includes(effectiveCategory);
             })
             .sort((a, b) => parseInt(b.stars) - parseInt(a.stars));
         filteredRepos = [...allRepos];
@@ -197,9 +207,6 @@ function populateLanguageFilter() {
 
     // Sort languages by count in descending order (highest count first)
     languagesWithCounts.sort((a, b) => b.count - a.count);
-
-    // Debug: Log language counts for verification
-    console.log('Language counts:', languagesWithCounts.slice(0, 10));
 
     // Add sorted language options
     languagesWithCounts.forEach(item => {
