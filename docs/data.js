@@ -8247,7 +8247,7 @@
     "last_update": "2025-05-14T05:55:54Z",
     "category": "Computer Vision & Graphics",
     "category_corrected": "Build & Deployment",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/brettwooldridge/HikariCP",
@@ -9325,7 +9325,7 @@
     "last_update": "2025-05-19T17:11:03Z",
     "category": "Web Frameworks & HTTP",
     "category_corrected": "Build & Deployment",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/jenkinsci/configuration-as-code-plugin",
@@ -9336,7 +9336,7 @@
     "last_update": "2025-05-24T17:11:38Z",
     "category": "Configuration & Environment",
     "category_corrected": "Build & Deployment",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/jenkinsci/pipeline-model-definition-plugin",
@@ -9347,7 +9347,7 @@
     "last_update": "2025-05-17T16:38:48Z",
     "category": "Web Frameworks & HTTP",
     "category_corrected": "Build & Deployment",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/trekawek/toxiproxy-java",
@@ -9413,7 +9413,7 @@
     "last_update": "2025-05-11T09:52:40Z",
     "category": "Build & Deployment",
     "category_corrected": "",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/appium/java-client",
@@ -10073,7 +10073,7 @@
     "last_update": "2025-05-21T11:54:31Z",
     "category": "IDE & Editor Extensions",
     "category_corrected": "Build & Deployment",
-    "visible": "true"
+    "visible": "false"
   },
   {
     "url": "https://github.com/projectlombok/lombok",

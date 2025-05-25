@@ -273,6 +273,11 @@ body {
         gap: 20px;
     }
 
+    /* Hide Total Stars and Average Stars on mobile */
+    .stat-card-mobile-hidden {
+        display: none;
+    }
+
     .repo-meta {
         flex-direction: column;
         align-items: flex-start;
@@ -297,4 +302,40 @@ body {
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
     to { opacity: 1; transform: translateY(0); }
+}
+
+.footer {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(15px);
+    border-radius: 20px;
+    padding: 25px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-size: 1.1rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.footer:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+}
+
+.footer a {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+.footer a:hover {
+    color: #ffed4e;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+    transform: scale(1.05);
+    display: inline-block;
 }
