@@ -5,7 +5,10 @@
     "language": "Java",
     "stars": "11555",
     "created": "2010-11-04T15:55:50Z",
-    "last_update": "2025-05-25T10:28:08Z"
+    "last_update": "2025-05-25T10:28:08Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sdkman/sdkman-db-migrations",
@@ -13,7 +16,10 @@
     "language": "Scala",
     "stars": "73",
     "created": "2017-11-06T17:07:57Z",
-    "last_update": "2025-05-24T02:52:09Z"
+    "last_update": "2025-05-24T02:52:09Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/domaframework/doma",
@@ -21,7 +27,10 @@
     "language": "Java",
     "stars": "470",
     "created": "2014-03-04T14:30:03Z",
-    "last_update": "2025-05-25T03:04:34Z"
+    "last_update": "2025-05-25T03:04:34Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jerolba/instanceOfIsEvil",
@@ -29,7 +38,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2011-07-07T15:10:18Z",
-    "last_update": "2025-05-18T19:05:15Z"
+    "last_update": "2025-05-18T19:05:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jerolba/jmnemohistosyne",
@@ -37,7 +49,10 @@
     "language": "Java",
     "stars": "19",
     "created": "2019-02-17T19:12:46Z",
-    "last_update": "2025-05-18T18:55:46Z"
+    "last_update": "2025-05-18T18:55:46Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/khmarbaise/gatherer-lecture",
@@ -45,7 +60,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2025-05-17T12:19:22Z",
-    "last_update": "2025-05-18T12:27:36Z"
+    "last_update": "2025-05-18T12:27:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/enr/returns",
@@ -53,7 +71,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-02-06T20:03:03Z",
-    "last_update": "2025-05-18T12:13:14Z"
+    "last_update": "2025-05-18T12:13:14Z",
+    "category": "Language Features & Experiments",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/crispab/agile-games",
@@ -61,7 +82,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2020-03-28T06:06:42Z",
-    "last_update": "2025-05-13T17:38:30Z"
+    "last_update": "2025-05-13T17:38:30Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ContextMapper/context-mapper-cli",
@@ -69,7 +93,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2020-10-06T11:45:55Z",
-    "last_update": "2025-05-15T18:40:33Z"
+    "last_update": "2025-05-15T18:40:33Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ContextMapper/context-mapper-archunit-extension",
@@ -77,7 +104,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2021-05-18T07:01:10Z",
-    "last_update": "2025-05-15T14:20:07Z"
+    "last_update": "2025-05-15T14:20:07Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ContextMapper/context-mapper-dsl",
@@ -85,7 +115,10 @@
     "language": "Java",
     "stars": "234",
     "created": "2018-10-19T13:03:03Z",
-    "last_update": "2025-05-21T12:11:26Z"
+    "last_update": "2025-05-21T12:11:26Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/victims/victims-enforcer-legacy",
@@ -93,7 +126,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2013-02-03T18:45:29Z",
-    "last_update": "2025-05-12T07:48:57Z"
+    "last_update": "2025-05-12T07:48:57Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/git-commit-id/git-commit-id-maven-plugin",
@@ -101,7 +137,10 @@
     "language": "Java",
     "stars": "1669",
     "created": "2011-02-13T13:55:14Z",
-    "last_update": "2025-05-25T07:47:02Z"
+    "last_update": "2025-05-25T07:47:02Z",
+    "category": "Database & ORM",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/structurizr/java",
@@ -109,7 +148,10 @@
     "language": "Java",
     "stars": "1072",
     "created": "2014-06-09T17:44:57Z",
-    "last_update": "2025-05-22T07:53:59Z"
+    "last_update": "2025-05-22T07:53:59Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microcks/microcks",
@@ -117,7 +159,10 @@
     "language": "Java",
     "stars": "1624",
     "created": "2015-02-23T15:46:09Z",
-    "last_update": "2025-05-23T07:50:41Z"
+    "last_update": "2025-05-23T07:50:41Z",
+    "category": "API & Integration",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MaJesTySA/CodingInterviewJava",
@@ -125,7 +170,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2019-08-07T09:04:25Z",
-    "last_update": "2025-05-04T19:50:52Z"
+    "last_update": "2025-05-04T19:50:52Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MaJesTySA/JVM-JUC-Core",
@@ -133,7 +181,10 @@
     "language": "Java",
     "stars": "375",
     "created": "2019-07-18T11:29:06Z",
-    "last_update": "2025-05-04T19:49:40Z"
+    "last_update": "2025-05-04T19:49:40Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mikepapadim/llama2.tornadovm.java",
@@ -141,7 +192,10 @@
     "language": "Java",
     "stars": "24",
     "created": "2023-12-07T11:07:07Z",
-    "last_update": "2025-05-19T16:08:04Z"
+    "last_update": "2025-05-19T16:08:04Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stephanj/Llama3JavaChatCompletionService",
@@ -149,7 +203,10 @@
     "language": "Java",
     "stars": "26",
     "created": "2024-10-20T16:04:13Z",
-    "last_update": "2025-05-16T10:54:41Z"
+    "last_update": "2025-05-16T10:54:41Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stephanj/GitHubMCP",
@@ -157,7 +214,10 @@
     "language": "Java",
     "stars": "30",
     "created": "2025-04-11T09:02:45Z",
-    "last_update": "2025-05-24T00:06:40Z"
+    "last_update": "2025-05-24T00:06:40Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stephanj/MCPJavaFileSystem",
@@ -165,7 +225,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2025-03-25T09:31:03Z",
-    "last_update": "2025-05-23T18:23:34Z"
+    "last_update": "2025-05-23T18:23:34Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/devoxx/DevoxxGenieIDEAPlugin",
@@ -173,7 +236,10 @@
     "language": "Java",
     "stars": "493",
     "created": "2024-04-14T21:08:14Z",
-    "last_update": "2025-05-23T16:53:54Z"
+    "last_update": "2025-05-23T16:53:54Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/moditect/jfr-analytics",
@@ -181,7 +247,10 @@
     "language": "Java",
     "stars": "135",
     "created": "2021-12-23T16:35:59Z",
-    "last_update": "2025-05-18T16:02:07Z"
+    "last_update": "2025-05-18T16:02:07Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cdimascio/dotenv-java",
@@ -189,7 +258,10 @@
     "language": "Java",
     "stars": "558",
     "created": "2020-09-19T03:24:43Z",
-    "last_update": "2025-05-24T21:06:48Z"
+    "last_update": "2025-05-24T21:06:48Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/iproduct/reactive-demos-java-9",
@@ -197,7 +269,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2017-06-01T18:06:21Z",
-    "last_update": "2025-04-29T21:08:26Z"
+    "last_update": "2025-04-29T21:08:26Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/martinlippert/spring-io-api-mcp",
@@ -205,7 +280,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2025-01-22T20:39:09Z",
-    "last_update": "2025-05-23T09:55:53Z"
+    "last_update": "2025-05-23T09:55:53Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/petrbouda/jeffrey",
@@ -213,7 +291,10 @@
     "language": "Java",
     "stars": "55",
     "created": "2023-12-12T21:40:14Z",
-    "last_update": "2025-05-24T10:24:01Z"
+    "last_update": "2025-05-24T10:24:01Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/petrbouda/jeffrey-testapp",
@@ -221,7 +302,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2024-04-17T20:05:51Z",
-    "last_update": "2025-04-26T18:18:49Z"
+    "last_update": "2025-04-26T18:18:49Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lawrenceching/jfr-flamegraph-generator",
@@ -229,7 +313,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2022-09-14T03:27:58Z",
-    "last_update": "2025-04-23T13:01:37Z"
+    "last_update": "2025-04-23T13:01:37Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ravn/FlameGraphJavaFlightRecorder",
@@ -237,7 +324,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-09-13T07:06:33Z",
-    "last_update": "2025-04-21T18:36:39Z"
+    "last_update": "2025-04-21T18:36:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xpbob/jfr-flame-graph",
@@ -245,7 +335,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2020-08-08T08:06:44Z",
-    "last_update": "2025-04-21T18:35:30Z"
+    "last_update": "2025-04-21T18:35:30Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/FizzPu/FlameGraph",
@@ -253,7 +346,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2024-08-19T09:33:29Z",
-    "last_update": "2025-04-21T18:34:34Z"
+    "last_update": "2025-04-21T18:34:34Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LizeRaes/docker-model-runner-langchain4j",
@@ -261,7 +357,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2025-03-31T21:30:19Z",
-    "last_update": "2025-04-21T00:54:30Z"
+    "last_update": "2025-04-21T00:54:30Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/perla2000/EJB",
@@ -269,7 +368,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-03-27T12:09:39Z",
-    "last_update": "2025-04-20T23:47:37Z"
+    "last_update": "2025-04-20T23:47:37Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jbangdev/jbang-jash",
@@ -277,7 +379,10 @@
     "language": "Java",
     "stars": "112",
     "created": "2025-04-18T08:52:41Z",
-    "last_update": "2025-05-23T09:28:49Z"
+    "last_update": "2025-05-23T09:28:49Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pmarshall111/Bet365-place-bet",
@@ -285,7 +390,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2020-06-14T08:49:20Z",
-    "last_update": "2025-04-17T23:37:38Z"
+    "last_update": "2025-04-17T23:37:38Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/cronet-transport-for-okhttp",
@@ -293,7 +401,10 @@
     "language": "Java",
     "stars": "501",
     "created": "2022-03-10T15:52:24Z",
-    "last_update": "2025-05-20T08:07:03Z"
+    "last_update": "2025-05-20T08:07:03Z",
+    "category": "Database & ORM",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/FanyCastro/productsAPI",
@@ -301,7 +412,10 @@
     "language": "Kotlin",
     "stars": "1",
     "created": "2025-04-08T13:14:31Z",
-    "last_update": "2025-04-23T14:01:04Z"
+    "last_update": "2025-04-23T14:01:04Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/codeboyzhou/mcp-java-sdk-examples",
@@ -309,7 +423,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2025-03-28T15:55:06Z",
-    "last_update": "2025-05-21T09:41:41Z"
+    "last_update": "2025-05-21T09:41:41Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vdurmont/semver4j",
@@ -317,7 +434,10 @@
     "language": "Java",
     "stars": "246",
     "created": "2015-04-27T21:16:11Z",
-    "last_update": "2025-05-15T04:18:07Z"
+    "last_update": "2025-05-15T04:18:07Z",
+    "category": "Language Features & Experiments",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/phax/airhacks",
@@ -325,7 +445,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-12-05T08:29:24Z",
-    "last_update": "2025-04-09T13:24:45Z"
+    "last_update": "2025-04-09T13:24:45Z",
+    "category": "Networking & Communication",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jesuino/code-converter",
@@ -333,7 +456,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-09-04T20:07:04Z",
-    "last_update": "2025-04-09T13:24:12Z"
+    "last_update": "2025-04-09T13:24:12Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sshaaf/keycloak-mcp-server",
@@ -341,7 +467,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-04-02T16:40:25Z",
-    "last_update": "2025-05-05T20:25:02Z"
+    "last_update": "2025-05-05T20:25:02Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/birariro/agoda-review-mcp",
@@ -349,7 +478,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2025-04-03T02:42:04Z",
-    "last_update": "2025-04-16T08:37:29Z"
+    "last_update": "2025-04-16T08:37:29Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thegreystone/problematic-web-app",
@@ -357,7 +489,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2018-08-28T20:26:14Z",
-    "last_update": "2025-04-08T03:02:04Z"
+    "last_update": "2025-04-08T03:02:04Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thegreystone/java-memoryleaks",
@@ -365,7 +500,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-01-21T11:54:49Z",
-    "last_update": "2025-04-20T21:39:23Z"
+    "last_update": "2025-04-20T21:39:23Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/patric-r/jvmtop",
@@ -373,7 +511,10 @@
     "language": "Java",
     "stars": "1231",
     "created": "2015-07-14T12:58:49Z",
-    "last_update": "2025-04-08T02:40:32Z"
+    "last_update": "2025-04-08T02:40:32Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/delei/mcp-server-database-jdbc",
@@ -381,7 +522,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2025-03-19T04:34:12Z",
-    "last_update": "2025-04-21T06:20:31Z"
+    "last_update": "2025-04-21T06:20:31Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dakone22/mcp-csv-xls-server",
@@ -389,7 +533,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-03-06T15:00:45Z",
-    "last_update": "2025-04-06T23:55:38Z"
+    "last_update": "2025-04-06T23:55:38Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/micronaut-projects/micronaut-micrometer",
@@ -397,7 +544,10 @@
     "language": "Java",
     "stars": "37",
     "created": "2019-01-15T14:49:55Z",
-    "last_update": "2025-05-23T00:35:41Z"
+    "last_update": "2025-05-23T00:35:41Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/khmarbaise/maven-it-extension",
@@ -405,7 +555,10 @@
     "language": "Java",
     "stars": "91",
     "created": "2019-10-29T20:23:09Z",
-    "last_update": "2025-05-01T14:05:47Z"
+    "last_update": "2025-05-01T14:05:47Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/brunoborges/jvm-diagnostics-mcp",
@@ -413,7 +566,10 @@
     "language": "Java",
     "stars": "61",
     "created": "2025-04-04T06:36:28Z",
-    "last_update": "2025-05-14T10:01:39Z"
+    "last_update": "2025-05-14T10:01:39Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jdubois/azure-cli-mcp",
@@ -421,7 +577,10 @@
     "language": "Java",
     "stars": "67",
     "created": "2025-03-28T16:51:51Z",
-    "last_update": "2025-05-25T11:31:46Z"
+    "last_update": "2025-05-25T11:31:46Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/enofex/taikai",
@@ -429,7 +588,10 @@
     "language": "Java",
     "stars": "138",
     "created": "2024-05-31T09:56:25Z",
-    "last_update": "2025-05-22T06:11:21Z"
+    "last_update": "2025-05-22T06:11:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alexandreroman/mcp-location",
@@ -437,7 +599,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-02-25T18:21:31Z",
-    "last_update": "2025-03-26T23:01:57Z"
+    "last_update": "2025-03-26T23:01:57Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alexandreroman/mcp-chess",
@@ -445,7 +610,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2025-02-27T15:43:57Z",
-    "last_update": "2025-04-16T01:53:21Z"
+    "last_update": "2025-04-16T01:53:21Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cpage-pivotal/cloud-foundry-mcp",
@@ -453,7 +621,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2025-01-18T16:17:53Z",
-    "last_update": "2025-03-26T22:57:37Z"
+    "last_update": "2025-03-26T22:57:37Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/micronaut-projects/micronaut-sourcegen",
@@ -461,7 +632,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2023-10-10T09:43:08Z",
-    "last_update": "2025-05-22T00:48:35Z"
+    "last_update": "2025-05-22T00:48:35Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/structurizr/onpremises",
@@ -469,7 +643,10 @@
     "language": "Java",
     "stars": "176",
     "created": "2022-09-04T09:31:24Z",
-    "last_update": "2025-05-22T20:11:07Z"
+    "last_update": "2025-05-22T20:11:07Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Col-E/Recaf",
@@ -477,7 +654,10 @@
     "language": "Java",
     "stars": "6425",
     "created": "2017-07-27T06:01:10Z",
-    "last_update": "2025-05-24T12:37:59Z"
+    "last_update": "2025-05-24T12:37:59Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mthmulders/mcs",
@@ -485,7 +665,10 @@
     "language": "Java",
     "stars": "188",
     "created": "2021-09-27T19:33:37Z",
-    "last_update": "2025-05-23T08:46:52Z"
+    "last_update": "2025-05-23T08:46:52Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/refactorfirst/RefactorFirst",
@@ -493,7 +676,10 @@
     "language": "Java",
     "stars": "488",
     "created": "2020-10-01T13:48:21Z",
-    "last_update": "2025-04-30T06:24:22Z"
+    "last_update": "2025-04-30T06:24:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/danvega/spring-ai-workshop",
@@ -501,7 +687,10 @@
     "language": "Java",
     "stars": "80",
     "created": "2024-06-19T12:40:54Z",
-    "last_update": "2025-05-17T14:52:00Z"
+    "last_update": "2025-05-17T14:52:00Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/labsai/EDDI",
@@ -509,7 +698,10 @@
     "language": "Java",
     "stars": "273",
     "created": "2016-10-13T13:29:22Z",
-    "last_update": "2025-05-19T11:19:38Z"
+    "last_update": "2025-05-19T11:19:38Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/brettwooldridge/NuProcess",
@@ -517,7 +709,10 @@
     "language": "Java",
     "stars": "729",
     "created": "2013-08-07T07:50:14Z",
-    "last_update": "2025-05-20T14:54:43Z"
+    "last_update": "2025-05-20T14:54:43Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xstefank/quarkus-in-action",
@@ -525,7 +720,10 @@
     "language": "Java",
     "stars": "73",
     "created": "2022-01-14T13:40:27Z",
-    "last_update": "2025-05-21T20:44:55Z"
+    "last_update": "2025-05-21T20:44:55Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkusio/quarkus-workshop-langchain4j",
@@ -533,7 +731,10 @@
     "language": "Java",
     "stars": "40",
     "created": "2024-06-19T07:15:39Z",
-    "last_update": "2025-05-21T17:43:18Z"
+    "last_update": "2025-05-21T17:43:18Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/trustin/os-maven-plugin",
@@ -541,7 +742,10 @@
     "language": "Java",
     "stars": "307",
     "created": "2014-04-30T09:32:24Z",
-    "last_update": "2025-04-20T12:48:51Z"
+    "last_update": "2025-04-20T12:48:51Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tjake/Jlama",
@@ -549,7 +753,10 @@
     "language": "Java",
     "stars": "1078",
     "created": "2023-07-31T03:15:38Z",
-    "last_update": "2025-05-25T06:18:26Z"
+    "last_update": "2025-05-25T06:18:26Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mariofusco/site-summarizer",
@@ -557,7 +764,10 @@
     "language": "Java",
     "stars": "26",
     "created": "2024-11-28T11:11:00Z",
-    "last_update": "2025-05-14T01:00:16Z"
+    "last_update": "2025-05-14T01:00:16Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkiverse/quarkus-langchain4j",
@@ -565,7 +775,10 @@
     "language": "Java",
     "stars": "208",
     "created": "2023-11-13T09:10:27Z",
-    "last_update": "2025-05-23T01:38:39Z"
+    "last_update": "2025-05-23T01:38:39Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/jbang-mcp-examples",
@@ -573,7 +786,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-03-09T11:47:46Z",
-    "last_update": "2025-04-03T19:49:24Z"
+    "last_update": "2025-04-03T19:49:24Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/theronic/modex",
@@ -581,7 +797,10 @@
     "language": "Clojure",
     "stars": "90",
     "created": "2025-03-05T09:16:40Z",
-    "last_update": "2025-05-23T01:30:21Z"
+    "last_update": "2025-05-23T01:30:21Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sdeleuze/jspecify-nullway-demo",
@@ -589,7 +808,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2025-03-07T13:38:47Z",
-    "last_update": "2025-04-10T08:01:07Z"
+    "last_update": "2025-04-10T08:01:07Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkiverse/quarkus-mcp-servers",
@@ -597,7 +819,10 @@
     "language": "Java",
     "stars": "127",
     "created": "2025-01-22T15:10:05Z",
-    "last_update": "2025-05-24T14:06:07Z"
+    "last_update": "2025-05-24T14:06:07Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kdhrubo/ai-agents",
@@ -605,7 +830,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-12-30T04:55:03Z",
-    "last_update": "2025-03-08T09:49:44Z"
+    "last_update": "2025-03-08T09:49:44Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LostInBrittany/langchain4j-for-tools-and-mcp-demo",
@@ -613,7 +841,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2025-03-05T10:15:13Z",
-    "last_update": "2025-05-22T09:19:29Z"
+    "last_update": "2025-05-22T09:19:29Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arafkarsh/ms-springboot-vanilla",
@@ -621,7 +852,10 @@
     "language": "Java",
     "stars": "48",
     "created": "2024-10-01T05:24:39Z",
-    "last_update": "2025-05-09T20:46:51Z"
+    "last_update": "2025-05-09T20:46:51Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/spring-boot-integration-testing",
@@ -629,7 +863,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-02-05T14:04:14Z",
-    "last_update": "2025-03-18T10:26:48Z"
+    "last_update": "2025-03-18T10:26:48Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kousen/mockitobook",
@@ -637,7 +874,10 @@
     "language": "Java",
     "stars": "38",
     "created": "2021-12-10T02:07:14Z",
-    "last_update": "2025-03-17T14:32:40Z"
+    "last_update": "2025-03-17T14:32:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kousen/junit5_workshop",
@@ -645,7 +885,10 @@
     "language": "Java",
     "stars": "127",
     "created": "2018-05-14T06:29:40Z",
-    "last_update": "2025-05-23T14:32:37Z"
+    "last_update": "2025-05-23T14:32:37Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dspinellis/UMLGraph",
@@ -653,7 +896,10 @@
     "language": "Java",
     "stars": "349",
     "created": "2012-04-25T08:44:21Z",
-    "last_update": "2025-05-24T21:38:53Z"
+    "last_update": "2025-05-24T21:38:53Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/setup-cli",
@@ -661,7 +907,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-02-07T07:53:55Z",
-    "last_update": "2025-05-15T11:57:45Z"
+    "last_update": "2025-05-15T11:57:45Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/jbang-catalog",
@@ -669,7 +918,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-03-25T10:01:38Z",
-    "last_update": "2025-05-13T17:24:50Z"
+    "last_update": "2025-05-13T17:24:50Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/chicio/Custom-Jackson-Module",
@@ -677,7 +929,10 @@
     "language": "Kotlin",
     "stars": "3",
     "created": "2022-03-11T11:02:06Z",
-    "last_update": "2025-02-26T21:28:55Z"
+    "last_update": "2025-02-26T21:28:55Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mikemybytes/jfr-thread-pinning-spring-boot",
@@ -685,7 +940,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-04-16T19:50:47Z",
-    "last_update": "2025-02-27T15:12:08Z"
+    "last_update": "2025-02-27T15:12:08Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mikemybytes/kafka-training",
@@ -693,7 +951,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2022-03-25T20:19:47Z",
-    "last_update": "2025-02-27T09:17:38Z"
+    "last_update": "2025-02-27T09:17:38Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/perkss/clojure-kafka-examples",
@@ -701,7 +962,10 @@
     "language": "Clojure",
     "stars": "85",
     "created": "2018-03-10T22:48:17Z",
-    "last_update": "2025-04-25T09:58:03Z"
+    "last_update": "2025-04-25T09:58:03Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/helins/kafka.clj",
@@ -709,7 +973,10 @@
     "language": "Clojure",
     "stars": "108",
     "created": "2017-04-19T10:20:30Z",
-    "last_update": "2025-02-26T11:26:35Z"
+    "last_update": "2025-02-26T11:26:35Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LouisCAD/Splitties",
@@ -717,7 +984,10 @@
     "language": "Kotlin",
     "stars": "2564",
     "created": "2016-08-12T14:22:12Z",
-    "last_update": "2025-05-24T07:34:35Z"
+    "last_update": "2025-05-24T07:34:35Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/balkrishnarawool/vtworkshop",
@@ -725,7 +995,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-12-01T22:05:00Z",
-    "last_update": "2025-02-24T17:07:23Z"
+    "last_update": "2025-02-24T17:07:23Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/chen0040/java-dynamic-programming",
@@ -733,7 +1006,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2017-08-29T00:40:32Z",
-    "last_update": "2025-04-15T00:41:00Z"
+    "last_update": "2025-04-15T00:41:00Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lorenzodegiorgi/jackson-vulnerability",
@@ -741,7 +1017,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2021-05-03T16:28:56Z",
-    "last_update": "2025-05-22T09:27:25Z"
+    "last_update": "2025-05-22T09:27:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dgroomes/java-metaprogramming-playground",
@@ -749,7 +1028,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2021-10-25T05:27:32Z",
-    "last_update": "2025-02-18T22:14:58Z"
+    "last_update": "2025-02-18T22:14:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/balkrishnarawool/vectordb-talk",
@@ -757,7 +1039,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-12-02T00:08:55Z",
-    "last_update": "2025-04-10T14:45:25Z"
+    "last_update": "2025-04-10T14:45:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/becoming/vavr-jackson-spring",
@@ -765,7 +1050,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-06-25T18:06:52Z",
-    "last_update": "2025-02-15T07:50:53Z"
+    "last_update": "2025-02-15T07:50:53Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/francois-poirier/springai-rag-demo",
@@ -773,7 +1061,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-11-18T21:11:04Z",
-    "last_update": "2025-02-13T11:02:31Z"
+    "last_update": "2025-02-13T11:02:31Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/seregamorph/spring-test-smart-context",
@@ -781,7 +1072,10 @@
     "language": "Java",
     "stars": "94",
     "created": "2024-01-05T16:18:08Z",
-    "last_update": "2025-05-23T22:18:35Z"
+    "last_update": "2025-05-23T22:18:35Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/101-recursion",
@@ -789,7 +1083,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2025-01-31T14:59:18Z",
-    "last_update": "2025-02-05T20:10:04Z"
+    "last_update": "2025-02-05T20:10:04Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ibrahimatay/Java-Features",
@@ -797,7 +1094,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2022-05-01T11:52:03Z",
-    "last_update": "2025-03-19T18:19:58Z"
+    "last_update": "2025-03-19T18:19:58Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ahauschulte/jtco",
@@ -805,7 +1105,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-06-17T13:59:32Z",
-    "last_update": "2025-04-18T07:28:37Z"
+    "last_update": "2025-04-18T07:28:37Z",
+    "category": "Language Features & Experiments",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jonckvanderkogel/java-tail-recursion",
@@ -813,7 +1116,10 @@
     "language": "Java",
     "stars": "32",
     "created": "2018-12-14T22:35:31Z",
-    "last_update": "2025-02-02T09:25:53Z"
+    "last_update": "2025-02-02T09:25:53Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pjfanning/zio-http-example",
@@ -821,7 +1127,10 @@
     "language": "Scala",
     "stars": "1",
     "created": "2022-03-05T17:06:50Z",
-    "last_update": "2025-01-28T22:25:40Z"
+    "last_update": "2025-01-28T22:25:40Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dobrynya/zio-examples",
@@ -829,7 +1138,10 @@
     "language": "Scala",
     "stars": "1",
     "created": "2019-12-22T17:51:57Z",
-    "last_update": "2025-01-28T22:23:30Z"
+    "last_update": "2025-01-28T22:23:30Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DenisNovac/zio-flyway-db-migrator",
@@ -837,7 +1149,10 @@
     "language": "Scala",
     "stars": "3",
     "created": "2021-11-12T18:27:49Z",
-    "last_update": "2025-01-28T22:11:14Z"
+    "last_update": "2025-01-28T22:11:14Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AsyncHttpClient/async-http-client",
@@ -845,7 +1160,10 @@
     "language": "Java",
     "stars": "6352",
     "created": "2011-03-07T13:41:46Z",
-    "last_update": "2025-05-22T19:50:30Z"
+    "last_update": "2025-05-22T19:50:30Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pivovarit/more-gatherers",
@@ -853,7 +1171,10 @@
     "language": "Java",
     "stars": "35",
     "created": "2024-10-07T18:18:21Z",
-    "last_update": "2025-05-23T06:52:32Z"
+    "last_update": "2025-05-23T06:52:32Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ZenWave360/zenwave-sdk",
@@ -861,7 +1182,10 @@
     "language": "Java",
     "stars": "50",
     "created": "2022-02-01T20:41:00Z",
-    "last_update": "2025-05-13T13:04:32Z"
+    "last_update": "2025-05-13T13:04:32Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/se-tuebingen-exercises-ws24/helloworld",
@@ -869,7 +1193,10 @@
     "language": "Scala",
     "stars": "1",
     "created": "2024-10-14T14:48:56Z",
-    "last_update": "2025-01-21T13:57:28Z"
+    "last_update": "2025-01-21T13:57:28Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/pekko",
@@ -877,7 +1204,10 @@
     "language": "Scala",
     "stars": "1364",
     "created": "2022-10-31T08:40:39Z",
-    "last_update": "2025-05-25T04:48:21Z"
+    "last_update": "2025-05-25T04:48:21Z",
+    "category": "Reactive Programming",
+    "category_corrected": "Actor Model",
+    "visible": "true"
   },
   {
     "url": "https://github.com/larry-do/efast-actor-modeling",
@@ -885,7 +1215,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-11-30T23:20:39Z",
-    "last_update": "2025-01-15T05:44:01Z"
+    "last_update": "2025-01-15T05:44:01Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hadielmougy/actrix",
@@ -893,7 +1226,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-05-18T19:54:31Z",
-    "last_update": "2025-01-15T05:36:14Z"
+    "last_update": "2025-01-15T05:36:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/davidtos/virtual_thread_workshop",
@@ -901,7 +1237,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2023-11-03T21:22:19Z",
-    "last_update": "2025-02-16T21:11:46Z"
+    "last_update": "2025-02-16T21:11:46Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/davidtos/JUring",
@@ -909,7 +1248,10 @@
     "language": "Java",
     "stars": "147",
     "created": "2024-12-27T15:40:12Z",
-    "last_update": "2025-05-13T11:38:37Z"
+    "last_update": "2025-05-13T11:38:37Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkiverse/quarkus-mcp-server",
@@ -917,7 +1259,10 @@
     "language": "Java",
     "stars": "115",
     "created": "2024-12-11T12:40:16Z",
-    "last_update": "2025-05-24T00:13:49Z"
+    "last_update": "2025-05-24T00:13:49Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-ai-examples",
@@ -925,7 +1270,10 @@
     "language": "Java",
     "stars": "525",
     "created": "2024-10-18T18:43:36Z",
-    "last_update": "2025-05-25T09:03:36Z"
+    "last_update": "2025-05-25T09:03:36Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects-experimental/spring-ai-mcp",
@@ -933,7 +1281,10 @@
     "language": "Java",
     "stars": "176",
     "created": "2024-12-06T21:56:08Z",
-    "last_update": "2025-05-23T03:25:24Z"
+    "last_update": "2025-05-23T03:25:24Z",
+    "category": "MCP (Model Context Protocol)",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/iproduct/course-java-fd",
@@ -941,7 +1292,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2020-09-09T06:18:34Z",
-    "last_update": "2025-01-05T14:49:45Z"
+    "last_update": "2025-01-05T14:49:45Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MWProgrammers/Java-I-O",
@@ -949,7 +1303,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2017-10-30T12:47:51Z",
-    "last_update": "2025-01-04T01:26:29Z"
+    "last_update": "2025-01-04T01:26:29Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dtabys/Colossal-Cave-Adventure",
@@ -957,7 +1314,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2019-03-07T07:01:08Z",
-    "last_update": "2025-01-03T16:55:32Z"
+    "last_update": "2025-01-03T16:55:32Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dys27/Colossal-Cave-Adventure-Game",
@@ -965,7 +1325,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2019-01-20T19:07:16Z",
-    "last_update": "2025-01-03T16:50:24Z"
+    "last_update": "2025-01-03T16:50:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/chriskiehl/Data-Oriented-Programming-In-Java-Book",
@@ -973,7 +1336,10 @@
     "language": "Java",
     "stars": "49",
     "created": "2024-09-07T05:16:30Z",
-    "last_update": "2025-03-28T18:09:46Z"
+    "last_update": "2025-03-28T18:09:46Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sormuras/junit5-looming",
@@ -981,7 +1347,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2019-08-12T15:15:56Z",
-    "last_update": "2024-12-29T09:04:36Z"
+    "last_update": "2024-12-29T09:04:36Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hugoduncan/criterium",
@@ -989,7 +1358,10 @@
     "language": "Clojure",
     "stars": "1206",
     "created": "2009-12-16T15:40:35Z",
-    "last_update": "2025-05-16T14:54:51Z"
+    "last_update": "2025-05-16T14:54:51Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/mug",
@@ -997,7 +1369,10 @@
     "language": "Java",
     "stars": "391",
     "created": "2017-02-14T17:01:43Z",
-    "last_update": "2025-05-24T10:16:50Z"
+    "last_update": "2025-05-24T10:16:50Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Rc-Cookie/advent-of-code-utils",
@@ -1005,7 +1380,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-12-12T10:37:09Z",
-    "last_update": "2024-12-14T23:13:47Z"
+    "last_update": "2024-12-14T23:13:47Z",
+    "category": "Utilities & Libraries",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zaw4rud0/aoc-utils-java",
@@ -1013,7 +1391,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-11-29T18:06:40Z",
-    "last_update": "2024-12-14T23:13:41Z"
+    "last_update": "2024-12-14T23:13:41Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fraktalio/fmodel-java",
@@ -1021,7 +1402,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2022-12-28T14:57:11Z",
-    "last_update": "2024-12-17T20:42:39Z"
+    "last_update": "2024-12-17T20:42:39Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nbargovic/kafka-connect-custom-transforms",
@@ -1029,7 +1413,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-10-05T17:21:13Z",
-    "last_update": "2024-12-12T13:36:22Z"
+    "last_update": "2024-12-12T13:36:22Z",
+    "category": "Database & ORM",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Verdado/kafka-connect-transforms",
@@ -1037,7 +1424,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-06-05T04:21:12Z",
-    "last_update": "2024-12-12T09:43:16Z"
+    "last_update": "2024-12-12T09:43:16Z",
+    "category": "Database & ORM",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/skopylov58/java-functional-addons",
@@ -1045,7 +1435,10 @@
     "language": "Java",
     "stars": "49",
     "created": "2020-06-22T10:19:18Z",
-    "last_update": "2025-01-16T15:44:16Z"
+    "last_update": "2025-01-16T15:44:16Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bertjan/advent-of-code-2024",
@@ -1053,7 +1446,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-12-03T05:46:01Z",
-    "last_update": "2024-12-15T12:02:15Z"
+    "last_update": "2024-12-15T12:02:15Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dpaukov/combinatoricslib3",
@@ -1061,7 +1457,10 @@
     "language": "Java",
     "stars": "185",
     "created": "2016-01-18T08:07:15Z",
-    "last_update": "2025-03-12T16:45:02Z"
+    "last_update": "2025-03-12T16:45:02Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/juancnuno/adventofcode",
@@ -1069,7 +1468,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-11-26T18:40:52Z",
-    "last_update": "2024-11-30T08:37:13Z"
+    "last_update": "2024-11-30T08:37:13Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/advent-of-code",
@@ -1077,7 +1479,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-11-29T17:37:24Z",
-    "last_update": "2025-01-05T16:59:19Z"
+    "last_update": "2025-01-05T16:59:19Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2017",
@@ -1085,7 +1490,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-09-01T07:23:30Z",
-    "last_update": "2024-11-30T00:25:32Z"
+    "last_update": "2024-11-30T00:25:32Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2015",
@@ -1093,7 +1501,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-02-02T07:47:13Z",
-    "last_update": "2024-11-30T00:25:30Z"
+    "last_update": "2024-11-30T00:25:30Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2016",
@@ -1101,7 +1512,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-03-09T22:00:18Z",
-    "last_update": "2024-11-30T00:25:29Z"
+    "last_update": "2024-11-30T00:25:29Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2018",
@@ -1109,7 +1523,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-09-13T16:54:20Z",
-    "last_update": "2024-11-30T00:25:28Z"
+    "last_update": "2024-11-30T00:25:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2020",
@@ -1117,7 +1534,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-11-29T10:11:59Z",
-    "last_update": "2024-11-30T00:25:27Z"
+    "last_update": "2024-11-30T00:25:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2021",
@@ -1125,7 +1545,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2021-12-01T04:56:46Z",
-    "last_update": "2024-11-30T00:25:25Z"
+    "last_update": "2024-11-30T00:25:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2019",
@@ -1133,7 +1556,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2019-12-17T03:53:07Z",
-    "last_update": "2024-11-30T00:25:23Z"
+    "last_update": "2024-11-30T00:25:23Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/advent-of-code-2023",
@@ -1141,7 +1567,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2023-12-03T17:56:17Z",
-    "last_update": "2024-12-07T18:55:47Z"
+    "last_update": "2024-12-07T18:55:47Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/OpenHFT/Chronicle-Core",
@@ -1149,7 +1578,10 @@
     "language": "Java",
     "stars": "603",
     "created": "2015-02-24T13:42:22Z",
-    "last_update": "2025-05-22T13:16:34Z"
+    "last_update": "2025-05-22T13:16:34Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zakgof/java-native-benchmark",
@@ -1157,7 +1589,10 @@
     "language": "Java",
     "stars": "118",
     "created": "2019-05-08T16:08:12Z",
-    "last_update": "2025-04-22T14:18:43Z"
+    "last_update": "2025-04-22T14:18:43Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zakgof/actr",
@@ -1165,7 +1600,10 @@
     "language": "Java",
     "stars": "121",
     "created": "2019-03-11T10:04:08Z",
-    "last_update": "2025-02-25T18:36:44Z"
+    "last_update": "2025-02-25T18:36:44Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/niezhiliang/maven-nexus-docker",
@@ -1173,7 +1611,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2018-11-30T02:43:11Z",
-    "last_update": "2024-11-18T22:30:57Z"
+    "last_update": "2024-11-18T22:30:57Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fabriciorby/maven-surefire-junit5-tree-reporter",
@@ -1181,7 +1622,10 @@
     "language": "Java",
     "stars": "200",
     "created": "2020-08-26T05:10:36Z",
-    "last_update": "2025-05-24T19:34:19Z"
+    "last_update": "2025-05-24T19:34:19Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/artipie/artipie",
@@ -1189,7 +1633,10 @@
     "language": "Java",
     "stars": "577",
     "created": "2020-01-08T00:39:27Z",
-    "last_update": "2025-05-21T11:29:55Z"
+    "last_update": "2025-05-21T11:29:55Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/EffectOrientedProgramming/examples",
@@ -1197,7 +1644,10 @@
     "language": "Scala",
     "stars": "20",
     "created": "2024-04-16T23:04:03Z",
-    "last_update": "2025-04-19T11:20:52Z"
+    "last_update": "2025-04-19T11:20:52Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mukel/llama3.java",
@@ -1205,7 +1655,10 @@
     "language": "Java",
     "stars": "724",
     "created": "2024-04-25T09:09:02Z",
-    "last_update": "2025-05-23T11:32:14Z"
+    "last_update": "2025-05-23T11:32:14Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/softwaremill/jox",
@@ -1213,7 +1666,10 @@
     "language": "Java",
     "stars": "325",
     "created": "2023-11-08T12:58:16Z",
-    "last_update": "2025-05-23T08:48:38Z"
+    "last_update": "2025-05-23T08:48:38Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/simplyi/testing-kafka-ebook",
@@ -1221,7 +1677,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-04-28T20:52:55Z",
-    "last_update": "2024-10-13T16:12:40Z"
+    "last_update": "2024-10-13T16:12:40Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kordamp/pomchecker",
@@ -1229,7 +1688,10 @@
     "language": "Java",
     "stars": "65",
     "created": "2020-05-03T16:37:09Z",
-    "last_update": "2024-10-23T08:46:21Z"
+    "last_update": "2024-10-23T08:46:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ekoutanov/effectivekafka",
@@ -1237,7 +1699,10 @@
     "language": "Java",
     "stars": "52",
     "created": "2019-12-18T01:02:09Z",
-    "last_update": "2025-01-25T14:56:03Z"
+    "last_update": "2025-01-25T14:56:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/raphw/asm-jdk-bridge",
@@ -1245,7 +1710,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2022-06-30T08:59:53Z",
-    "last_update": "2025-05-15T08:32:05Z"
+    "last_update": "2025-05-15T08:32:05Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/foojayio/discoapi",
@@ -1253,7 +1721,10 @@
     "language": "Java",
     "stars": "131",
     "created": "2020-12-17T12:33:40Z",
-    "last_update": "2025-05-15T06:22:42Z"
+    "last_update": "2025-05-15T06:22:42Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/wakingrufus/spring-funk",
@@ -1261,7 +1732,10 @@
     "language": "Kotlin",
     "stars": "49",
     "created": "2024-04-16T14:58:06Z",
-    "last_update": "2025-05-04T11:00:24Z"
+    "last_update": "2025-05-04T11:00:24Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ascopes/java-compiler-testing",
@@ -1269,7 +1743,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2022-03-26T15:53:36Z",
-    "last_update": "2025-05-13T07:08:56Z"
+    "last_update": "2025-05-13T07:08:56Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jspecify/jspecify-reference-checker",
@@ -1277,7 +1754,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2023-04-25T14:05:00Z",
-    "last_update": "2025-01-08T11:37:48Z"
+    "last_update": "2025-01-08T11:37:48Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/purbon/kafka-katas",
@@ -1285,7 +1765,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2020-09-16T15:23:31Z",
-    "last_update": "2024-07-16T21:36:55Z"
+    "last_update": "2024-07-16T21:36:55Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/joannavarrete/kafka-streams-katas",
@@ -1293,7 +1776,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2023-01-15T15:58:11Z",
-    "last_update": "2024-07-16T21:36:48Z"
+    "last_update": "2024-07-16T21:36:48Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microcks/microcks-testcontainers-java-spring-demo",
@@ -1301,7 +1787,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2024-01-29T14:01:13Z",
-    "last_update": "2025-05-15T19:36:26Z"
+    "last_update": "2025-05-15T19:36:26Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/amllado/spring-boot-testcontainers-kafka-jmh",
@@ -1309,7 +1798,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-04-08T11:58:53Z",
-    "last_update": "2024-07-09T17:33:34Z"
+    "last_update": "2024-07-09T17:33:34Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/TNG/java-virtual-thread-benchmark",
@@ -1317,7 +1809,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-03-18T17:26:31Z",
-    "last_update": "2024-07-06T13:26:11Z"
+    "last_update": "2024-07-06T13:26:11Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/c-guntur/paneer-tikka-masala",
@@ -1325,7 +1820,10 @@
     "language": "Java",
     "stars": "25",
     "created": "2021-01-05T23:50:04Z",
-    "last_update": "2024-07-04T21:27:58Z"
+    "last_update": "2024-07-04T21:27:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/balkrishnarawool/fpinjava",
@@ -1333,7 +1831,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-05-17T09:54:05Z",
-    "last_update": "2024-06-28T18:06:20Z"
+    "last_update": "2024-06-28T18:06:20Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/balkrishnarawool/continuations",
@@ -1341,7 +1842,10 @@
     "language": "Java",
     "stars": "58",
     "created": "2023-11-26T13:42:06Z",
-    "last_update": "2025-05-20T17:18:50Z"
+    "last_update": "2025-05-20T17:18:50Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eventuate-tram/eventuate-tram-core",
@@ -1349,7 +1853,10 @@
     "language": "Java",
     "stars": "1089",
     "created": "2017-07-29T04:50:55Z",
-    "last_update": "2025-05-21T20:03:06Z"
+    "last_update": "2025-05-21T20:03:06Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/carloshh/poc-architecture-spring-data-jdbc",
@@ -1357,7 +1864,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2021-06-24T12:52:44Z",
-    "last_update": "2024-06-26T17:10:03Z"
+    "last_update": "2024-06-26T17:10:03Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xebia-functional/Unwrapped",
@@ -1365,7 +1875,10 @@
     "language": "Scala",
     "stars": "37",
     "created": "2021-11-11T09:38:27Z",
-    "last_update": "2024-10-02T14:46:56Z"
+    "last_update": "2024-10-02T14:46:56Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/benweidig/a-functional-approach-to-java",
@@ -1373,7 +1886,10 @@
     "language": "Java",
     "stars": "48",
     "created": "2023-02-03T16:39:21Z",
-    "last_update": "2025-04-30T14:35:32Z"
+    "last_update": "2025-04-30T14:35:32Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xyzsd/dichotomy",
@@ -1381,7 +1897,10 @@
     "language": "Java",
     "stars": "37",
     "created": "2022-06-07T17:45:02Z",
-    "last_update": "2025-05-17T15:08:25Z"
+    "last_update": "2025-05-17T15:08:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/typed-errors",
@@ -1389,7 +1908,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-06-09T19:05:18Z",
-    "last_update": "2024-06-27T20:26:15Z"
+    "last_update": "2024-06-27T20:26:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/uber/NullAway",
@@ -1397,7 +1919,10 @@
     "language": "Java",
     "stars": "3750",
     "created": "2017-09-01T17:35:57Z",
-    "last_update": "2025-05-24T10:55:18Z"
+    "last_update": "2025-05-24T10:55:18Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mariofusco/javaz",
@@ -1405,7 +1930,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2013-01-15T20:54:37Z",
-    "last_update": "2024-11-14T03:16:36Z"
+    "last_update": "2024-11-14T03:16:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rcardin/raise4s",
@@ -1413,7 +1941,10 @@
     "language": "Scala",
     "stars": "63",
     "created": "2024-04-08T19:25:13Z",
-    "last_update": "2025-03-27T06:31:20Z"
+    "last_update": "2025-03-27T06:31:20Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/julia-suarez-deel/compiler",
@@ -1421,7 +1952,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2018-09-08T00:56:39Z",
-    "last_update": "2024-05-31T21:53:52Z"
+    "last_update": "2024-05-31T21:53:52Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/axeldlv/microservices-patterns",
@@ -1429,7 +1963,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2024-04-08T06:36:30Z",
-    "last_update": "2024-08-05T19:55:55Z"
+    "last_update": "2024-08-05T19:55:55Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sw-code/swcode-samples",
@@ -1437,7 +1974,10 @@
     "language": "Kotlin",
     "stars": "3",
     "created": "2023-07-24T17:17:27Z",
-    "last_update": "2024-12-28T06:56:09Z"
+    "last_update": "2024-12-28T06:56:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gruelbox/transaction-outbox",
@@ -1445,7 +1985,10 @@
     "language": "Java",
     "stars": "261",
     "created": "2020-03-15T15:03:05Z",
-    "last_update": "2025-05-24T22:02:24Z"
+    "last_update": "2025-05-24T22:02:24Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spapadop/flinkProcessor",
@@ -1453,7 +1996,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2019-11-10T14:05:07Z",
-    "last_update": "2024-05-28T23:21:06Z"
+    "last_update": "2024-05-28T23:21:06Z",
+    "category": "Database & ORM",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ottalk/kafka-streams-processing",
@@ -1461,7 +2007,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-03-20T08:16:49Z",
-    "last_update": "2024-05-28T23:20:55Z"
+    "last_update": "2024-05-28T23:20:55Z",
+    "category": "Database & ORM",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ivangfr/springboot-kafka-connect-jdbc-streams",
@@ -1469,7 +2018,10 @@
     "language": "Java",
     "stars": "114",
     "created": "2019-01-12T13:51:21Z",
-    "last_update": "2025-05-20T03:03:36Z"
+    "last_update": "2025-05-20T03:03:36Z",
+    "category": "Database & ORM",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/memory-mapper",
@@ -1477,7 +2029,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-04-20T10:50:51Z",
-    "last_update": "2024-08-28T14:12:33Z"
+    "last_update": "2024-08-28T14:12:33Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/softwaremill/ox",
@@ -1485,7 +2040,10 @@
     "language": "Scala",
     "stars": "439",
     "created": "2023-01-18T14:28:30Z",
-    "last_update": "2025-05-25T00:28:15Z"
+    "last_update": "2025-05-25T00:28:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/SvenWoltmann/structured-concurrency",
@@ -1493,7 +2051,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2023-09-14T17:47:47Z",
-    "last_update": "2025-03-06T02:31:54Z"
+    "last_update": "2025-03-06T02:31:54Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eager-zh/mdc-scoped-value",
@@ -1501,7 +2062,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-03-17T14:58:19Z",
-    "last_update": "2025-04-17T09:23:15Z"
+    "last_update": "2025-04-17T09:23:15Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pivovarit/throwing-function",
@@ -1509,7 +2073,10 @@
     "language": "Java",
     "stars": "384",
     "created": "2015-11-27T08:16:59Z",
-    "last_update": "2025-05-25T05:11:29Z"
+    "last_update": "2025-05-25T05:11:29Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fpinjava/fpinjava",
@@ -1517,7 +2084,10 @@
     "language": "Java",
     "stars": "366",
     "created": "2015-01-31T08:03:00Z",
-    "last_update": "2025-05-19T15:50:12Z"
+    "last_update": "2025-05-19T15:50:12Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fjellsoftware/javafunctionalutils",
@@ -1525,7 +2095,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2023-10-28T14:13:13Z",
-    "last_update": "2024-06-07T12:59:00Z"
+    "last_update": "2024-06-07T12:59:00Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rucek/functional-java",
@@ -1533,7 +2106,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2022-06-18T21:30:45Z",
-    "last_update": "2024-09-04T10:48:17Z"
+    "last_update": "2024-09-04T10:48:17Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DanaCramer/FunctionalProgramming",
@@ -1541,7 +2117,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-05-13T19:54:11Z",
-    "last_update": "2024-11-03T19:09:36Z"
+    "last_update": "2024-11-03T19:09:36Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DhruvJawalkar/OCPJavaSE17Dev",
@@ -1549,7 +2128,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-04-28T22:49:05Z",
-    "last_update": "2024-08-15T21:05:54Z"
+    "last_update": "2024-08-15T21:05:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/adolfoiglesias/lambda-examples",
@@ -1557,7 +2139,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-08-25T18:55:07Z",
-    "last_update": "2024-05-20T22:51:38Z"
+    "last_update": "2024-05-20T22:51:38Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/we_are_all_to_gather",
@@ -1565,7 +2150,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-01-13T08:37:08Z",
-    "last_update": "2025-05-24T21:06:22Z"
+    "last_update": "2025-05-24T21:06:22Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/claudiogodoy99/SpringEventHub",
@@ -1573,7 +2161,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-05-19T03:50:51Z",
-    "last_update": "2024-05-17T14:09:00Z"
+    "last_update": "2024-05-17T14:09:00Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/frankkopp/FrankyUCIChessEngine",
@@ -1581,7 +2172,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2018-11-18T16:40:30Z",
-    "last_update": "2025-03-14T13:57:04Z"
+    "last_update": "2025-03-14T13:57:04Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fluxroot/pulse",
@@ -1589,7 +2183,10 @@
     "language": "Java",
     "stars": "50",
     "created": "2013-06-28T18:52:06Z",
-    "last_update": "2025-03-14T13:57:28Z"
+    "last_update": "2025-03-14T13:57:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fluxroot/jcpi",
@@ -1597,7 +2194,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2012-01-05T13:26:16Z",
-    "last_update": "2024-07-10T18:56:46Z"
+    "last_update": "2024-07-10T18:56:46Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nomemory/neat-chess",
@@ -1605,7 +2205,10 @@
     "language": "Java",
     "stars": "36",
     "created": "2021-04-02T16:25:50Z",
-    "last_update": "2025-04-30T17:19:47Z"
+    "last_update": "2025-04-30T17:19:47Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/senyast4745/Stockfish-Java",
@@ -1613,7 +2216,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2019-11-22T14:19:50Z",
-    "last_update": "2024-12-05T07:41:15Z"
+    "last_update": "2024-12-05T07:41:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jhalterman/typetools",
@@ -1621,7 +2227,10 @@
     "language": "Java",
     "stars": "631",
     "created": "2010-10-24T07:11:54Z",
-    "last_update": "2025-05-04T03:53:12Z"
+    "last_update": "2025-05-04T03:53:12Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alibaba/transmittable-thread-local",
@@ -1629,7 +2238,10 @@
     "language": "Java",
     "stars": "7986",
     "created": "2013-10-13T08:48:33Z",
-    "last_update": "2025-05-23T13:06:44Z"
+    "last_update": "2025-05-23T13:06:44Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/1123/Kafka-Parallel-Consumer-Sample-Service",
@@ -1637,7 +2249,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2023-01-30T12:34:23Z",
-    "last_update": "2024-05-01T14:07:35Z"
+    "last_update": "2024-05-01T14:07:35Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/algorythmist/cdc-debezium-kafka",
@@ -1645,7 +2260,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-04-02T13:40:32Z",
-    "last_update": "2024-11-14T16:39:21Z"
+    "last_update": "2024-11-14T16:39:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/framiere/a-kafka-story",
@@ -1653,7 +2271,10 @@
     "language": "Java",
     "stars": "166",
     "created": "2018-01-01T23:55:28Z",
-    "last_update": "2025-04-27T19:49:13Z"
+    "last_update": "2025-04-27T19:49:13Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/demaryhuerto/poc-spring-mvc",
@@ -1661,7 +2282,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-04-19T23:20:05Z",
-    "last_update": "2024-06-24T12:28:16Z"
+    "last_update": "2024-06-24T12:28:16Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/demaryhuerto/poc-spring-webflux",
@@ -1669,7 +2293,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2024-04-19T23:23:22Z",
-    "last_update": "2024-06-24T12:28:08Z"
+    "last_update": "2024-06-24T12:28:08Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lydtechconsulting/kafka-connect-debezium-postgres",
@@ -1677,7 +2304,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2023-03-30T16:40:58Z",
-    "last_update": "2024-08-15T14:18:46Z"
+    "last_update": "2024-08-15T14:18:46Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Mesut-Doner/kafka-debezium-cdc",
@@ -1685,7 +2315,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-01-28T15:03:13Z",
-    "last_update": "2024-04-19T14:14:10Z"
+    "last_update": "2024-04-19T14:14:10Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sawankarn/spring-boot-debezium-master-slave-example",
@@ -1693,7 +2326,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-02-02T17:38:44Z",
-    "last_update": "2025-04-22T06:37:17Z"
+    "last_update": "2025-04-22T06:37:17Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/SpringBootCourses/cqrs-banking-app",
@@ -1701,7 +2337,10 @@
     "language": "Java",
     "stars": "32",
     "created": "2024-02-07T07:01:48Z",
-    "last_update": "2025-05-17T05:12:55Z"
+    "last_update": "2025-05-17T05:12:55Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ivangfr/springboot-kafka-connect-debezium-ksqldb",
@@ -1709,7 +2348,10 @@
     "language": "Java",
     "stars": "84",
     "created": "2019-01-27T18:22:40Z",
-    "last_update": "2025-04-23T19:18:24Z"
+    "last_update": "2025-04-23T19:18:24Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stockgeeks/kafka-handle-client-error",
@@ -1717,7 +2359,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2018-12-27T09:10:24Z",
-    "last_update": "2024-04-13T18:13:42Z"
+    "last_update": "2024-04-13T18:13:42Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mroiter-larus/kafka-docker-mm2",
@@ -1725,7 +2370,10 @@
     "language": "Java",
     "stars": "11",
     "created": "2021-04-28T11:14:55Z",
-    "last_update": "2024-04-18T19:49:24Z"
+    "last_update": "2024-04-18T19:49:24Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/denglitong/inside-the-jvm",
@@ -1733,7 +2381,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-04-06T08:36:48Z",
-    "last_update": "2024-04-05T17:08:58Z"
+    "last_update": "2024-04-05T17:08:58Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-petclinic/spring-petclinic-rest",
@@ -1741,7 +2392,10 @@
     "language": "Java",
     "stars": "522",
     "created": "2016-11-18T19:08:05Z",
-    "last_update": "2025-05-19T17:18:44Z"
+    "last_update": "2025-05-19T17:18:44Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/getkyo/kyo",
@@ -1749,7 +2403,10 @@
     "language": "Scala",
     "stars": "660",
     "created": "2022-03-08T18:44:26Z",
-    "last_update": "2025-05-25T04:07:53Z"
+    "last_update": "2025-05-25T04:07:53Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openjdk/jmc",
@@ -1757,7 +2414,10 @@
     "language": "Java",
     "stars": "897",
     "created": "2019-05-15T06:39:48Z",
-    "last_update": "2025-05-25T07:28:44Z"
+    "last_update": "2025-05-25T07:28:44Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rbiedrawa/spring-kafka-handling-poison-pills",
@@ -1765,7 +2425,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2021-06-17T10:51:12Z",
-    "last_update": "2024-03-24T08:25:03Z"
+    "last_update": "2024-03-24T08:25:03Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fred-ro/kafka-poison-pills",
@@ -1773,7 +2436,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-06-02T16:38:48Z",
-    "last_update": "2024-03-24T08:20:49Z"
+    "last_update": "2024-03-24T08:20:49Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tufangorel/spring-boot-jmh-microbechmark-performance",
@@ -1781,7 +2447,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2021-09-26T14:09:25Z",
-    "last_update": "2024-03-23T22:19:15Z"
+    "last_update": "2024-03-23T22:19:15Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/patkovskyi/spring-boot-startup-flame-graph",
@@ -1789,7 +2458,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-01-06T17:22:08Z",
-    "last_update": "2024-03-23T21:03:26Z"
+    "last_update": "2024-03-23T21:03:26Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/billybong/JavaFlames",
@@ -1797,7 +2469,10 @@
     "language": "Java",
     "stars": "22",
     "created": "2021-04-30T07:07:14Z",
-    "last_update": "2024-07-03T06:47:59Z"
+    "last_update": "2024-07-03T06:47:59Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/shipilev/disrupting-fjp",
@@ -1805,7 +2480,10 @@
     "language": "Java",
     "stars": "16",
     "created": "2014-04-15T20:33:10Z",
-    "last_update": "2024-03-20T18:48:59Z"
+    "last_update": "2024-03-20T18:48:59Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/questdb/questdb",
@@ -1813,7 +2491,10 @@
     "language": "Java",
     "stars": "15235",
     "created": "2014-04-28T23:29:15Z",
-    "last_update": "2025-05-25T11:05:05Z"
+    "last_update": "2025-05-25T11:05:05Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cedric-schaller/kafka-error-handling",
@@ -1821,7 +2502,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2024-03-10T13:27:32Z",
-    "last_update": "2024-04-15T08:58:42Z"
+    "last_update": "2024-04-15T08:58:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Fundynamic/dune2themaker4j",
@@ -1829,7 +2513,10 @@
     "language": "Java",
     "stars": "62",
     "created": "2012-10-01T20:36:52Z",
-    "last_update": "2025-02-07T04:52:25Z"
+    "last_update": "2025-02-07T04:52:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/internetitem/logback-elasticsearch-appender",
@@ -1837,7 +2524,10 @@
     "language": "Java",
     "stars": "237",
     "created": "2015-04-08T13:07:13Z",
-    "last_update": "2025-03-21T09:37:25Z"
+    "last_update": "2025-03-21T09:37:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/HomeOfTheWizard/spring-bridge-maven",
@@ -1845,7 +2535,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2023-07-31T07:11:54Z",
-    "last_update": "2024-07-24T17:20:45Z"
+    "last_update": "2024-07-24T17:20:45Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dsyer/spring-boot-cheerpj-demo",
@@ -1853,7 +2546,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2024-03-06T09:41:26Z",
-    "last_update": "2025-02-14T19:52:22Z"
+    "last_update": "2025-02-14T19:52:22Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/s-u/REngine",
@@ -1861,7 +2557,10 @@
     "language": "Java",
     "stars": "67",
     "created": "2013-07-25T01:42:41Z",
-    "last_update": "2025-03-30T00:40:47Z"
+    "last_update": "2025-03-30T00:40:47Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/markpollack/spring-ai-carina-faq",
@@ -1869,7 +2568,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2023-10-16T18:33:03Z",
-    "last_update": "2024-12-13T10:45:22Z"
+    "last_update": "2024-12-13T10:45:22Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/SergeSavel/kafka-rest-proxy-java",
@@ -1877,7 +2579,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2019-07-22T18:29:16Z",
-    "last_update": "2025-02-28T17:45:13Z"
+    "last_update": "2025-02-28T17:45:13Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/autofinance/krp-springboot-example",
@@ -1885,7 +2590,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2021-02-16T10:42:04Z",
-    "last_update": "2024-02-25T14:15:41Z"
+    "last_update": "2024-02-25T14:15:41Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gabrieldim/CSV-Export-Spring-Boot",
@@ -1893,7 +2601,10 @@
     "language": "Java",
     "stars": "42",
     "created": "2021-09-27T21:17:32Z",
-    "last_update": "2024-06-13T15:42:54Z"
+    "last_update": "2024-06-13T15:42:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/maven-resolver",
@@ -1901,7 +2612,10 @@
     "language": "Java",
     "stars": "134",
     "created": "2016-09-14T07:00:07Z",
-    "last_update": "2025-05-25T02:06:19Z"
+    "last_update": "2025-05-25T02:06:19Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dwalend/ev3dev-lang-scala",
@@ -1909,7 +2623,10 @@
     "language": "Scala",
     "stars": "3",
     "created": "2023-10-23T01:53:34Z",
-    "last_update": "2024-09-19T22:36:41Z"
+    "last_update": "2024-09-19T22:36:41Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/spring-boot-and-r-language",
@@ -1917,7 +2634,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2024-02-09T14:51:19Z",
-    "last_update": "2024-02-13T21:31:38Z"
+    "last_update": "2024-02-13T21:31:38Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mgvinuesa/tutorial-opentelemetry",
@@ -1925,7 +2645,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2022-10-06T14:15:09Z",
-    "last_update": "2024-01-25T20:34:58Z"
+    "last_update": "2024-01-25T20:34:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mgvinuesa/debezium-example",
@@ -1933,7 +2656,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2022-12-07T14:59:39Z",
-    "last_update": "2024-01-25T20:33:35Z"
+    "last_update": "2024-01-25T20:33:35Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tugayesilyurt/spring-embedded-debezium-kafka-inbox-outbox-pattern",
@@ -1941,7 +2667,10 @@
     "language": "Java",
     "stars": "11",
     "created": "2023-05-05T11:43:49Z",
-    "last_update": "2024-10-18T06:35:31Z"
+    "last_update": "2024-10-18T06:35:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lydtechconsulting/kafka-idempotent-consumer",
@@ -1949,7 +2678,10 @@
     "language": "Java",
     "stars": "35",
     "created": "2022-05-24T21:48:44Z",
-    "last_update": "2025-02-15T11:36:07Z"
+    "last_update": "2025-02-15T11:36:07Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/uuhnaut69/saga-pattern-microservices",
@@ -1957,7 +2689,10 @@
     "language": "Java",
     "stars": "119",
     "created": "2021-05-28T06:50:12Z",
-    "last_update": "2025-05-24T03:58:00Z"
+    "last_update": "2025-05-24T03:58:00Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ricksbrown/cowsay",
@@ -1965,7 +2700,10 @@
     "language": "Java",
     "stars": "30",
     "created": "2015-08-14T20:08:17Z",
-    "last_update": "2024-11-11T04:09:09Z"
+    "last_update": "2024-11-11T04:09:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/yiliuTo/spring-cloud-azure-stream-binder-servicebus-sample",
@@ -1973,7 +2711,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-08-31T08:39:16Z",
-    "last_update": "2024-01-19T09:59:38Z"
+    "last_update": "2024-01-19T09:59:38Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/linkedin/cruise-control",
@@ -1981,7 +2722,10 @@
     "language": "Java",
     "stars": "2853",
     "created": "2017-08-15T17:32:10Z",
-    "last_update": "2025-05-24T06:42:25Z"
+    "last_update": "2025-05-24T06:42:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/parttimenerd/hello-ebpf",
@@ -1989,7 +2733,10 @@
     "language": "Java",
     "stars": "152",
     "created": "2023-12-01T20:24:28Z",
-    "last_update": "2025-05-25T02:33:15Z"
+    "last_update": "2025-05-25T02:33:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bmarwell/sipper",
@@ -1997,7 +2744,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2023-12-28T13:13:07Z",
-    "last_update": "2025-05-16T03:30:22Z"
+    "last_update": "2025-05-16T03:30:22Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gunnarmorling/1brc",
@@ -2005,7 +2755,10 @@
     "language": "Java",
     "stars": "6964",
     "created": "2023-12-28T09:13:24Z",
-    "last_update": "2025-05-23T21:11:24Z"
+    "last_update": "2025-05-23T21:11:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rusher/JdbcLoomPerftest",
@@ -2013,7 +2766,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2023-10-24T08:33:47Z",
-    "last_update": "2024-11-20T23:49:19Z"
+    "last_update": "2024-11-20T23:49:19Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/anilerc/SAGA-choreography-hexagonal-architecture",
@@ -2021,7 +2777,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2023-12-25T13:48:01Z",
-    "last_update": "2025-04-23T16:42:07Z"
+    "last_update": "2025-04-23T16:42:07Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kanttanhed/Microservices-Saga-orchestrated",
@@ -2029,7 +2788,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2023-10-11T23:04:22Z",
-    "last_update": "2024-09-19T02:02:11Z"
+    "last_update": "2024-09-19T02:02:11Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lydtechconsulting/kafka-transactions",
@@ -2037,7 +2799,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2022-06-11T11:28:10Z",
-    "last_update": "2025-04-02T10:33:29Z"
+    "last_update": "2025-04-02T10:33:29Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/piomin/sample-spring-kafka-transactions",
@@ -2045,7 +2810,10 @@
     "language": "Java",
     "stars": "40",
     "created": "2022-10-21T21:48:58Z",
-    "last_update": "2025-05-23T03:26:38Z"
+    "last_update": "2025-05-23T03:26:38Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rlanhellas/tdc2021-consumer-kafka-resiliente-retry-seletivo",
@@ -2053,7 +2821,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2021-03-23T01:23:04Z",
-    "last_update": "2024-10-02T20:04:37Z"
+    "last_update": "2024-10-02T20:04:37Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/el-moudni-hicham/springcloud-kafka",
@@ -2061,7 +2832,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2023-10-02T18:17:12Z",
-    "last_update": "2024-01-17T13:37:29Z"
+    "last_update": "2024-01-17T13:37:29Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/langchain4j/langchain4j-examples",
@@ -2069,7 +2843,10 @@
     "language": "Java",
     "stars": "942",
     "created": "2023-06-20T16:04:18Z",
-    "last_update": "2025-05-23T14:45:13Z"
+    "last_update": "2025-05-23T14:45:13Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/algorithms",
@@ -2077,7 +2854,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-08-04T20:11:46Z",
-    "last_update": "2024-07-06T18:32:36Z"
+    "last_update": "2024-07-06T18:32:36Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/awslabs/aws-glue-schema-registry",
@@ -2085,7 +2865,10 @@
     "language": "Java",
     "stars": "137",
     "created": "2020-03-09T20:20:57Z",
-    "last_update": "2025-05-23T02:52:48Z"
+    "last_update": "2025-05-23T02:52:48Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/aoc",
@@ -2093,7 +2876,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2020-08-15T06:21:20Z",
-    "last_update": "2024-12-13T22:40:00Z"
+    "last_update": "2024-12-13T22:40:00Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/z669016/adventofcode-2022",
@@ -2101,7 +2887,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2022-11-29T21:18:06Z",
-    "last_update": "2025-02-03T05:11:20Z"
+    "last_update": "2025-02-03T05:11:20Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/java-21-demo",
@@ -2109,7 +2898,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2023-09-07T16:32:45Z",
-    "last_update": "2024-08-28T14:15:58Z"
+    "last_update": "2024-08-28T14:15:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/oracle/fastr",
@@ -2117,7 +2909,10 @@
     "language": "Java",
     "stars": "630",
     "created": "2015-09-24T13:20:14Z",
-    "last_update": "2025-05-12T09:08:28Z"
+    "last_update": "2025-05-12T09:08:28Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/laech/java-stacksrc",
@@ -2125,7 +2920,10 @@
     "language": "Java",
     "stars": "245",
     "created": "2020-09-09T10:11:38Z",
-    "last_update": "2025-05-09T13:05:45Z"
+    "last_update": "2025-05-09T13:05:45Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Java-Techie-jt/spring-multi-module-application",
@@ -2133,7 +2931,10 @@
     "language": "Java",
     "stars": "99",
     "created": "2019-10-06T21:16:16Z",
-    "last_update": "2025-05-20T11:49:28Z"
+    "last_update": "2025-05-20T11:49:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/khmarbaise/duplicatefinder",
@@ -2141,7 +2942,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2021-10-02T19:05:33Z",
-    "last_update": "2025-05-18T19:22:42Z"
+    "last_update": "2025-05-18T19:22:42Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ChaikaAM/request-handlers-comparison",
@@ -2149,7 +2953,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2023-05-30T13:42:52Z",
-    "last_update": "2024-05-19T19:56:07Z"
+    "last_update": "2024-05-19T19:56:07Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mikemybytes/junit5-formatted-source",
@@ -2157,7 +2964,10 @@
     "language": "Java",
     "stars": "68",
     "created": "2022-07-14T20:04:59Z",
-    "last_update": "2025-04-23T12:36:16Z"
+    "last_update": "2025-04-23T12:36:16Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/junit-pioneer/junit-pioneer",
@@ -2165,7 +2975,10 @@
     "language": "Java",
     "stars": "580",
     "created": "2016-11-17T20:59:53Z",
-    "last_update": "2025-05-14T05:53:51Z"
+    "last_update": "2025-05-14T05:53:51Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/moezzie/custom-spring-boot-starter-example",
@@ -2173,7 +2986,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2023-07-23T08:07:55Z",
-    "last_update": "2025-03-14T13:04:29Z"
+    "last_update": "2025-03-14T13:04:29Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/snicoll/hello-service-auto-configuration",
@@ -2181,7 +2997,10 @@
     "language": "Java",
     "stars": "62",
     "created": "2016-11-04T09:40:25Z",
-    "last_update": "2025-01-06T15:23:20Z"
+    "last_update": "2025-01-06T15:23:20Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Azure/azure-event-hubs-for-kafka",
@@ -2189,7 +3008,10 @@
     "language": "Java",
     "stars": "235",
     "created": "2018-08-07T22:51:23Z",
-    "last_update": "2025-04-15T08:59:53Z"
+    "last_update": "2025-04-15T08:59:53Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/biboudis/jmh-profilers",
@@ -2197,7 +3019,10 @@
     "language": "Java",
     "stars": "33",
     "created": "2014-08-14T13:13:39Z",
-    "last_update": "2024-06-26T09:37:58Z"
+    "last_update": "2024-06-26T09:37:58Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/benwilcock/spring-cloud-stream-demo",
@@ -2205,7 +3030,10 @@
     "language": "Java",
     "stars": "98",
     "created": "2019-04-12T08:10:39Z",
-    "last_update": "2024-09-11T13:46:18Z"
+    "last_update": "2024-09-11T13:46:18Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sparsick/testcontainers-git",
@@ -2213,7 +3041,10 @@
     "language": "Java",
     "stars": "34",
     "created": "2023-05-09T19:19:08Z",
-    "last_update": "2025-05-12T07:15:59Z"
+    "last_update": "2025-05-12T07:15:59Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/firmwareguru/jvm-arm-bare-metal",
@@ -2221,7 +3052,10 @@
     "language": "Java",
     "stars": "36",
     "created": "2018-09-07T01:51:28Z",
-    "last_update": "2025-03-22T15:21:43Z"
+    "last_update": "2025-03-22T15:21:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/obsidiandynamics/fulcrum",
@@ -2229,7 +3063,10 @@
     "language": "Java",
     "stars": "14",
     "created": "2017-10-04T08:23:16Z",
-    "last_update": "2025-05-08T06:42:33Z"
+    "last_update": "2025-05-08T06:42:33Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lukehutch/PipelinedOutputStream",
@@ -2237,7 +3074,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2019-10-27T04:26:52Z",
-    "last_update": "2025-03-10T17:35:28Z"
+    "last_update": "2025-03-10T17:35:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lukehutch/quickunzip",
@@ -2245,7 +3085,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2018-07-10T07:23:32Z",
-    "last_update": "2025-03-10T16:18:45Z"
+    "last_update": "2025-03-10T16:18:45Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/classgraph/classgraph",
@@ -2253,7 +3096,10 @@
     "language": "Java",
     "stars": "2851",
     "created": "2014-08-17T20:46:57Z",
-    "last_update": "2025-05-22T17:37:48Z"
+    "last_update": "2025-05-22T17:37:48Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/toolfactory/narcissus",
@@ -2261,7 +3107,10 @@
     "language": "Java",
     "stars": "50",
     "created": "2021-08-19T08:05:38Z",
-    "last_update": "2025-05-13T17:11:28Z"
+    "last_update": "2025-05-13T17:11:28Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lizhifuabc/tomato-platform",
@@ -2269,7 +3118,10 @@
     "language": "Java",
     "stars": "30",
     "created": "2023-03-25T03:42:54Z",
-    "last_update": "2025-03-17T10:26:31Z"
+    "last_update": "2025-03-17T10:26:31Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cppwfs/modulithswithwater",
@@ -2277,7 +3129,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2023-01-08T22:27:15Z",
-    "last_update": "2024-09-26T18:56:32Z"
+    "last_update": "2024-09-26T18:56:32Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/shop-modulith",
@@ -2285,7 +3140,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2023-06-27T19:23:23Z",
-    "last_update": "2024-04-24T03:58:14Z"
+    "last_update": "2024-04-24T03:58:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/spring-modulith-deep-dive",
@@ -2293,7 +3151,10 @@
     "language": "Java",
     "stars": "77",
     "created": "2023-06-22T21:07:09Z",
-    "last_update": "2025-05-01T09:22:17Z"
+    "last_update": "2025-05-01T09:22:17Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/berndruecker/kafka-camunda-spring-simple",
@@ -2301,7 +3162,10 @@
     "language": "Java",
     "stars": "19",
     "created": "2021-07-14T14:27:00Z",
-    "last_update": "2024-09-04T17:55:31Z"
+    "last_update": "2024-09-04T17:55:31Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gschmutz/kafka-workshop",
@@ -2309,7 +3173,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2018-07-08T20:57:40Z",
-    "last_update": "2025-02-26T12:31:27Z"
+    "last_update": "2025-02-26T12:31:27Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vaquarkhan/flowing-retail-microservice-kafka",
@@ -2317,7 +3184,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2017-11-22T16:55:12Z",
-    "last_update": "2025-05-21T14:22:43Z"
+    "last_update": "2025-05-21T14:22:43Z",
+    "category": "Database & ORM",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/berndruecker/flowing-retail",
@@ -2325,7 +3195,10 @@
     "language": "Java",
     "stars": "1318",
     "created": "2017-09-13T11:41:51Z",
-    "last_update": "2025-05-16T10:46:56Z"
+    "last_update": "2025-05-16T10:46:56Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MetaArivu/Kafka-quickstart",
@@ -2333,7 +3206,10 @@
     "language": "Java",
     "stars": "38",
     "created": "2021-09-27T03:38:45Z",
-    "last_update": "2024-07-19T19:59:50Z"
+    "last_update": "2024-07-19T19:59:50Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kcpeppe/leaky",
@@ -2341,7 +3217,10 @@
     "language": "Java",
     "stars": "16",
     "created": "2019-02-06T14:58:17Z",
-    "last_update": "2024-04-15T19:53:36Z"
+    "last_update": "2024-04-15T19:53:36Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/wiremock/wiremock-testcontainers-java",
@@ -2349,7 +3228,10 @@
     "language": "Java",
     "stars": "58",
     "created": "2023-04-15T14:26:05Z",
-    "last_update": "2025-05-06T07:41:16Z"
+    "last_update": "2025-05-06T07:41:16Z",
+    "category": "API & Integration",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vadimv/rsp-game-of-life",
@@ -2357,7 +3239,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2021-02-18T20:27:57Z",
-    "last_update": "2024-06-01T07:51:13Z"
+    "last_update": "2024-06-01T07:51:13Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/TheoKanning/openai-java",
@@ -2365,7 +3250,10 @@
     "language": "Java",
     "stars": "4790",
     "created": "2020-09-15T02:58:52Z",
-    "last_update": "2025-05-23T08:10:22Z"
+    "last_update": "2025-05-23T08:10:22Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-ai",
@@ -2373,7 +3261,10 @@
     "language": "Java",
     "stars": "5341",
     "created": "2023-06-27T18:57:29Z",
-    "last_update": "2025-05-25T11:39:52Z"
+    "last_update": "2025-05-25T11:39:52Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/langchain4j/langchain4j",
@@ -2381,7 +3272,10 @@
     "language": "Java",
     "stars": "7650",
     "created": "2023-06-20T15:30:29Z",
-    "last_update": "2025-05-25T09:23:39Z"
+    "last_update": "2025-05-25T09:23:39Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lindenb/j4make",
@@ -2389,7 +3283,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2015-11-12T15:24:25Z",
-    "last_update": "2024-07-22T20:25:12Z"
+    "last_update": "2024-07-22T20:25:12Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/valdemarjuniorr/springboot3-examples",
@@ -2397,7 +3294,10 @@
     "language": "Java",
     "stars": "36",
     "created": "2023-02-20T17:10:41Z",
-    "last_update": "2025-02-21T19:50:27Z"
+    "last_update": "2025-02-21T19:50:27Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openrewrite/rewrite-spring",
@@ -2405,7 +3305,10 @@
     "language": "Java",
     "stars": "305",
     "created": "2020-05-20T03:05:58Z",
-    "last_update": "2025-05-22T17:43:38Z"
+    "last_update": "2025-05-22T17:43:38Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/piomin/sample-spring-boot-saga-eventing",
@@ -2413,7 +3316,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2021-03-12T11:57:04Z",
-    "last_update": "2025-05-23T03:33:04Z"
+    "last_update": "2025-05-23T03:33:04Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fedeoliv/saga-coordinator-java",
@@ -2421,7 +3327,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2019-07-19T16:16:46Z",
-    "last_update": "2024-01-14T00:00:09Z"
+    "last_update": "2024-01-14T00:00:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sylleryum/kafka-microservices-with-saga",
@@ -2429,7 +3338,10 @@
     "language": "Java",
     "stars": "64",
     "created": "2022-04-20T14:12:22Z",
-    "last_update": "2025-04-26T08:51:49Z"
+    "last_update": "2025-04-26T08:51:49Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-stream",
@@ -2437,7 +3349,10 @@
     "language": "Java",
     "stars": "1025",
     "created": "2015-07-08T15:51:38Z",
-    "last_update": "2025-05-23T23:41:19Z"
+    "last_update": "2025-05-23T23:41:19Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ssamparn/kafka-event-streaming",
@@ -2445,7 +3360,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-12-12T02:02:44Z",
-    "last_update": "2024-11-24T21:45:41Z"
+    "last_update": "2024-11-24T21:45:41Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/uberto/Http4kLoom",
@@ -2453,7 +3371,10 @@
     "language": "Kotlin",
     "stars": "12",
     "created": "2022-10-26T05:36:16Z",
-    "last_update": "2025-01-20T17:59:03Z"
+    "last_update": "2025-01-20T17:59:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hantsy/spring6-sandbox",
@@ -2461,7 +3382,10 @@
     "language": "Java",
     "stars": "82",
     "created": "2021-12-30T03:44:53Z",
-    "last_update": "2025-05-25T05:47:27Z"
+    "last_update": "2025-05-25T05:47:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microcks/microcks-testcontainers-java",
@@ -2469,7 +3393,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2023-07-27T14:17:48Z",
-    "last_update": "2025-05-11T21:01:57Z"
+    "last_update": "2025-05-11T21:01:57Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/maven-archetypes",
@@ -2477,7 +3404,10 @@
     "language": "Java",
     "stars": "32",
     "created": "2018-01-02T08:00:08Z",
-    "last_update": "2025-05-19T16:02:04Z"
+    "last_update": "2025-05-19T16:02:04Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eddumelendez/spring-boot-kafka-testcontainers-reusable-mode",
@@ -2485,7 +3415,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2023-05-08T22:50:57Z",
-    "last_update": "2025-04-18T08:09:45Z"
+    "last_update": "2025-04-18T08:09:45Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/asyncapi/jasyncapi",
@@ -2493,7 +3426,10 @@
     "language": "Kotlin",
     "stars": "71",
     "created": "2020-05-09T11:25:19Z",
-    "last_update": "2025-05-21T20:27:41Z"
+    "last_update": "2025-05-21T20:27:41Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/springwolf/springwolf-core",
@@ -2501,7 +3437,10 @@
     "language": "Java",
     "stars": "288",
     "created": "2019-01-03T09:59:00Z",
-    "last_update": "2025-05-23T13:57:01Z"
+    "last_update": "2025-05-23T13:57:01Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/asyncapi/java-spring-template",
@@ -2509,7 +3448,10 @@
     "language": "Java",
     "stars": "70",
     "created": "2020-03-20T18:24:04Z",
-    "last_update": "2025-03-18T16:51:39Z"
+    "last_update": "2025-03-18T16:51:39Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LarryDpk/Google-Bard",
@@ -2517,7 +3459,10 @@
     "language": "Java",
     "stars": "85",
     "created": "2023-03-24T07:53:21Z",
-    "last_update": "2025-01-05T12:34:45Z"
+    "last_update": "2025-01-05T12:34:45Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/spring-boot-user-beans",
@@ -2525,7 +3470,10 @@
     "language": "Java",
     "stars": "61",
     "created": "2023-02-12T16:47:25Z",
-    "last_update": "2025-05-20T15:24:16Z"
+    "last_update": "2025-05-20T15:24:16Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud-services-samples/animal-rescue",
@@ -2533,7 +3481,10 @@
     "language": "Java",
     "stars": "59",
     "created": "2020-02-11T22:46:33Z",
-    "last_update": "2025-03-25T15:15:41Z"
+    "last_update": "2025-03-25T15:15:41Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mirkosertic/flight-recorder-starter",
@@ -2541,7 +3492,10 @@
     "language": "Java",
     "stars": "44",
     "created": "2020-09-02T21:02:21Z",
-    "last_update": "2025-05-20T07:12:28Z"
+    "last_update": "2025-05-20T07:12:28Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stefanbirkner/system-lambda",
@@ -2549,7 +3503,10 @@
     "language": "Java",
     "stars": "218",
     "created": "2016-03-08T20:36:00Z",
-    "last_update": "2025-04-20T19:29:48Z"
+    "last_update": "2025-04-20T19:29:48Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hcoles/pitest",
@@ -2557,7 +3514,10 @@
     "language": "Java",
     "stars": "1741",
     "created": "2014-01-07T21:34:34Z",
-    "last_update": "2025-05-22T15:17:43Z"
+    "last_update": "2025-05-22T15:17:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dependency-check/DependencyCheck",
@@ -2565,7 +3525,10 @@
     "language": "Java",
     "stars": "6940",
     "created": "2012-09-03T20:43:30Z",
-    "last_update": "2025-05-25T07:30:40Z"
+    "last_update": "2025-05-25T07:30:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Security & Cryptography",
+    "visible": "true"
   },
   {
     "url": "https://github.com/linux-china/chatgpt-spring-boot-starter",
@@ -2573,7 +3536,10 @@
     "language": "Java",
     "stars": "489",
     "created": "2023-06-17T10:28:13Z",
-    "last_update": "2025-05-20T07:51:07Z"
+    "last_update": "2025-05-20T07:51:07Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jetkai/openai-for-java",
@@ -2581,7 +3547,10 @@
     "language": "Java",
     "stars": "48",
     "created": "2023-03-02T11:06:42Z",
-    "last_update": "2025-03-01T15:08:26Z"
+    "last_update": "2025-03-01T15:08:26Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/CJCrafter/ChatGPT-Java-API",
@@ -2589,7 +3558,10 @@
     "language": "Kotlin",
     "stars": "71",
     "created": "2023-03-05T04:38:31Z",
-    "last_update": "2025-05-16T15:30:52Z"
+    "last_update": "2025-05-16T15:30:52Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sergueik/springboot_study",
@@ -2597,7 +3569,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2017-08-25T13:38:05Z",
-    "last_update": "2025-03-16T23:37:42Z"
+    "last_update": "2025-03-16T23:37:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/micrometer-metrics/tracing",
@@ -2605,7 +3580,10 @@
     "language": "Java",
     "stars": "266",
     "created": "2021-11-10T09:26:40Z",
-    "last_update": "2025-05-23T14:15:13Z"
+    "last_update": "2025-05-23T14:15:13Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/wws-java",
@@ -2613,7 +3591,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2023-06-05T05:33:05Z",
-    "last_update": "2024-12-09T19:53:21Z"
+    "last_update": "2024-12-09T19:53:21Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/retryable-client-http-request-interceptor",
@@ -2621,7 +3602,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2023-04-28T01:11:50Z",
-    "last_update": "2025-05-23T00:36:27Z"
+    "last_update": "2025-05-23T00:36:27Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nidi3/graphviz-java",
@@ -2629,7 +3613,10 @@
     "language": "Java",
     "stars": "953",
     "created": "2015-10-02T12:46:51Z",
-    "last_update": "2025-05-17T10:10:05Z"
+    "last_update": "2025-05-17T10:10:05Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Documentation & Diagramming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vandmo/dependency-lock-maven-plugin",
@@ -2637,7 +3624,10 @@
     "language": "Java",
     "stars": "69",
     "created": "2019-02-04T09:49:58Z",
-    "last_update": "2025-05-04T04:44:46Z"
+    "last_update": "2025-05-04T04:44:46Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jkazama/ddd-java",
@@ -2645,7 +3635,10 @@
     "language": "Java",
     "stars": "304",
     "created": "2014-11-25T09:00:24Z",
-    "last_update": "2025-05-14T03:20:59Z"
+    "last_update": "2025-05-14T03:20:59Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/raphw/maven-checksum-extension",
@@ -2653,7 +3646,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2022-08-04T12:03:00Z",
-    "last_update": "2024-04-01T23:46:01Z"
+    "last_update": "2024-04-01T23:46:01Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/CycloneDX/cyclonedx-maven-plugin",
@@ -2661,7 +3657,10 @@
     "language": "Java",
     "stars": "323",
     "created": "2017-06-04T04:33:47Z",
-    "last_update": "2025-05-19T20:38:06Z"
+    "last_update": "2025-05-19T20:38:06Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nebula-plugins/gradle-dependency-lock-plugin",
@@ -2669,7 +3668,10 @@
     "language": "Groovy",
     "stars": "297",
     "created": "2014-01-29T22:18:19Z",
-    "last_update": "2025-05-21T01:53:50Z"
+    "last_update": "2025-05-21T01:53:50Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jjohannes/understanding-gradle",
@@ -2677,7 +3679,10 @@
     "language": "Java",
     "stars": "282",
     "created": "2021-08-11T08:49:32Z",
-    "last_update": "2025-05-22T12:15:34Z"
+    "last_update": "2025-05-22T12:15:34Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/micrometer-metrics/context-propagation",
@@ -2685,7 +3690,10 @@
     "language": "Java",
     "stars": "96",
     "created": "2022-02-17T10:44:44Z",
-    "last_update": "2025-05-21T01:51:49Z"
+    "last_update": "2025-05-21T01:51:49Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jonatan-ivanov/teahouse",
@@ -2693,7 +3701,10 @@
     "language": "Java",
     "stars": "278",
     "created": "2020-03-09T01:17:13Z",
-    "last_update": "2025-05-18T04:25:17Z"
+    "last_update": "2025-05-18T04:25:17Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zalando/logbook",
@@ -2701,7 +3712,10 @@
     "language": "Java",
     "stars": "1926",
     "created": "2015-09-14T15:29:12Z",
-    "last_update": "2025-05-24T02:53:09Z"
+    "last_update": "2025-05-24T02:53:09Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sdeleuze/demo-profile-aot",
@@ -2709,7 +3723,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2023-01-18T14:02:54Z",
-    "last_update": "2025-01-17T14:00:40Z"
+    "last_update": "2025-01-17T14:00:40Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AutSoft/micrometer-demo",
@@ -2717,7 +3734,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2019-06-18T11:24:11Z",
-    "last_update": "2024-11-08T20:53:49Z"
+    "last_update": "2024-11-08T20:53:49Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/elastic/apm-agent-java",
@@ -2725,7 +3745,10 @@
     "language": "Java",
     "stars": "577",
     "created": "2018-02-12T11:05:32Z",
-    "last_update": "2025-05-22T13:13:37Z"
+    "last_update": "2025-05-22T13:13:37Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/elastic/opbeans-java",
@@ -2733,7 +3756,10 @@
     "language": "Java",
     "stars": "20",
     "created": "2018-05-18T10:26:32Z",
-    "last_update": "2025-05-19T02:47:32Z"
+    "last_update": "2025-05-19T02:47:32Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/maciejwalkowiak/spring-boot-http-clients",
@@ -2741,7 +3767,10 @@
     "language": "Java",
     "stars": "107",
     "created": "2023-04-04T19:56:52Z",
-    "last_update": "2025-05-08T03:21:56Z"
+    "last_update": "2025-05-08T03:21:56Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ryandens/jlink-gradle-plugin",
@@ -2749,7 +3778,10 @@
     "language": "Kotlin",
     "stars": "17",
     "created": "2022-09-18T05:28:00Z",
-    "last_update": "2025-01-27T03:12:41Z"
+    "last_update": "2025-01-27T03:12:41Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/abstracta/jmeter-loom-test",
@@ -2757,7 +3789,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2022-05-27T20:47:02Z",
-    "last_update": "2024-11-23T17:35:20Z"
+    "last_update": "2024-11-23T17:35:20Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/abstracta/jmeter-java-dsl",
@@ -2765,7 +3800,10 @@
     "language": "Java",
     "stars": "502",
     "created": "2020-08-12T18:30:29Z",
-    "last_update": "2025-05-18T12:40:30Z"
+    "last_update": "2025-05-18T12:40:30Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/myuwono/typed-error-handling-demo",
@@ -2773,7 +3811,10 @@
     "language": "Kotlin",
     "stars": "9",
     "created": "2023-04-15T09:14:38Z",
-    "last_update": "2024-06-21T07:50:27Z"
+    "last_update": "2024-06-21T07:50:27Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lvivJavaClub/JDK14-to-24-features",
@@ -2781,7 +3822,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2020-09-30T17:46:12Z",
-    "last_update": "2025-03-20T09:19:44Z"
+    "last_update": "2025-03-20T09:19:44Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/graalvm/game-of-life-native",
@@ -2789,7 +3833,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2022-06-23T14:09:02Z",
-    "last_update": "2024-11-13T17:39:50Z"
+    "last_update": "2024-11-13T17:39:50Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/weliem/blessed-bluez",
@@ -2797,7 +3844,10 @@
     "language": "Java",
     "stars": "85",
     "created": "2020-05-26T10:55:32Z",
-    "last_update": "2025-03-05T18:46:38Z"
+    "last_update": "2025-03-05T18:46:38Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/upeter/loom-tomcat",
@@ -2805,7 +3855,10 @@
     "language": "Kotlin",
     "stars": "4",
     "created": "2022-07-04T11:58:14Z",
-    "last_update": "2025-03-08T09:58:42Z"
+    "last_update": "2025-03-08T09:58:42Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/heckenmann/log4j-filebeat",
@@ -2813,7 +3866,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2020-05-10T14:04:30Z",
-    "last_update": "2025-04-28T12:14:19Z"
+    "last_update": "2025-04-28T12:14:19Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Leoat12/url-shortening-api",
@@ -2821,7 +3877,10 @@
     "language": "Java",
     "stars": "11",
     "created": "2020-03-21T18:02:02Z",
-    "last_update": "2024-02-16T10:49:46Z"
+    "last_update": "2024-02-16T10:49:46Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sbstnc/example-spring-otel",
@@ -2829,7 +3888,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2022-02-25T14:15:01Z",
-    "last_update": "2025-03-07T21:31:07Z"
+    "last_update": "2025-03-07T21:31:07Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/riferrei/otel-with-apache-pulsar",
@@ -2837,7 +3899,10 @@
     "language": "Java",
     "stars": "22",
     "created": "2021-01-22T00:29:44Z",
-    "last_update": "2024-08-23T08:33:02Z"
+    "last_update": "2024-08-23T08:33:02Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/build-on-aws/instrumenting-java-apps-using-opentelemetry",
@@ -2845,7 +3910,10 @@
     "language": "Java",
     "stars": "51",
     "created": "2022-09-16T00:48:59Z",
-    "last_update": "2025-03-08T12:12:07Z"
+    "last_update": "2025-03-08T12:12:07Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/NoahHsu/event-sourcing-order-poc",
@@ -2853,7 +3921,10 @@
     "language": "Java",
     "stars": "31",
     "created": "2022-06-03T16:27:18Z",
-    "last_update": "2025-01-08T21:28:42Z"
+    "last_update": "2025-01-08T21:28:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mnadeem/boot-opentelemetry-tempo",
@@ -2861,7 +3932,10 @@
     "language": "Java",
     "stars": "191",
     "created": "2021-02-13T15:31:19Z",
-    "last_update": "2025-04-16T14:35:53Z"
+    "last_update": "2025-04-16T14:35:53Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/blueswen/spring-boot-observability",
@@ -2869,7 +3943,10 @@
     "language": "Java",
     "stars": "304",
     "created": "2022-09-24T09:38:22Z",
-    "last_update": "2025-05-22T05:30:03Z"
+    "last_update": "2025-05-22T05:30:03Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/logfellow/logstash-logback-encoder",
@@ -2877,7 +3954,10 @@
     "language": "Java",
     "stars": "2475",
     "created": "2013-03-04T16:19:08Z",
-    "last_update": "2025-05-23T02:20:08Z"
+    "last_update": "2025-05-23T02:20:08Z",
+    "category": "Utilities & Libraries",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ivangfr/springboot-elk-prometheus-grafana",
@@ -2885,7 +3965,10 @@
     "language": "Java",
     "stars": "63",
     "created": "2020-02-20T22:05:16Z",
-    "last_update": "2025-04-25T12:51:48Z"
+    "last_update": "2025-04-25T12:51:48Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Rapter1990/SpringBootElk",
@@ -2893,7 +3976,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2022-04-11T18:36:00Z",
-    "last_update": "2025-04-20T14:07:40Z"
+    "last_update": "2025-04-20T14:07:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/muharremkoc/spring-boot-elk-filebeat-with-pg",
@@ -2901,7 +3987,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-02-28T07:57:27Z",
-    "last_update": "2024-01-14T15:42:59Z"
+    "last_update": "2024-01-14T15:42:59Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/flashvayne/chatgpt-spring-boot-starter",
@@ -2909,7 +3998,10 @@
     "language": "Java",
     "stars": "224",
     "created": "2022-12-21T14:41:16Z",
-    "last_update": "2025-05-25T06:30:33Z"
+    "last_update": "2025-05-25T06:30:33Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tschuehly/spring-view-component",
@@ -2917,7 +4009,10 @@
     "language": "Kotlin",
     "stars": "218",
     "created": "2023-02-20T21:50:38Z",
-    "last_update": "2025-05-25T04:44:21Z"
+    "last_update": "2025-05-25T04:44:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zhaoqingchris/springboot-elk-filebeat-example",
@@ -2925,7 +4020,10 @@
     "language": "Kotlin",
     "stars": "18",
     "created": "2018-12-21T03:13:26Z",
-    "last_update": "2024-10-13T16:57:33Z"
+    "last_update": "2024-10-13T16:57:33Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/manifold-systems/manifold",
@@ -2933,7 +4031,10 @@
     "language": "Java",
     "stars": "2541",
     "created": "2017-06-07T02:37:23Z",
-    "last_update": "2025-05-24T05:17:59Z"
+    "last_update": "2025-05-24T05:17:59Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/geeksusma/periods-example",
@@ -2941,7 +4042,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2020-08-25T08:15:27Z",
-    "last_update": "2025-01-11T15:10:22Z"
+    "last_update": "2025-01-11T15:10:22Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kowasm/kowasm",
@@ -2949,7 +4053,10 @@
     "language": "Kotlin",
     "stars": "376",
     "created": "2023-01-09T17:44:02Z",
-    "last_update": "2025-05-21T06:33:20Z"
+    "last_update": "2025-05-21T06:33:20Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bagaturchess/Bagatur",
@@ -2957,7 +4064,10 @@
     "language": "Java",
     "stars": "77",
     "created": "2016-03-11T19:46:09Z",
-    "last_update": "2025-05-24T18:38:48Z"
+    "last_update": "2025-05-24T18:38:48Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/qubard/CVChessBot",
@@ -2965,7 +4075,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2016-05-02T18:05:47Z",
-    "last_update": "2025-04-19T22:49:15Z"
+    "last_update": "2025-04-19T22:49:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/skeeto/october-chess-engine",
@@ -2973,7 +4086,10 @@
     "language": "Java",
     "stars": "27",
     "created": "2011-05-23T02:37:40Z",
-    "last_update": "2024-09-25T19:35:00Z"
+    "last_update": "2024-09-25T19:35:00Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/coding-parrot/chess-engine",
@@ -2981,7 +4097,10 @@
     "language": "Java",
     "stars": "105",
     "created": "2021-03-01T09:53:29Z",
-    "last_update": "2025-04-01T08:04:52Z"
+    "last_update": "2025-04-01T08:04:52Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/albertoruibal/carballo",
@@ -2989,7 +4108,10 @@
     "language": "Java",
     "stars": "71",
     "created": "2012-06-01T07:11:29Z",
-    "last_update": "2025-04-11T13:59:36Z"
+    "last_update": "2025-04-11T13:59:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bhlangonijr/chesslib",
@@ -2997,7 +4119,10 @@
     "language": "Java",
     "stars": "247",
     "created": "2016-06-20T01:44:34Z",
-    "last_update": "2025-05-24T21:11:17Z"
+    "last_update": "2025-05-24T21:11:17Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/badjr/JavaOS",
@@ -3005,7 +4130,10 @@
     "language": "Java",
     "stars": "19",
     "created": "2014-05-14T08:08:46Z",
-    "last_update": "2025-03-22T15:16:54Z"
+    "last_update": "2025-03-22T15:16:54Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/PlexPt/chatgpt-java",
@@ -3013,7 +4141,10 @@
     "language": "Java",
     "stars": "3643",
     "created": "2022-12-07T04:55:33Z",
-    "last_update": "2025-05-22T04:03:47Z"
+    "last_update": "2025-05-22T04:03:47Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/beansviz-spring-boot-actuator",
@@ -3021,7 +4152,10 @@
     "language": "Java",
     "stars": "21",
     "created": "2017-02-02T14:32:42Z",
-    "last_update": "2025-05-18T13:14:56Z"
+    "last_update": "2025-05-18T13:14:56Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Azure/azure-sdk-for-java",
@@ -3029,7 +4163,10 @@
     "language": "Java",
     "stars": "2480",
     "created": "2011-12-06T23:33:56Z",
-    "last_update": "2025-05-24T22:33:57Z"
+    "last_update": "2025-05-24T22:33:57Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/backpaper0/spring-boot-sandbox",
@@ -3037,7 +4174,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2015-05-21T20:00:55Z",
-    "last_update": "2025-04-05T11:44:04Z"
+    "last_update": "2025-04-05T11:44:04Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/atool/fluent-mybatis",
@@ -3045,7 +4185,10 @@
     "language": "Java",
     "stars": "806",
     "created": "2019-10-31T02:57:34Z",
-    "last_update": "2025-04-21T14:11:57Z"
+    "last_update": "2025-04-21T14:11:57Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Mind-Sports-Games/Fairy-Stockfish-Java",
@@ -3053,7 +4196,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2021-09-22T23:01:54Z",
-    "last_update": "2024-06-28T14:35:38Z"
+    "last_update": "2024-06-28T14:35:38Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/talkon2000/Chess-Player-Java-AWS",
@@ -3061,7 +4207,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2023-01-12T22:57:04Z",
-    "last_update": "2024-10-11T22:58:05Z"
+    "last_update": "2024-10-11T22:58:05Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Alkalami/Stockfish-Java",
@@ -3069,7 +4218,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2018-12-14T02:44:06Z",
-    "last_update": "2024-10-31T17:10:09Z"
+    "last_update": "2024-10-31T17:10:09Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ttulka/ddd-example-ecommerce-microservices",
@@ -3077,7 +4229,10 @@
     "language": "Java",
     "stars": "64",
     "created": "2020-11-02T15:32:01Z",
-    "last_update": "2025-05-24T18:13:48Z"
+    "last_update": "2025-05-24T18:13:48Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jeffgbutler/mybatis-kotlin-examples",
@@ -3085,7 +4240,10 @@
     "language": "Kotlin",
     "stars": "45",
     "created": "2018-03-05T19:19:12Z",
-    "last_update": "2025-05-15T16:19:50Z"
+    "last_update": "2025-05-15T16:19:50Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kimyc92/SQLTrans",
@@ -3093,7 +4251,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2023-01-20T06:07:27Z",
-    "last_update": "2025-04-20T11:58:19Z"
+    "last_update": "2025-04-20T11:58:19Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/linux-china/mybatis-demo",
@@ -3101,7 +4262,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2015-11-30T04:45:19Z",
-    "last_update": "2025-02-02T10:01:01Z"
+    "last_update": "2025-02-02T10:01:01Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore",
@@ -3109,7 +4273,10 @@
     "language": "Java",
     "stars": "89",
     "created": "2016-10-16T15:10:29Z",
-    "last_update": "2024-12-12T23:33:44Z"
+    "last_update": "2024-12-12T23:33:44Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mybatis/mybatis-dynamic-sql",
@@ -3117,7 +4284,10 @@
     "language": "Java",
     "stars": "1125",
     "created": "2016-11-11T15:22:00Z",
-    "last_update": "2025-05-19T14:48:04Z"
+    "last_update": "2025-05-19T14:48:04Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kazuki43zoo/mybatis-native-demo",
@@ -3125,7 +4295,10 @@
     "language": "Java",
     "stars": "20",
     "created": "2022-11-28T00:21:01Z",
-    "last_update": "2024-10-28T15:48:14Z"
+    "last_update": "2024-10-28T15:48:14Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mybatis/spring",
@@ -3133,7 +4306,10 @@
     "language": "Java",
     "stars": "2872",
     "created": "2013-02-17T07:01:55Z",
-    "last_update": "2025-05-25T01:50:15Z"
+    "last_update": "2025-05-25T01:50:15Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/arch-evident-spring",
@@ -3141,7 +4317,10 @@
     "language": "Java",
     "stars": "186",
     "created": "2022-06-01T15:02:07Z",
-    "last_update": "2025-05-19T08:55:02Z"
+    "last_update": "2025-05-19T08:55:02Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-modulith",
@@ -3149,7 +4328,10 @@
     "language": "Java",
     "stars": "908",
     "created": "2022-07-05T17:46:27Z",
-    "last_update": "2025-05-24T04:46:45Z"
+    "last_update": "2025-05-24T04:46:45Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sornerol/chess-com-pubapi-java-wrapper",
@@ -3157,7 +4339,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2021-08-23T01:16:40Z",
-    "last_update": "2025-05-12T21:08:28Z"
+    "last_update": "2025-05-12T21:08:28Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arnsholt/dgtdriver",
@@ -3165,7 +4350,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2019-05-12T17:40:06Z",
-    "last_update": "2024-06-22T08:20:24Z"
+    "last_update": "2024-06-22T08:20:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sivaprasadreddy/spring-boot-jooq-demo",
@@ -3173,7 +4361,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2022-08-14T01:46:33Z",
-    "last_update": "2025-03-28T12:56:27Z"
+    "last_update": "2025-03-28T12:56:27Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zeroturnaround/zt-exec",
@@ -3181,7 +4372,10 @@
     "language": "Java",
     "stars": "897",
     "created": "2013-05-24T13:06:36Z",
-    "last_update": "2025-05-20T18:57:43Z"
+    "last_update": "2025-05-20T18:57:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Terminal & Command Line",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fleipold/jproc",
@@ -3189,7 +4383,10 @@
     "language": "Java",
     "stars": "196",
     "created": "2014-11-26T14:47:16Z",
-    "last_update": "2025-05-09T16:29:47Z"
+    "last_update": "2025-05-09T16:29:47Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vitalidze/chromecast-java-api-v2",
@@ -3197,7 +4394,10 @@
     "language": "Java",
     "stars": "265",
     "created": "2014-06-13T10:25:48Z",
-    "last_update": "2025-02-20T08:42:56Z"
+    "last_update": "2025-02-20T08:42:56Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sdeleuze/prime-multiplatform",
@@ -3205,7 +4405,10 @@
     "language": "Kotlin",
     "stars": "28",
     "created": "2022-12-31T15:38:58Z",
-    "last_update": "2025-02-20T16:46:51Z"
+    "last_update": "2025-02-20T16:46:51Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/resilience4j/resilience4j-spring-boot3-demo",
@@ -3213,7 +4416,10 @@
     "language": "Java",
     "stars": "62",
     "created": "2022-11-28T10:13:52Z",
-    "last_update": "2025-05-11T16:01:04Z"
+    "last_update": "2025-05-11T16:01:04Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/prometheus/client_java",
@@ -3221,7 +4427,10 @@
     "language": "Java",
     "stars": "2222",
     "created": "2013-02-03T22:55:49Z",
-    "last_update": "2025-05-23T18:34:06Z"
+    "last_update": "2025-05-23T18:34:06Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mckang/promql_java_client",
@@ -3229,7 +4438,10 @@
     "language": "Java",
     "stars": "84",
     "created": "2018-09-07T03:46:18Z",
-    "last_update": "2025-02-25T07:45:07Z"
+    "last_update": "2025-02-25T07:45:07Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mojohaus/extra-enforcer-rules",
@@ -3237,7 +4449,10 @@
     "language": "Java",
     "stars": "76",
     "created": "2015-05-15T21:46:55Z",
-    "last_update": "2025-05-06T15:08:59Z"
+    "last_update": "2025-05-06T15:08:59Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/maven-enforcer",
@@ -3245,7 +4460,10 @@
     "language": "Java",
     "stars": "153",
     "created": "2009-05-21T00:59:40Z",
-    "last_update": "2025-05-12T18:43:47Z"
+    "last_update": "2025-05-12T18:43:47Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/michael-simons/garmin-babel",
@@ -3253,7 +4471,10 @@
     "language": "Java",
     "stars": "21",
     "created": "2022-11-28T20:26:30Z",
-    "last_update": "2025-05-20T19:51:23Z"
+    "last_update": "2025-05-20T19:51:23Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jdbc-observations/datasource-micrometer",
@@ -3261,7 +4482,10 @@
     "language": "Java",
     "stars": "72",
     "created": "2022-06-14T05:26:36Z",
-    "last_update": "2025-05-17T03:28:27Z"
+    "last_update": "2025-05-17T03:28:27Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thiko/edu-spring-cloud-gateway-megastore",
@@ -3269,7 +4493,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-03-23T19:12:14Z",
-    "last_update": "2024-08-07T15:36:30Z"
+    "last_update": "2024-08-07T15:36:30Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Romanow/gateway-lecture",
@@ -3277,7 +4504,10 @@
     "language": "Kotlin",
     "stars": "4",
     "created": "2022-08-30T19:08:59Z",
-    "last_update": "2024-12-16T16:04:16Z"
+    "last_update": "2024-12-16T16:04:16Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kse-music/meta-cloud",
@@ -3285,7 +4515,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2018-01-18T06:51:49Z",
-    "last_update": "2024-12-20T03:53:30Z"
+    "last_update": "2024-12-20T03:53:30Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fredmoal/demo-microservices",
@@ -3293,7 +4526,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2020-04-14T06:23:30Z",
-    "last_update": "2024-02-28T09:06:37Z"
+    "last_update": "2024-02-28T09:06:37Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/marchof/javabubble",
@@ -3301,7 +4537,10 @@
     "language": "Java",
     "stars": "114",
     "created": "2022-10-30T13:10:28Z",
-    "last_update": "2025-05-09T07:08:25Z"
+    "last_update": "2025-05-09T07:08:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/marcingrzejszczak/observability-boot-blog-post",
@@ -3309,7 +4548,10 @@
     "language": "Java",
     "stars": "93",
     "created": "2022-09-30T13:57:03Z",
-    "last_update": "2025-05-23T06:01:12Z"
+    "last_update": "2025-05-23T06:01:12Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/loki4j/loki-logback-appender",
@@ -3317,7 +4559,10 @@
     "language": "Java",
     "stars": "345",
     "created": "2020-10-31T09:32:16Z",
-    "last_update": "2025-05-22T09:10:31Z"
+    "last_update": "2025-05-22T09:10:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sys1yagi/mastodon4j",
@@ -3325,7 +4570,10 @@
     "language": "Kotlin",
     "stars": "134",
     "created": "2017-04-21T14:08:55Z",
-    "last_update": "2025-04-20T03:26:11Z"
+    "last_update": "2025-04-20T03:26:11Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/PolarBookshop/edge-service",
@@ -3333,7 +4581,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-03-28T19:24:32Z",
-    "last_update": "2025-01-05T21:35:48Z"
+    "last_update": "2025-01-05T21:35:48Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tilln/jmeter-junit-reporter",
@@ -3341,7 +4592,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2022-05-11T11:00:00Z",
-    "last_update": "2025-03-18T14:15:10Z"
+    "last_update": "2025-03-18T14:15:10Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/GilbertHofstaetter/spring-boot-oauth2-resource-server-client",
@@ -3349,7 +4603,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2022-11-05T19:17:25Z",
-    "last_update": "2024-10-04T09:26:00Z"
+    "last_update": "2024-10-04T09:26:00Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hendisantika/spring-boot-keycloak-resource-server",
@@ -3357,7 +4614,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2022-11-11T01:35:45Z",
-    "last_update": "2025-05-22T01:56:09Z"
+    "last_update": "2025-05-22T01:56:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lessthanoptimal/Java-Matrix-Benchmark",
@@ -3365,7 +4625,10 @@
     "language": "Java",
     "stars": "59",
     "created": "2015-04-11T20:25:40Z",
-    "last_update": "2025-05-05T21:07:21Z"
+    "last_update": "2025-05-05T21:07:21Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thombergs/buckpal",
@@ -3373,7 +4636,10 @@
     "language": "Java",
     "stars": "2343",
     "created": "2019-05-08T21:29:43Z",
-    "last_update": "2025-05-21T07:10:16Z"
+    "last_update": "2025-05-21T07:10:16Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ibaca/la-abadia-del-crimen",
@@ -3381,7 +4647,10 @@
     "language": "Java",
     "stars": "24",
     "created": "2019-05-09T16:09:20Z",
-    "last_update": "2025-03-11T14:04:59Z"
+    "last_update": "2025-03-11T14:04:59Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/QaBound/toxiproxy-demo",
@@ -3389,7 +4658,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2022-10-30T12:14:48Z",
-    "last_update": "2024-07-31T23:49:26Z"
+    "last_update": "2024-07-31T23:49:26Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vmplacademy/mythological-application-monitoring",
@@ -3397,7 +4669,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-10-15T19:15:52Z",
-    "last_update": "2024-12-16T13:35:16Z"
+    "last_update": "2024-12-16T13:35:16Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/umldoc",
@@ -3405,7 +4680,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2022-09-06T08:39:39Z",
-    "last_update": "2025-04-17T19:15:21Z"
+    "last_update": "2025-04-17T19:15:21Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/piomin/course-spring-microservices",
@@ -3413,7 +4691,10 @@
     "language": "Kotlin",
     "stars": "148",
     "created": "2020-04-06T13:48:55Z",
-    "last_update": "2025-05-15T02:27:44Z"
+    "last_update": "2025-05-15T02:27:44Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Albertoimpl/k8s-for-the-busy",
@@ -3421,7 +4702,10 @@
     "language": "Java",
     "stars": "66",
     "created": "2019-10-10T17:57:26Z",
-    "last_update": "2025-03-07T02:50:58Z"
+    "last_update": "2025-03-07T02:50:58Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/runabol/spring-boot-starter-acme",
@@ -3429,7 +4713,10 @@
     "language": "Java",
     "stars": "103",
     "created": "2018-02-06T00:45:14Z",
-    "last_update": "2025-05-22T06:21:07Z"
+    "last_update": "2025-05-22T06:21:07Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fzakaria/mvn2nix",
@@ -3437,7 +4724,10 @@
     "language": "Java",
     "stars": "105",
     "created": "2020-07-19T22:56:12Z",
-    "last_update": "2025-04-26T09:51:27Z"
+    "last_update": "2025-04-26T09:51:27Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cloudflightio/autoconfigure-gradle-plugin",
@@ -3445,7 +4735,10 @@
     "language": "Kotlin",
     "stars": "31",
     "created": "2022-02-03T20:07:01Z",
-    "last_update": "2025-04-09T20:03:16Z"
+    "last_update": "2025-04-09T20:03:16Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/graalvm/graalvm-demos",
@@ -3453,7 +4746,10 @@
     "language": "Java",
     "stars": "632",
     "created": "2018-04-02T09:50:42Z",
-    "last_update": "2025-05-25T02:29:30Z"
+    "last_update": "2025-05-25T02:29:30Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tonivade/purefun",
@@ -3461,7 +4757,10 @@
     "language": "Java",
     "stars": "131",
     "created": "2018-07-24T18:11:55Z",
-    "last_update": "2025-05-23T10:54:58Z"
+    "last_update": "2025-05-23T10:54:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alibaba/java-dns-cache-manipulator",
@@ -3469,7 +4768,10 @@
     "language": "Java",
     "stars": "931",
     "created": "2015-03-26T18:11:56Z",
-    "last_update": "2025-05-24T11:54:15Z"
+    "last_update": "2025-05-24T11:54:15Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ThomasVitale/spring-boot-ecosystem-overview",
@@ -3477,7 +4779,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2022-10-11T14:03:30Z",
-    "last_update": "2024-10-07T17:36:45Z"
+    "last_update": "2024-10-07T17:36:45Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ThomasVitale/spring-cloud-gateway-resilience-security-observability",
@@ -3485,7 +4790,10 @@
     "language": "Java",
     "stars": "76",
     "created": "2022-10-11T18:57:09Z",
-    "last_update": "2025-05-18T10:17:15Z"
+    "last_update": "2025-05-18T10:17:15Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ThomasVitale/cloud-native-spring-in-action",
@@ -3493,7 +4801,10 @@
     "language": "Java",
     "stars": "508",
     "created": "2020-08-05T15:38:58Z",
-    "last_update": "2025-05-25T10:13:57Z"
+    "last_update": "2025-05-25T10:13:57Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ThomasVitale/spring-io-2022-spring-cloud-gateway",
@@ -3501,7 +4812,10 @@
     "language": "Java",
     "stars": "48",
     "created": "2022-05-25T10:08:39Z",
-    "last_update": "2025-03-15T13:22:43Z"
+    "last_update": "2025-03-15T13:22:43Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/shred/acme4j",
@@ -3509,7 +4823,10 @@
     "language": "Java",
     "stars": "554",
     "created": "2015-12-04T17:40:00Z",
-    "last_update": "2025-05-23T15:33:56Z"
+    "last_update": "2025-05-23T15:33:56Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/valb3r/letsencrypt-helper",
@@ -3517,7 +4834,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2021-11-08T05:55:05Z",
-    "last_update": "2025-05-18T11:30:14Z"
+    "last_update": "2025-05-18T11:30:14Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/artzvrzn/spring-gateway-authorizaiton-oauth2",
@@ -3525,7 +4845,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2022-09-06T14:20:32Z",
-    "last_update": "2024-07-18T06:56:15Z"
+    "last_update": "2024-07-18T06:56:15Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/liqili/spring-microservice-oauth2-keycloak-starter",
@@ -3533,7 +4856,10 @@
     "language": "Java",
     "stars": "35",
     "created": "2020-10-12T10:03:49Z",
-    "last_update": "2025-03-13T10:25:45Z"
+    "last_update": "2025-03-13T10:25:45Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/BarathArivazhagan/spring-cloud-gateway-routing",
@@ -3541,7 +4867,10 @@
     "language": "Java",
     "stars": "28",
     "created": "2018-03-03T13:58:01Z",
-    "last_update": "2024-06-16T13:22:33Z"
+    "last_update": "2024-06-16T13:22:33Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bucket4j/bucket4j",
@@ -3549,7 +4878,10 @@
     "language": "Java",
     "stars": "2489",
     "created": "2014-10-12T14:19:18Z",
-    "last_update": "2025-05-24T19:54:12Z"
+    "last_update": "2025-05-24T19:54:12Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/flamegrapher/flamegrapher",
@@ -3557,7 +4889,10 @@
     "language": "Java",
     "stars": "82",
     "created": "2018-01-30T00:45:50Z",
-    "last_update": "2024-03-31T14:20:32Z"
+    "last_update": "2024-03-31T14:20:32Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/RichardWarburton/java-8-lambdas-exercises",
@@ -3565,7 +4900,10 @@
     "language": "Java",
     "stars": "1836",
     "created": "2014-02-09T23:40:54Z",
-    "last_update": "2025-05-23T02:38:26Z"
+    "last_update": "2025-05-23T02:38:26Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rnorth/duct-tape",
@@ -3573,7 +4911,10 @@
     "language": "Java",
     "stars": "90",
     "created": "2014-12-27T09:00:22Z",
-    "last_update": "2025-04-28T14:24:51Z"
+    "last_update": "2025-04-28T14:24:51Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/authorjapps/zerocode",
@@ -3581,7 +4922,10 @@
     "language": "Java",
     "stars": "943",
     "created": "2016-07-05T13:43:44Z",
-    "last_update": "2025-05-25T07:55:22Z"
+    "last_update": "2025-05-25T07:55:22Z",
+    "category": "Database & ORM",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/policeman-tools/forbidden-apis",
@@ -3589,7 +4933,10 @@
     "language": "Java",
     "stars": "350",
     "created": "2015-03-13T22:50:03Z",
-    "last_update": "2025-05-23T22:14:38Z"
+    "last_update": "2025-05-23T22:14:38Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Hipparchus-Math/hipparchus",
@@ -3597,7 +4944,10 @@
     "language": "Java",
     "stars": "155",
     "created": "2016-05-31T06:24:32Z",
-    "last_update": "2025-05-11T03:59:58Z"
+    "last_update": "2025-05-11T03:59:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/CS-SI/Orekit",
@@ -3605,7 +4955,10 @@
     "language": "Java",
     "stars": "215",
     "created": "2014-08-11T19:29:35Z",
-    "last_update": "2025-05-24T15:23:36Z"
+    "last_update": "2025-05-24T15:23:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/joernio/joern",
@@ -3613,7 +4966,10 @@
     "language": "Scala",
     "stars": "2397",
     "created": "2019-03-14T18:51:07Z",
-    "last_update": "2025-05-25T06:30:52Z"
+    "last_update": "2025-05-25T06:30:52Z",
+    "category": "Database & ORM",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/qbicc/qbicc",
@@ -3621,7 +4977,10 @@
     "language": "Java",
     "stars": "135",
     "created": "2020-04-07T15:42:21Z",
-    "last_update": "2025-05-22T12:05:05Z"
+    "last_update": "2025-05-22T12:05:05Z",
+    "category": "Language Features & Experiments",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/digitalgust/java2llvm",
@@ -3629,7 +4988,10 @@
     "language": "Java",
     "stars": "54",
     "created": "2019-10-24T06:49:29Z",
-    "last_update": "2025-05-24T14:46:02Z"
+    "last_update": "2025-05-24T14:46:02Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jobrunr/jobrunr",
@@ -3637,7 +4999,10 @@
     "language": "Java",
     "stars": "2577",
     "created": "2020-04-02T17:34:11Z",
-    "last_update": "2025-05-25T07:53:14Z"
+    "last_update": "2025-05-25T07:53:14Z",
+    "category": "Database & ORM",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/skuzzle/restrict-imports-enforcer-rule",
@@ -3645,7 +5010,10 @@
     "language": "Java",
     "stars": "76",
     "created": "2015-12-11T20:14:20Z",
-    "last_update": "2025-05-17T05:42:55Z"
+    "last_update": "2025-05-17T05:42:55Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/brunoborges/aks-jvm-benchmark",
@@ -3653,7 +5021,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2021-02-23T23:33:01Z",
-    "last_update": "2025-04-10T19:10:41Z"
+    "last_update": "2025-04-10T19:10:41Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JetBrains/pty4j",
@@ -3661,7 +5032,10 @@
     "language": "Java",
     "stars": "373",
     "created": "2013-07-20T21:52:41Z",
-    "last_update": "2025-05-25T08:57:45Z"
+    "last_update": "2025-05-25T08:57:45Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/adoptium/TKG",
@@ -3669,7 +5043,10 @@
     "language": "Java",
     "stars": "20",
     "created": "2019-10-08T18:21:42Z",
-    "last_update": "2025-05-16T21:36:01Z"
+    "last_update": "2025-05-16T21:36:01Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tbroyer/gradle-errorprone-plugin",
@@ -3677,7 +5054,10 @@
     "language": "Kotlin",
     "stars": "380",
     "created": "2018-03-18T01:24:38Z",
-    "last_update": "2025-05-23T09:54:10Z"
+    "last_update": "2025-05-23T09:54:10Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/101-concurrency",
@@ -3685,7 +5065,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2022-07-21T15:20:47Z",
-    "last_update": "2025-02-19T17:40:14Z"
+    "last_update": "2025-02-19T17:40:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sunxpin/disruptor-demo",
@@ -3693,7 +5076,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2020-01-20T03:59:19Z",
-    "last_update": "2024-12-27T09:16:38Z"
+    "last_update": "2024-12-27T09:16:38Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bubblewu/disruptor-demo",
@@ -3701,7 +5087,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2019-03-29T06:10:50Z",
-    "last_update": "2024-05-14T02:13:42Z"
+    "last_update": "2024-05-14T02:13:42Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microsoft/kiota-java",
@@ -3709,7 +5098,10 @@
     "language": "Java",
     "stars": "27",
     "created": "2022-05-18T16:53:52Z",
-    "last_update": "2025-05-21T10:34:14Z"
+    "last_update": "2025-05-21T10:34:14Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/electronicarts/gatling-aws-maven-plugin",
@@ -3717,7 +5109,10 @@
     "language": "Java",
     "stars": "107",
     "created": "2015-12-21T23:13:03Z",
-    "last_update": "2025-05-07T18:00:15Z"
+    "last_update": "2025-05-07T18:00:15Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/serrodcal-quarkus/quarkus-architecture",
@@ -3725,7 +5120,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2020-04-12T10:41:38Z",
-    "last_update": "2024-06-05T20:23:46Z"
+    "last_update": "2024-06-05T20:23:46Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/philipschwarz/fruit-salad-and-fruit-snack-ADT-example-java",
@@ -3733,7 +5131,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2022-08-07T09:43:59Z",
-    "last_update": "2024-10-29T20:14:11Z"
+    "last_update": "2024-10-29T20:14:11Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LMAX-Exchange/disruptor",
@@ -3741,7 +5142,10 @@
     "language": "Java",
     "stars": "17814",
     "created": "2012-09-21T13:42:24Z",
-    "last_update": "2025-05-24T03:33:00Z"
+    "last_update": "2025-05-24T03:33:00Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/OpenHFT/Chronicle-Queue",
@@ -3749,7 +5153,10 @@
     "language": "Java",
     "stars": "3479",
     "created": "2013-06-02T15:11:33Z",
-    "last_update": "2025-05-22T10:12:07Z"
+    "last_update": "2025-05-22T10:12:07Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/HanenFourati/security-evaluation-tool",
@@ -3757,7 +5164,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2018-10-19T09:10:44Z",
-    "last_update": "2024-03-04T16:18:19Z"
+    "last_update": "2024-03-04T16:18:19Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Kexplx/msg-audit-tool",
@@ -3765,7 +5175,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2020-04-23T16:28:51Z",
-    "last_update": "2024-01-03T06:53:06Z"
+    "last_update": "2024-01-03T06:53:06Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/oracle/graalvm-reachability-metadata",
@@ -3773,7 +5186,10 @@
     "language": "Java",
     "stars": "388",
     "created": "2022-06-30T13:29:16Z",
-    "last_update": "2025-05-23T17:22:05Z"
+    "last_update": "2025-05-23T17:22:05Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openjdk/jol",
@@ -3781,7 +5197,10 @@
     "language": "Java",
     "stars": "966",
     "created": "2020-09-24T08:57:15Z",
-    "last_update": "2025-05-24T05:09:46Z"
+    "last_update": "2025-05-24T05:09:46Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stefano-lupo/Java-Proxy-Server",
@@ -3789,7 +5208,10 @@
     "language": "Java",
     "stars": "194",
     "created": "2017-03-26T22:34:58Z",
-    "last_update": "2025-05-02T02:34:03Z"
+    "last_update": "2025-05-02T02:34:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/design-pattern-reloaded",
@@ -3797,7 +5219,10 @@
     "language": "Java",
     "stars": "217",
     "created": "2015-03-04T15:29:10Z",
-    "last_update": "2025-04-14T19:33:45Z"
+    "last_update": "2025-04-14T19:33:45Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/jexpress",
@@ -3805,7 +5230,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2017-05-26T22:12:17Z",
-    "last_update": "2024-06-20T09:05:43Z"
+    "last_update": "2024-06-20T09:05:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/loom-actor",
@@ -3813,7 +5241,10 @@
     "language": "Java",
     "stars": "22",
     "created": "2021-12-09T17:06:23Z",
-    "last_update": "2025-04-21T18:44:07Z"
+    "last_update": "2025-04-21T18:44:07Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jhalterman/expiringmap",
@@ -3821,7 +5252,10 @@
     "language": "Java",
     "stars": "1026",
     "created": "2010-10-23T00:33:04Z",
-    "last_update": "2025-05-19T02:36:35Z"
+    "last_update": "2025-05-19T02:36:35Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dotty-cps-async/dotty-cps-async",
@@ -3829,7 +5263,10 @@
     "language": "Scala",
     "stars": "188",
     "created": "2020-01-01T06:44:14Z",
-    "last_update": "2025-05-21T03:03:10Z"
+    "last_update": "2025-05-21T03:03:10Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/electronicarts/ea-async",
@@ -3837,7 +5274,10 @@
     "language": "Java",
     "stars": "1401",
     "created": "2015-12-22T21:16:08Z",
-    "last_update": "2025-05-15T02:46:35Z"
+    "last_update": "2025-05-15T02:46:35Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AugustNagro/java-async-await",
@@ -3845,7 +5285,10 @@
     "language": "Java",
     "stars": "106",
     "created": "2021-10-21T22:43:18Z",
-    "last_update": "2025-03-14T11:34:04Z"
+    "last_update": "2025-03-14T11:34:04Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AugustNagro/vertx-async-await",
@@ -3853,7 +5296,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2021-10-18T02:10:07Z",
-    "last_update": "2024-10-22T03:25:28Z"
+    "last_update": "2024-10-22T03:25:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vert-x3/vertx-virtual-threads-incubator",
@@ -3861,7 +5307,10 @@
     "language": "Java",
     "stars": "118",
     "created": "2022-07-06T16:43:19Z",
-    "last_update": "2025-05-06T11:31:31Z"
+    "last_update": "2025-05-06T11:31:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mtommila/apfloat",
@@ -3869,7 +5318,10 @@
     "language": "Java",
     "stars": "61",
     "created": "2017-01-22T21:22:48Z",
-    "last_update": "2025-05-24T12:58:41Z"
+    "last_update": "2025-05-24T12:58:41Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ard333/native-binaries-benchmark",
@@ -3877,7 +5329,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2020-03-17T10:58:40Z",
-    "last_update": "2024-03-21T04:43:31Z"
+    "last_update": "2024-03-21T04:43:31Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/marianobarrios/tls-channel",
@@ -3885,7 +5340,10 @@
     "language": "Java",
     "stars": "202",
     "created": "2015-11-11T20:05:12Z",
-    "last_update": "2025-05-22T19:35:36Z"
+    "last_update": "2025-05-22T19:35:36Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/whiskeysierra/archunit-hexagonal",
@@ -3893,7 +5351,10 @@
     "language": "Kotlin",
     "stars": "18",
     "created": "2021-10-01T21:26:47Z",
-    "last_update": "2025-01-06T21:13:20Z"
+    "last_update": "2025-01-06T21:13:20Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jOOQ/jOOQ",
@@ -3901,7 +5362,10 @@
     "language": "Java",
     "stars": "6386",
     "created": "2011-04-17T10:43:33Z",
-    "last_update": "2025-05-24T15:04:41Z"
+    "last_update": "2025-05-24T15:04:41Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mabe02/lanterna",
@@ -3909,7 +5373,10 @@
     "language": "Java",
     "stars": "2413",
     "created": "2015-06-29T06:06:29Z",
-    "last_update": "2025-05-24T17:36:24Z"
+    "last_update": "2025-05-24T17:36:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Terminal & Command Line",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ebarlas/game-of-life-csp",
@@ -3917,7 +5384,10 @@
     "language": "Java",
     "stars": "144",
     "created": "2022-06-08T17:00:19Z",
-    "last_update": "2025-05-19T14:37:47Z"
+    "last_update": "2025-05-19T14:37:47Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ebarlas/project-loom-comparison",
@@ -3925,7 +5395,10 @@
     "language": "Java",
     "stars": "71",
     "created": "2022-04-26T19:56:17Z",
-    "last_update": "2025-05-20T03:25:38Z"
+    "last_update": "2025-05-20T03:25:38Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/karamelsoft/axon-bank",
@@ -3933,7 +5406,10 @@
     "language": "Kotlin",
     "stars": "23",
     "created": "2020-03-26T14:13:25Z",
-    "last_update": "2025-01-31T16:37:55Z"
+    "last_update": "2025-01-31T16:37:55Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Wisser/Jailer",
@@ -3941,7 +5417,10 @@
     "language": "Java",
     "stars": "3001",
     "created": "2011-06-20T13:28:18Z",
-    "last_update": "2025-05-24T20:41:26Z"
+    "last_update": "2025-05-24T20:41:26Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/CodeIntelligenceTesting/jazzer",
@@ -3949,7 +5428,10 @@
     "language": "Java",
     "stars": "1110",
     "created": "2021-01-28T19:08:19Z",
-    "last_update": "2025-05-17T16:22:01Z"
+    "last_update": "2025-05-17T16:22:01Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Endava/cats",
@@ -3957,7 +5439,10 @@
     "language": "Java",
     "stars": "1263",
     "created": "2020-04-02T13:14:39Z",
-    "last_update": "2025-05-23T23:19:25Z"
+    "last_update": "2025-05-23T23:19:25Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/concurrency-rosseta-stone",
@@ -3965,7 +5450,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2022-04-17T10:55:40Z",
-    "last_update": "2025-03-11T06:42:01Z"
+    "last_update": "2025-03-11T06:42:01Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kwseeker/concurrency",
@@ -3973,7 +5461,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2018-09-27T18:02:00Z",
-    "last_update": "2024-11-13T05:58:21Z"
+    "last_update": "2024-11-13T05:58:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pulumi/pulumi-java",
@@ -3981,7 +5472,10 @@
     "language": "Java",
     "stars": "77",
     "created": "2022-01-24T15:37:16Z",
-    "last_update": "2025-05-21T20:02:33Z"
+    "last_update": "2025-05-21T20:02:33Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ChannelApe/shopify-sdk",
@@ -3989,7 +5483,10 @@
     "language": "Java",
     "stars": "168",
     "created": "2018-11-05T14:22:37Z",
-    "last_update": "2025-05-02T10:56:58Z"
+    "last_update": "2025-05-02T10:56:58Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/YuanWenqing/shopify4j",
@@ -3997,7 +5494,10 @@
     "language": "Java",
     "stars": "28",
     "created": "2021-01-15T09:43:39Z",
-    "last_update": "2025-04-30T00:17:03Z"
+    "last_update": "2025-04-30T00:17:03Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ebarlas/project-loom-c5m",
@@ -4005,7 +5505,10 @@
     "language": "Java",
     "stars": "363",
     "created": "2022-04-26T18:31:16Z",
-    "last_update": "2025-05-06T11:32:30Z"
+    "last_update": "2025-05-06T11:32:30Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkiverse/quarkus-jooq",
@@ -4013,7 +5516,10 @@
     "language": "Java",
     "stars": "76",
     "created": "2021-02-05T18:21:15Z",
-    "last_update": "2025-05-22T04:15:48Z"
+    "last_update": "2025-05-22T04:15:48Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkusio/quarkus-quickstarts",
@@ -4021,7 +5527,10 @@
     "language": "Java",
     "stars": "2056",
     "created": "2018-12-03T08:25:11Z",
-    "last_update": "2025-05-22T23:44:26Z"
+    "last_update": "2025-05-22T23:44:26Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/floidgilbert/jdx",
@@ -4029,7 +5538,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2018-01-03T21:07:17Z",
-    "last_update": "2025-03-22T11:11:14Z"
+    "last_update": "2025-03-22T11:11:14Z",
+    "category": "Data Processing & Analytics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cran/rJava",
@@ -4037,7 +5549,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2014-03-13T05:58:54Z",
-    "last_update": "2024-01-27T02:35:53Z"
+    "last_update": "2024-01-27T02:35:53Z",
+    "category": "Data Processing & Analytics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/signaflo/java-timeseries",
@@ -4045,7 +5560,10 @@
     "language": "Java",
     "stars": "202",
     "created": "2016-06-11T05:09:32Z",
-    "last_update": "2025-05-05T04:02:21Z"
+    "last_update": "2025-05-05T04:02:21Z",
+    "category": "Data Processing & Analytics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Workday/timeseries-forecast",
@@ -4053,7 +5571,10 @@
     "language": "Java",
     "stars": "114",
     "created": "2017-04-12T16:42:16Z",
-    "last_update": "2025-03-16T12:55:19Z"
+    "last_update": "2025-03-16T12:55:19Z",
+    "category": "Data Processing & Analytics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/beehive-lab/TornadoVM",
@@ -4061,7 +5582,10 @@
     "language": "Java",
     "stars": "1244",
     "created": "2018-09-07T09:37:44Z",
-    "last_update": "2025-05-23T10:08:01Z"
+    "last_update": "2025-05-23T10:08:01Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "GPU",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Flowdalic/java-pinning",
@@ -4069,7 +5593,10 @@
     "language": "Java",
     "stars": "40",
     "created": "2014-11-14T16:04:12Z",
-    "last_update": "2025-03-26T09:55:42Z"
+    "last_update": "2025-03-26T09:55:42Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dashaun/initializr-plusplus",
@@ -4077,7 +5604,10 @@
     "language": "Java",
     "stars": "16",
     "created": "2022-04-13T18:54:38Z",
-    "last_update": "2025-04-09T10:21:17Z"
+    "last_update": "2025-04-09T10:21:17Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/reyerizo/jcstress-gradle-plugin",
@@ -4085,7 +5615,10 @@
     "language": "Java",
     "stars": "31",
     "created": "2015-07-09T18:38:06Z",
-    "last_update": "2024-09-05T10:49:57Z"
+    "last_update": "2024-09-05T10:49:57Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/senior-bull/jcstress-demo-maven",
@@ -4093,7 +5626,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2021-11-06T07:56:41Z",
-    "last_update": "2025-01-08T22:28:23Z"
+    "last_update": "2025-01-08T22:28:23Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/senior-bull/jcstress-demo",
@@ -4101,7 +5637,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2021-11-05T07:16:38Z",
-    "last_update": "2024-06-14T11:47:41Z"
+    "last_update": "2024-06-14T11:47:41Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openapi4j/openapi4j",
@@ -4109,7 +5648,10 @@
     "language": "Java",
     "stars": "105",
     "created": "2019-10-31T15:59:35Z",
-    "last_update": "2025-04-08T07:24:42Z"
+    "last_update": "2025-04-08T07:24:42Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openjdk/jcstress",
@@ -4117,7 +5659,10 @@
     "language": "Java",
     "stars": "449",
     "created": "2020-09-24T08:56:18Z",
-    "last_update": "2025-05-14T14:09:44Z"
+    "last_update": "2025-05-14T14:09:44Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vmlens/vmlens",
@@ -4125,7 +5670,10 @@
     "language": "Java",
     "stars": "109",
     "created": "2020-07-21T11:46:23Z",
-    "last_update": "2025-05-22T07:53:25Z"
+    "last_update": "2025-05-22T07:53:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mtnaln/Singleton_Design_Pattern_Thread_Safe",
@@ -4133,7 +5681,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2018-10-06T21:29:28Z",
-    "last_update": "2024-08-12T19:42:15Z"
+    "last_update": "2024-08-12T19:42:15Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sharmar0790/quarkus-rest-api",
@@ -4141,7 +5692,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2021-03-15T22:43:16Z",
-    "last_update": "2024-10-11T04:11:36Z"
+    "last_update": "2024-10-11T04:11:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/wiverson/htmx-demo",
@@ -4149,7 +5703,10 @@
     "language": "Java",
     "stars": "321",
     "created": "2021-04-14T00:18:45Z",
-    "last_update": "2025-05-12T11:13:38Z"
+    "last_update": "2025-05-12T11:13:38Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/twilio/twilio-java",
@@ -4157,7 +5714,10 @@
     "language": "Java",
     "stars": "504",
     "created": "2009-09-15T06:04:28Z",
-    "last_update": "2025-05-22T14:42:43Z"
+    "last_update": "2025-05-22T14:42:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kilmajster/ngrok-spring-boot-starter",
@@ -4165,7 +5725,10 @@
     "language": "Java",
     "stars": "133",
     "created": "2018-07-18T08:44:46Z",
-    "last_update": "2025-04-30T03:11:41Z"
+    "last_update": "2025-04-30T03:11:41Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/freva/ascii-table",
@@ -4173,7 +5736,10 @@
     "language": "Java",
     "stars": "125",
     "created": "2017-07-19T21:58:28Z",
-    "last_update": "2025-05-22T14:31:42Z"
+    "last_update": "2025-05-22T14:31:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arrow-kt/Arrow-KMP-Template",
@@ -4181,7 +5747,10 @@
     "language": "Kotlin",
     "stars": "16",
     "created": "2021-08-01T16:41:49Z",
-    "last_update": "2025-04-24T08:49:31Z"
+    "last_update": "2025-04-24T08:49:31Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/amadeus4dev/amadeus-java",
@@ -4189,7 +5758,10 @@
     "language": "Java",
     "stars": "95",
     "created": "2018-04-06T16:11:43Z",
-    "last_update": "2025-05-04T18:51:13Z"
+    "last_update": "2025-05-04T18:51:13Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microprofile/microprofile-open-api",
@@ -4197,7 +5769,10 @@
     "language": "Java",
     "stars": "136",
     "created": "2017-07-07T14:44:14Z",
-    "last_update": "2025-05-22T14:54:31Z"
+    "last_update": "2025-05-22T14:54:31Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thesaravanakumar/Cognizant-Early-Engagement",
@@ -4205,7 +5780,10 @@
     "language": "Java",
     "stars": "241",
     "created": "2021-07-11T11:50:59Z",
-    "last_update": "2025-04-16T16:14:17Z"
+    "last_update": "2025-04-16T16:14:17Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/WebFuzzing/EvoMaster",
@@ -4213,7 +5791,10 @@
     "language": "Kotlin",
     "stars": "572",
     "created": "2017-05-25T09:11:23Z",
-    "last_update": "2025-05-25T09:13:24Z"
+    "last_update": "2025-05-25T09:13:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/codingsoo/REST_Go",
@@ -4221,7 +5802,10 @@
     "language": "Java",
     "stars": "27",
     "created": "2022-01-28T15:22:56Z",
-    "last_update": "2025-05-20T14:02:17Z"
+    "last_update": "2025-05-20T14:02:17Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/isa-group/RESTest",
@@ -4229,7 +5813,10 @@
     "language": "Java",
     "stars": "217",
     "created": "2018-02-08T11:27:45Z",
-    "last_update": "2025-05-11T15:01:51Z"
+    "last_update": "2025-05-11T15:01:51Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xuxueli/xxl-job",
@@ -4237,7 +5824,10 @@
     "language": "Java",
     "stars": "28789",
     "created": "2015-11-28T12:59:34Z",
-    "last_update": "2025-05-25T06:00:08Z"
+    "last_update": "2025-05-25T06:00:08Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DuGuQiuBai/Java",
@@ -4245,7 +5835,10 @@
     "language": "Java",
     "stars": "13400",
     "created": "2015-11-25T07:30:08Z",
-    "last_update": "2025-05-25T08:22:00Z"
+    "last_update": "2025-05-25T08:22:00Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/commonmark/commonmark-java",
@@ -4253,7 +5846,10 @@
     "language": "Java",
     "stars": "2464",
     "created": "2015-07-22T01:08:55Z",
-    "last_update": "2025-05-25T09:15:11Z"
+    "last_update": "2025-05-25T09:15:11Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/square/okhttp",
@@ -4261,7 +5857,10 @@
     "language": "Kotlin",
     "stars": "46388",
     "created": "2012-07-23T13:42:55Z",
-    "last_update": "2025-05-25T06:15:21Z"
+    "last_update": "2025-05-25T06:15:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ThomasKrieger/benchmarks",
@@ -4269,7 +5868,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2016-08-13T09:17:38Z",
-    "last_update": "2025-04-22T15:19:43Z"
+    "last_update": "2025-04-22T15:19:43Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/smallrye/smallrye-open-api",
@@ -4277,7 +5879,10 @@
     "language": "Java",
     "stars": "126",
     "created": "2018-05-25T20:20:58Z",
-    "last_update": "2025-05-23T00:08:38Z"
+    "last_update": "2025-05-23T00:08:38Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/validator/validator",
@@ -4285,7 +5890,10 @@
     "language": "Java",
     "stars": "1796",
     "created": "2010-12-03T02:00:23Z",
-    "last_update": "2025-05-24T17:18:20Z"
+    "last_update": "2025-05-24T17:18:20Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/validator/maven-plugin",
@@ -4293,7 +5901,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2020-09-08T07:15:41Z",
-    "last_update": "2024-06-20T10:36:56Z"
+    "last_update": "2024-06-20T10:36:56Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ebarlas/microhttp",
@@ -4301,7 +5912,10 @@
     "language": "Java",
     "stars": "568",
     "created": "2022-02-11T23:14:30Z",
-    "last_update": "2025-05-22T16:20:16Z"
+    "last_update": "2025-05-22T16:20:16Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ultraq/thymeleaf-layout-dialect",
@@ -4309,7 +5923,10 @@
     "language": "Groovy",
     "stars": "728",
     "created": "2012-05-27T09:23:11Z",
-    "last_update": "2025-05-18T12:38:06Z"
+    "last_update": "2025-05-18T12:38:06Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mybatis/mybatis-3",
@@ -4317,7 +5934,10 @@
     "language": "Java",
     "stars": "20076",
     "created": "2013-02-14T19:03:32Z",
-    "last_update": "2025-05-25T01:08:50Z"
+    "last_update": "2025-05-25T01:08:50Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/OpenAPITools/openapi-diff",
@@ -4325,7 +5945,10 @@
     "language": "Java",
     "stars": "926",
     "created": "2017-12-12T00:39:30Z",
-    "last_update": "2025-05-25T10:44:54Z"
+    "last_update": "2025-05-25T10:44:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/OpenAPITools/openapi-style-validator",
@@ -4333,7 +5956,10 @@
     "language": "Java",
     "stars": "215",
     "created": "2017-08-22T16:53:13Z",
-    "last_update": "2025-05-16T08:24:25Z"
+    "last_update": "2025-05-16T08:24:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jknack/handlebars.java",
@@ -4341,7 +5967,10 @@
     "language": "Java",
     "stars": "1498",
     "created": "2012-05-27T03:22:22Z",
-    "last_update": "2025-05-23T12:22:57Z"
+    "last_update": "2025-05-23T12:22:57Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nurkiewicz/java-concurrency-workshop",
@@ -4349,7 +5978,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2021-11-15T12:24:13Z",
-    "last_update": "2025-02-11T16:12:25Z"
+    "last_update": "2025-02-11T16:12:25Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/piomin/sample-spring-kafka-microservices",
@@ -4357,7 +5989,10 @@
     "language": "Java",
     "stars": "339",
     "created": "2022-01-21T15:21:34Z",
-    "last_update": "2025-05-23T08:11:24Z"
+    "last_update": "2025-05-23T08:11:24Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/samskivert/jmustache",
@@ -4365,7 +6000,10 @@
     "language": "Java",
     "stars": "850",
     "created": "2010-10-24T16:30:29Z",
-    "last_update": "2025-04-22T14:51:34Z"
+    "last_update": "2025-04-22T14:51:34Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/micrometer-metrics/micrometer",
@@ -4373,7 +6011,10 @@
     "language": "Java",
     "stars": "4613",
     "created": "2017-04-10T21:36:51Z",
-    "last_update": "2025-05-24T05:33:22Z"
+    "last_update": "2025-05-24T05:33:22Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forezp/SpringCloudLearning",
@@ -4381,7 +6022,10 @@
     "language": "Java",
     "stars": "17953",
     "created": "2017-04-08T10:06:56Z",
-    "last_update": "2025-05-24T02:57:06Z"
+    "last_update": "2025-05-24T02:57:06Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lightbend-labs/benchdb",
@@ -4389,7 +6033,10 @@
     "language": "Scala",
     "stars": "58",
     "created": "2020-03-31T13:25:09Z",
-    "last_update": "2025-03-25T00:59:57Z"
+    "last_update": "2025-03-25T00:59:57Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eventuate-tram/eventuate-tram-sagas",
@@ -4397,7 +6044,10 @@
     "language": "Java",
     "stars": "1041",
     "created": "2017-10-23T04:01:49Z",
-    "last_update": "2025-05-20T15:49:46Z"
+    "last_update": "2025-05-20T15:49:46Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Albertoimpl/spring-cloud-gateway-grpc",
@@ -4405,7 +6055,10 @@
     "language": "Java",
     "stars": "33",
     "created": "2021-11-17T14:44:28Z",
-    "last_update": "2025-05-20T00:20:33Z"
+    "last_update": "2025-05-20T00:20:33Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Albertoimpl/spring-cloud-gateway-graphql",
@@ -4413,7 +6066,10 @@
     "language": "Java",
     "stars": "27",
     "created": "2021-12-02T14:48:26Z",
-    "last_update": "2024-11-27T07:22:14Z"
+    "last_update": "2024-11-27T07:22:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tsegismont/graphql-api-gateway-workshop",
@@ -4421,7 +6077,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2019-10-10T13:04:47Z",
-    "last_update": "2025-02-24T17:05:37Z"
+    "last_update": "2025-02-24T17:05:37Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/joaquin-alfaro/graphql-gateway",
@@ -4429,7 +6088,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2021-01-03T19:46:31Z",
-    "last_update": "2024-11-18T06:21:26Z"
+    "last_update": "2024-11-18T06:21:26Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-io/nohttp",
@@ -4437,7 +6099,10 @@
     "language": "Java",
     "stars": "223",
     "created": "2019-03-27T19:51:58Z",
-    "last_update": "2025-04-30T06:41:22Z"
+    "last_update": "2025-04-30T06:41:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/axkr/symja_android_library",
@@ -4445,7 +6110,10 @@
     "language": "Java",
     "stars": "410",
     "created": "2013-12-04T17:11:24Z",
-    "last_update": "2025-05-22T15:29:30Z"
+    "last_update": "2025-05-22T15:29:30Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/OpenAPITools/openapi-generator",
@@ -4453,7 +6121,10 @@
     "language": "Java",
     "stars": "23829",
     "created": "2018-05-12T09:57:56Z",
-    "last_update": "2025-05-25T10:34:51Z"
+    "last_update": "2025-05-25T10:34:51Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/daily-epsilon",
@@ -4461,7 +6132,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2022-01-09T14:30:29Z",
-    "last_update": "2024-06-18T15:13:12Z"
+    "last_update": "2024-06-18T15:13:12Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/themadcreator/gosper-java",
@@ -4469,7 +6143,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2012-06-02T18:47:52Z",
-    "last_update": "2024-10-31T03:08:10Z"
+    "last_update": "2024-10-31T03:08:10Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gavinklfong/stream-api-exercises",
@@ -4477,7 +6154,10 @@
     "language": "Java",
     "stars": "86",
     "created": "2021-04-29T14:04:13Z",
-    "last_update": "2025-05-14T03:33:49Z"
+    "last_update": "2025-05-14T03:33:49Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/attacomsian/code-examples",
@@ -4485,7 +6165,10 @@
     "language": "Java",
     "stars": "153",
     "created": "2019-01-28T11:20:51Z",
-    "last_update": "2025-04-26T21:17:34Z"
+    "last_update": "2025-04-26T21:17:34Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ssssssss-team/spider-flow",
@@ -4493,7 +6176,10 @@
     "language": "Java",
     "stars": "9971",
     "created": "2020-03-27T11:07:15Z",
-    "last_update": "2025-05-25T08:50:27Z"
+    "last_update": "2025-05-25T08:50:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/keycloak/keycloak",
@@ -4501,7 +6187,10 @@
     "language": "Java",
     "stars": "27341",
     "created": "2013-07-02T13:38:51Z",
-    "last_update": "2025-05-25T09:51:56Z"
+    "last_update": "2025-05-25T09:51:56Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Security & Cryptography",
+    "visible": "true"
   },
   {
     "url": "https://github.com/springdoc/springdoc-openapi",
@@ -4509,7 +6198,10 @@
     "language": "Java",
     "stars": "3433",
     "created": "2019-07-11T23:08:20Z",
-    "last_update": "2025-05-21T16:09:17Z"
+    "last_update": "2025-05-21T16:09:17Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alibaba/arthas",
@@ -4517,7 +6209,10 @@
     "language": "Java",
     "stars": "36284",
     "created": "2018-08-29T17:15:57Z",
-    "last_update": "2025-05-25T03:42:43Z"
+    "last_update": "2025-05-25T03:42:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/sos",
@@ -4525,7 +6220,10 @@
     "language": "Java",
     "stars": "245",
     "created": "2017-09-13T20:17:45Z",
-    "last_update": "2025-04-02T15:38:35Z"
+    "last_update": "2025-04-02T15:38:35Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/norbertspiess/gradle-modulith",
@@ -4533,7 +6231,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2021-05-31T19:52:19Z",
-    "last_update": "2024-10-31T14:10:00Z"
+    "last_update": "2024-10-31T14:10:00Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bslota/transactional-event-listener",
@@ -4541,7 +6242,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2017-07-05T13:09:33Z",
-    "last_update": "2024-10-08T18:14:33Z"
+    "last_update": "2024-10-08T18:14:33Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jtablesaw/tablesaw",
@@ -4549,7 +6253,10 @@
     "language": "Java",
     "stars": "3641",
     "created": "2016-01-01T14:58:28Z",
-    "last_update": "2025-05-23T22:09:50Z"
+    "last_update": "2025-05-23T22:09:50Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sh0nk/matplotlib4j",
@@ -4557,7 +6264,10 @@
     "language": "Java",
     "stars": "229",
     "created": "2017-09-25T14:53:46Z",
-    "last_update": "2025-05-10T11:37:08Z"
+    "last_update": "2025-05-10T11:37:08Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/benjiman/recordmixins",
@@ -4565,7 +6275,10 @@
     "language": "Java",
     "stars": "43",
     "created": "2020-05-30T19:06:38Z",
-    "last_update": "2025-03-04T15:56:31Z"
+    "last_update": "2025-03-04T15:56:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/tactical-ddd-workshop",
@@ -4573,7 +6286,10 @@
     "language": "Java",
     "stars": "35",
     "created": "2021-11-22T12:23:12Z",
-    "last_update": "2025-03-22T23:19:25Z"
+    "last_update": "2025-03-22T23:19:25Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microsoft/jfr-streaming",
@@ -4581,7 +6297,10 @@
     "language": "Java",
     "stars": "91",
     "created": "2021-01-28T21:15:58Z",
-    "last_update": "2024-12-29T14:41:09Z"
+    "last_update": "2024-12-29T14:41:09Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/christophetd/log4shell-vulnerable-app",
@@ -4589,7 +6308,10 @@
     "language": "Java",
     "stars": "1118",
     "created": "2021-12-10T12:38:20Z",
-    "last_update": "2025-05-23T16:22:24Z"
+    "last_update": "2025-05-23T16:22:24Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/chrishantha/sample-java-programs",
@@ -4597,7 +6319,10 @@
     "language": "Java",
     "stars": "72",
     "created": "2015-07-21T13:06:22Z",
-    "last_update": "2025-05-13T09:22:28Z"
+    "last_update": "2025-05-13T09:22:28Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DiUS/java-faker",
@@ -4605,7 +6330,10 @@
     "language": "Java",
     "stars": "4861",
     "created": "2011-06-06T01:01:21Z",
-    "last_update": "2025-05-24T21:37:44Z"
+    "last_update": "2025-05-24T21:37:44Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MaartenSmeets/db_perftest",
@@ -4613,7 +6341,10 @@
     "language": "Java",
     "stars": "40",
     "created": "2020-01-02T13:13:47Z",
-    "last_update": "2024-05-20T10:02:28Z"
+    "last_update": "2024-05-20T10:02:28Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/r2dbc/r2dbc-pool",
@@ -4621,7 +6352,10 @@
     "language": "Java",
     "stars": "350",
     "created": "2019-03-28T20:21:50Z",
-    "last_update": "2025-04-29T13:39:53Z"
+    "last_update": "2025-04-29T13:39:53Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jdbc-observations/datasource-proxy",
@@ -4629,7 +6363,10 @@
     "language": "Java",
     "stars": "712",
     "created": "2012-04-18T02:59:32Z",
-    "last_update": "2025-05-21T08:53:46Z"
+    "last_update": "2025-05-21T08:53:46Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/p6spy/p6spy",
@@ -4637,7 +6374,10 @@
     "language": "Java",
     "stars": "2146",
     "created": "2010-12-28T21:35:51Z",
-    "last_update": "2025-05-24T08:28:25Z"
+    "last_update": "2025-05-24T08:28:25Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-petclinic/spring-petclinic-data-jdbc",
@@ -4645,7 +6385,10 @@
     "language": "Java",
     "stars": "107",
     "created": "2018-10-09T20:21:13Z",
-    "last_update": "2025-05-19T12:47:24Z"
+    "last_update": "2025-05-19T12:47:24Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xmolecules/jmolecules-integrations",
@@ -4653,7 +6396,10 @@
     "language": "Java",
     "stars": "96",
     "created": "2021-02-01T20:10:06Z",
-    "last_update": "2025-04-29T10:21:02Z"
+    "last_update": "2025-04-29T10:21:02Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jqwik-team/jqwik",
@@ -4661,7 +6407,10 @@
     "language": "Java",
     "stars": "596",
     "created": "2016-03-21T07:46:36Z",
-    "last_update": "2025-05-23T19:32:52Z"
+    "last_update": "2025-05-23T19:32:52Z",
+    "category": "Database & ORM",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/yudaocode/SpringBoot-Labs",
@@ -4669,7 +6418,10 @@
     "language": "Java",
     "stars": "19622",
     "created": "2018-09-12T14:51:46Z",
-    "last_update": "2025-05-25T10:10:30Z"
+    "last_update": "2025-05-25T10:10:30Z",
+    "category": "Database & ORM",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-io/spring-javaformat",
@@ -4677,7 +6429,10 @@
     "language": "Java",
     "stars": "857",
     "created": "2018-04-02T19:48:16Z",
-    "last_update": "2025-05-25T11:24:13Z"
+    "last_update": "2025-05-25T11:24:13Z",
+    "category": "Database & ORM",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alibaba/alibaba-rsocket-broker",
@@ -4685,7 +6440,10 @@
     "language": "Java",
     "stars": "759",
     "created": "2019-11-27T05:42:01Z",
-    "last_update": "2025-04-30T06:43:36Z"
+    "last_update": "2025-04-30T06:43:36Z",
+    "category": "Networking & Communication",
+    "category_corrected": "Reactive Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hantsy/spring-native-example",
@@ -4693,7 +6451,10 @@
     "language": "Java",
     "stars": "21",
     "created": "2021-04-08T13:49:04Z",
-    "last_update": "2024-10-08T04:19:03Z"
+    "last_update": "2024-10-08T04:19:03Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jonashackt/spring-boot-graalvm",
@@ -4701,7 +6462,10 @@
     "language": "Java",
     "stars": "239",
     "created": "2020-03-20T10:02:07Z",
-    "last_update": "2025-03-13T00:39:17Z"
+    "last_update": "2025-03-13T00:39:17Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eirslett/frontend-maven-plugin",
@@ -4709,7 +6473,10 @@
     "language": "Java",
     "stars": "4295",
     "created": "2013-08-30T14:44:38Z",
-    "last_update": "2025-05-21T23:32:52Z"
+    "last_update": "2025-05-21T23:32:52Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AndriyKalashnykov/spring-microservices-k8s",
@@ -4717,7 +6484,10 @@
     "language": "Java",
     "stars": "126",
     "created": "2020-03-23T15:54:56Z",
-    "last_update": "2025-05-15T08:05:22Z"
+    "last_update": "2025-05-15T08:05:22Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aws/aws-sdk-java",
@@ -4725,7 +6495,10 @@
     "language": "Java",
     "stars": "4160",
     "created": "2010-03-22T23:34:58Z",
-    "last_update": "2025-05-23T08:48:19Z"
+    "last_update": "2025-05-23T08:48:19Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aha-oretama/spring-boot-prometheus-grafana-sample",
@@ -4733,7 +6506,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2018-02-21T03:04:55Z",
-    "last_update": "2025-03-31T15:14:55Z"
+    "last_update": "2025-03-31T15:14:55Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/basepom/duplicate-finder-maven-plugin",
@@ -4741,7 +6517,10 @@
     "language": "Java",
     "stars": "187",
     "created": "2014-11-29T23:48:25Z",
-    "last_update": "2025-03-19T17:17:46Z"
+    "last_update": "2025-03-19T17:17:46Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/maven",
@@ -4749,7 +6528,10 @@
     "language": "Java",
     "stars": "4614",
     "created": "2009-05-21T03:22:03Z",
-    "last_update": "2025-05-25T06:36:55Z"
+    "last_update": "2025-05-25T06:36:55Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/st-tu-dresden/videoshop",
@@ -4757,7 +6539,10 @@
     "language": "Java",
     "stars": "88",
     "created": "2014-08-01T12:50:43Z",
-    "last_update": "2025-03-20T01:18:59Z"
+    "last_update": "2025-03-20T01:18:59Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xmolecules/jmolecules-examples",
@@ -4765,7 +6550,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2021-08-05T14:58:37Z",
-    "last_update": "2025-03-11T11:09:12Z"
+    "last_update": "2025-03-11T11:09:12Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarano/quarano-application",
@@ -4773,7 +6561,10 @@
     "language": "Java",
     "stars": "96",
     "created": "2020-04-02T13:26:46Z",
-    "last_update": "2025-02-20T10:49:49Z"
+    "last_update": "2025-02-20T10:49:49Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/st-tu-dresden/salespoint",
@@ -4781,7 +6572,10 @@
     "language": "Java",
     "stars": "187",
     "created": "2013-12-18T12:44:22Z",
-    "last_update": "2025-05-19T15:02:09Z"
+    "last_update": "2025-05-19T15:02:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/typelevel/cats",
@@ -4789,7 +6583,10 @@
     "language": "Scala",
     "stars": "5324",
     "created": "2015-01-28T20:26:48Z",
-    "last_update": "2025-05-25T05:36:54Z"
+    "last_update": "2025-05-25T05:36:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/spring-socks",
@@ -4797,7 +6594,10 @@
     "language": "Java",
     "stars": "60",
     "created": "2020-06-26T07:57:54Z",
-    "last_update": "2024-12-20T08:14:36Z"
+    "last_update": "2024-12-20T08:14:36Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dsyer/inner-loop-boot-k8s",
@@ -4805,7 +6605,10 @@
     "language": "Java",
     "stars": "67",
     "created": "2021-04-06T13:00:14Z",
-    "last_update": "2025-04-30T06:22:51Z"
+    "last_update": "2025-04-30T06:22:51Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-petclinic/spring-petclinic-microservices",
@@ -4813,7 +6616,10 @@
     "language": "Java",
     "stars": "1847",
     "created": "2016-11-12T14:57:30Z",
-    "last_update": "2025-05-25T03:43:57Z"
+    "last_update": "2025-05-25T03:43:57Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/google-java-format",
@@ -4821,7 +6627,10 @@
     "language": "Java",
     "stars": "5806",
     "created": "2015-05-11T20:38:28Z",
-    "last_update": "2025-05-25T08:04:00Z"
+    "last_update": "2025-05-25T08:04:00Z",
+    "category": "Database & ORM",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/diffplug/spotless",
@@ -4829,7 +6638,10 @@
     "language": "Java",
     "stars": "4884",
     "created": "2015-04-27T19:10:58Z",
-    "last_update": "2025-05-25T04:06:41Z"
+    "last_update": "2025-05-25T04:06:41Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-authorization-server",
@@ -4837,7 +6649,10 @@
     "language": "Java",
     "stars": "4995",
     "created": "2020-03-17T17:28:57Z",
-    "last_update": "2025-05-25T06:57:31Z"
+    "last_update": "2025-05-25T06:57:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Security & Cryptography",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/101-ddd",
@@ -4845,7 +6660,10 @@
     "language": "Java",
     "stars": "8",
     "created": "2021-07-02T06:42:15Z",
-    "last_update": "2025-02-19T17:40:15Z"
+    "last_update": "2025-02-19T17:40:15Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arrow-kt/Arrow-JVM-Template",
@@ -4853,7 +6671,10 @@
     "language": "Kotlin",
     "stars": "10",
     "created": "2021-08-01T16:40:52Z",
-    "last_update": "2025-04-22T17:41:00Z"
+    "last_update": "2025-04-22T17:41:00Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lukas-krecan/ShedLock",
@@ -4861,7 +6682,10 @@
     "language": "Java",
     "stars": "3865",
     "created": "2016-12-11T13:53:59Z",
-    "last_update": "2025-05-23T17:18:24Z"
+    "last_update": "2025-05-23T17:18:24Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/doocs/jvm",
@@ -4869,7 +6693,10 @@
     "language": "Java",
     "stars": "10781",
     "created": "2018-06-23T01:12:59Z",
-    "last_update": "2025-05-25T09:25:37Z"
+    "last_update": "2025-05-25T09:25:37Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/strimzi/strimzi-kafka-operator",
@@ -4877,7 +6704,10 @@
     "language": "Java",
     "stars": "5246",
     "created": "2016-05-06T08:52:33Z",
-    "last_update": "2025-05-24T18:48:24Z"
+    "last_update": "2025-05-24T18:48:24Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kasramp/COVID-19-Telegram-bot",
@@ -4885,7 +6715,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2020-03-14T21:48:55Z",
-    "last_update": "2025-04-14T17:51:27Z"
+    "last_update": "2025-04-14T17:51:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/magcode/daikin-mqtt",
@@ -4893,7 +6726,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2018-01-01T11:28:06Z",
-    "last_update": "2024-06-01T14:25:13Z"
+    "last_update": "2024-06-01T14:25:13Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/netty/netty-incubator-codec-http3",
@@ -4901,7 +6737,10 @@
     "language": "Java",
     "stars": "178",
     "created": "2020-11-26T09:50:03Z",
-    "last_update": "2025-05-21T07:05:33Z"
+    "last_update": "2025-05-21T07:05:33Z",
+    "category": "Language Features & Experiments",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gAmUssA/testcontainers-java-module-confluent-platform",
@@ -4909,7 +6748,10 @@
     "language": "Java",
     "stars": "48",
     "created": "2017-10-11T04:54:55Z",
-    "last_update": "2024-07-07T12:07:02Z"
+    "last_update": "2024-07-07T12:07:02Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/r2dbc/r2dbc-h2",
@@ -4917,7 +6759,10 @@
     "language": "Java",
     "stars": "207",
     "created": "2018-09-29T18:06:16Z",
-    "last_update": "2025-05-25T11:28:08Z"
+    "last_update": "2025-05-25T11:28:08Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/obsidiandynamics/kafdrop",
@@ -4925,7 +6770,10 @@
     "language": "Java",
     "stars": "5836",
     "created": "2019-05-27T08:46:56Z",
-    "last_update": "2025-05-25T11:13:14Z"
+    "last_update": "2025-05-25T11:13:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb",
@@ -4933,7 +6781,10 @@
     "language": "Java",
     "stars": "491",
     "created": "2020-04-18T20:37:47Z",
-    "last_update": "2025-05-12T07:40:41Z"
+    "last_update": "2025-05-12T07:40:41Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/PlaytikaOSS/testcontainers-spring-boot",
@@ -4941,7 +6792,10 @@
     "language": "Java",
     "stars": "867",
     "created": "2017-10-22T19:17:46Z",
-    "last_update": "2025-05-23T10:38:12Z"
+    "last_update": "2025-05-23T10:38:12Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/simplesteph/kafka-avro-course",
@@ -4949,7 +6803,10 @@
     "language": "Java",
     "stars": "191",
     "created": "2017-11-30T04:14:04Z",
-    "last_update": "2025-05-08T03:53:38Z"
+    "last_update": "2025-05-08T03:53:38Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/simplesteph/kafka-streams-course",
@@ -4957,7 +6814,10 @@
     "language": "Java",
     "stars": "765",
     "created": "2017-08-07T10:52:36Z",
-    "last_update": "2025-05-22T19:51:37Z"
+    "last_update": "2025-05-22T19:51:37Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/spring-events-deep-dive",
@@ -4965,7 +6825,10 @@
     "language": "Java",
     "stars": "42",
     "created": "2020-09-02T15:28:10Z",
-    "last_update": "2024-10-08T18:16:15Z"
+    "last_update": "2024-10-08T18:16:15Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cdimascio/openapi-spring-webflux-validator",
@@ -4973,7 +6836,10 @@
     "language": "Kotlin",
     "stars": "97",
     "created": "2017-11-29T15:41:04Z",
-    "last_update": "2025-02-09T11:27:52Z"
+    "last_update": "2025-02-09T11:27:52Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/moduliths/moduliths",
@@ -4981,7 +6847,10 @@
     "language": "Java",
     "stars": "832",
     "created": "2018-05-15T20:48:14Z",
-    "last_update": "2025-05-14T08:41:24Z"
+    "last_update": "2025-05-14T08:41:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Randgalt/record-builder",
@@ -4989,7 +6858,10 @@
     "language": "Java",
     "stars": "819",
     "created": "2019-12-16T19:41:27Z",
-    "last_update": "2025-05-20T07:31:52Z"
+    "last_update": "2025-05-20T07:31:52Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thmuch/archunit-demos",
@@ -4997,7 +6869,10 @@
     "language": "Java",
     "stars": "20",
     "created": "2019-04-30T19:43:49Z",
-    "last_update": "2025-02-27T18:06:12Z"
+    "last_update": "2025-02-27T18:06:12Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jspecify/jspecify",
@@ -5005,7 +6880,10 @@
     "language": "Java",
     "stars": "724",
     "created": "2018-09-17T16:08:13Z",
-    "last_update": "2025-05-23T22:26:13Z"
+    "last_update": "2025-05-23T22:26:13Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-data-relational",
@@ -5013,7 +6891,10 @@
     "language": "Java",
     "stars": "794",
     "created": "2017-02-15T15:47:29Z",
-    "last_update": "2025-05-18T13:05:05Z"
+    "last_update": "2025-05-18T13:05:05Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rsocket/rsocket-java",
@@ -5021,7 +6902,10 @@
     "language": "Java",
     "stars": "2368",
     "created": "2015-07-08T04:36:42Z",
-    "last_update": "2025-05-18T16:19:07Z"
+    "last_update": "2025-05-18T16:19:07Z",
+    "category": "Networking & Communication",
+    "category_corrected": "Reactive Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/schauder/talk-spring-data-jdbc",
@@ -5029,7 +6913,10 @@
     "language": "Java",
     "stars": "38",
     "created": "2018-04-09T07:48:59Z",
-    "last_update": "2025-05-06T08:47:00Z"
+    "last_update": "2025-05-06T08:47:00Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mariadb-corporation/mariadb-connector-r2dbc",
@@ -5037,7 +6924,10 @@
     "language": "Java",
     "stars": "119",
     "created": "2020-01-13T09:33:23Z",
-    "last_update": "2024-12-30T08:00:14Z"
+    "last_update": "2024-12-30T08:00:14Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/rsc",
@@ -5045,7 +6935,10 @@
     "language": "Java",
     "stars": "249",
     "created": "2019-11-27T14:08:56Z",
-    "last_update": "2025-05-07T11:41:17Z"
+    "last_update": "2025-05-07T11:41:17Z",
+    "category": "Networking & Communication",
+    "category_corrected": "Reactive Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bijukunjummen/backpressure-demo",
@@ -5053,7 +6946,10 @@
     "language": "Kotlin",
     "stars": "6",
     "created": "2020-07-24T22:51:23Z",
-    "last_update": "2024-05-12T16:38:51Z"
+    "last_update": "2024-05-12T16:38:51Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cs-au-dk/dk.brics.automaton",
@@ -5061,7 +6957,10 @@
     "language": "Java",
     "stars": "223",
     "created": "2012-07-12T21:01:30Z",
-    "last_update": "2025-05-18T04:12:56Z"
+    "last_update": "2025-05-18T04:12:56Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mifmif/Generex",
@@ -5069,7 +6968,10 @@
     "language": "Java",
     "stars": "380",
     "created": "2014-07-08T12:49:38Z",
-    "last_update": "2025-05-12T18:57:18Z"
+    "last_update": "2025-05-12T18:57:18Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aws-samples/designing-cloud-native-microservices-on-aws",
@@ -5077,7 +6979,10 @@
     "language": "Java",
     "stars": "305",
     "created": "2019-12-13T18:15:07Z",
-    "last_update": "2025-05-24T20:59:03Z"
+    "last_update": "2025-05-24T20:59:03Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/humank/ddd-practitioners-ref",
@@ -5085,7 +6990,10 @@
     "language": "Java",
     "stars": "317",
     "created": "2018-05-05T11:24:53Z",
-    "last_update": "2025-04-15T04:45:43Z"
+    "last_update": "2025-04-15T04:45:43Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/anton-liauchuk/java-interview",
@@ -5093,7 +7001,10 @@
     "language": "Java",
     "stars": "279",
     "created": "2019-05-25T18:26:55Z",
-    "last_update": "2025-05-20T00:31:55Z"
+    "last_update": "2025-05-20T00:31:55Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jmeter-maven-plugin/jmeter-maven-plugin",
@@ -5101,7 +7012,10 @@
     "language": "Java",
     "stars": "432",
     "created": "2010-10-08T02:24:31Z",
-    "last_update": "2025-04-11T09:50:57Z"
+    "last_update": "2025-04-11T09:50:57Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jaruizes/microservice-archetype",
@@ -5109,7 +7023,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2020-03-27T00:03:51Z",
-    "last_update": "2024-10-18T21:23:24Z"
+    "last_update": "2024-10-18T21:23:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eugene-khyst/spring-data-examples",
@@ -5117,7 +7034,10 @@
     "language": "Java",
     "stars": "102",
     "created": "2013-11-22T21:48:21Z",
-    "last_update": "2025-02-07T22:27:44Z"
+    "last_update": "2025-02-07T22:27:44Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aeron-io/aeron",
@@ -5125,7 +7045,10 @@
     "language": "Java",
     "stars": "7767",
     "created": "2014-02-07T17:16:58Z",
-    "last_update": "2025-05-25T11:43:25Z"
+    "last_update": "2025-05-25T11:43:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thegreystone/jmc-jshell",
@@ -5133,7 +7056,10 @@
     "language": "Java",
     "stars": "46",
     "created": "2018-07-04T11:16:19Z",
-    "last_update": "2025-01-29T03:24:26Z"
+    "last_update": "2025-01-29T03:24:26Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/chen0040/java-reinforcement-learning",
@@ -5141,7 +7067,10 @@
     "language": "Java",
     "stars": "129",
     "created": "2017-05-06T08:54:13Z",
-    "last_update": "2025-04-30T07:47:40Z"
+    "last_update": "2025-04-30T07:47:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/helidon-io/helidon",
@@ -5149,7 +7078,10 @@
     "language": "Java",
     "stars": "3630",
     "created": "2018-08-27T11:03:52Z",
-    "last_update": "2025-05-23T14:52:18Z"
+    "last_update": "2025-05-23T14:52:18Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "JVM Frameworks",
+    "visible": "true"
   },
   {
     "url": "https://github.com/awspring/spring-cloud-aws",
@@ -5157,7 +7089,10 @@
     "language": "Java",
     "stars": "969",
     "created": "2020-09-30T22:40:15Z",
-    "last_update": "2025-05-24T22:15:03Z"
+    "last_update": "2025-05-24T22:15:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/societe-generale/arch-unit-maven-plugin",
@@ -5165,7 +7100,10 @@
     "language": "Java",
     "stars": "120",
     "created": "2019-02-20T06:14:38Z",
-    "last_update": "2025-04-10T15:19:15Z"
+    "last_update": "2025-04-10T15:19:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hibernate/hibernate-reactive",
@@ -5173,7 +7111,10 @@
     "language": "Java",
     "stars": "456",
     "created": "2019-01-25T14:28:07Z",
-    "last_update": "2025-05-22T15:34:45Z"
+    "last_update": "2025-05-22T15:34:45Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/scala/scala3",
@@ -5181,7 +7122,10 @@
     "language": "Scala",
     "stars": "6021",
     "created": "2012-12-06T12:57:33Z",
-    "last_update": "2025-05-24T16:33:00Z"
+    "last_update": "2025-05-24T16:33:00Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Languages",
+    "visible": "true"
   },
   {
     "url": "https://github.com/graemerocher/framework-comparison-2020",
@@ -5189,7 +7133,10 @@
     "language": "Java",
     "stars": "47",
     "created": "2020-04-07T11:23:50Z",
-    "last_update": "2025-02-22T13:02:55Z"
+    "last_update": "2025-02-22T13:02:55Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/higherkindness/droste",
@@ -5197,7 +7144,10 @@
     "language": "Scala",
     "stars": "390",
     "created": "2018-01-12T08:17:00Z",
-    "last_update": "2025-05-04T20:37:43Z"
+    "last_update": "2025-05-04T20:37:43Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/taboola/async-profiler-actuator-endpoint",
@@ -5205,7 +7155,10 @@
     "language": "Java",
     "stars": "34",
     "created": "2020-11-17T08:52:42Z",
-    "last_update": "2025-05-07T22:46:04Z"
+    "last_update": "2025-05-07T22:46:04Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-data-commons",
@@ -5213,7 +7166,10 @@
     "language": "Java",
     "stars": "807",
     "created": "2010-11-11T20:19:31Z",
-    "last_update": "2025-05-20T14:50:55Z"
+    "last_update": "2025-05-20T14:50:55Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/neo4j/neo4j",
@@ -5221,7 +7177,10 @@
     "language": "Java",
     "stars": "14351",
     "created": "2012-11-12T08:46:15Z",
-    "last_update": "2025-05-24T07:53:12Z"
+    "last_update": "2025-05-24T07:53:12Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/kafka",
@@ -5229,7 +7188,10 @@
     "language": "Java",
     "stars": "30159",
     "created": "2011-08-15T18:06:16Z",
-    "last_update": "2025-05-25T10:00:23Z"
+    "last_update": "2025-05-25T10:00:23Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/querydsl/querydsl",
@@ -5237,7 +7199,10 @@
     "language": "Java",
     "stars": "4862",
     "created": "2011-08-05T06:46:32Z",
-    "last_update": "2025-05-25T00:32:33Z"
+    "last_update": "2025-05-25T00:32:33Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/TNG/ArchUnit",
@@ -5245,7 +7210,10 @@
     "language": "Java",
     "stars": "3412",
     "created": "2017-04-21T08:39:20Z",
-    "last_update": "2025-05-22T18:43:52Z"
+    "last_update": "2025-05-22T18:43:52Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/xmolecules/jmolecules",
@@ -5253,7 +7221,10 @@
     "language": "Java",
     "stars": "1354",
     "created": "2020-02-03T13:08:24Z",
-    "last_update": "2025-05-23T18:18:21Z"
+    "last_update": "2025-05-23T18:18:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vavr-io/vavr-jackson",
@@ -5261,7 +7232,10 @@
     "language": "Java",
     "stars": "104",
     "created": "2015-10-30T07:52:34Z",
-    "last_update": "2025-05-24T12:55:57Z"
+    "last_update": "2025-05-24T12:55:57Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/tomcat",
@@ -5269,7 +7243,10 @@
     "language": "Java",
     "stars": "7832",
     "created": "2011-10-01T07:00:19Z",
-    "last_update": "2025-05-25T06:35:19Z"
+    "last_update": "2025-05-25T06:35:19Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jbangdev/jbang",
@@ -5277,7 +7254,10 @@
     "language": "Java",
     "stars": "1555",
     "created": "2019-12-24T22:52:02Z",
-    "last_update": "2025-05-25T07:29:20Z"
+    "last_update": "2025-05-25T07:29:20Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hub4j/github-api",
@@ -5285,7 +7265,10 @@
     "language": "Java",
     "stars": "1200",
     "created": "2010-04-19T04:13:03Z",
-    "last_update": "2025-05-23T09:33:03Z"
+    "last_update": "2025-05-23T09:33:03Z",
+    "category": "API & Integration",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/playframework/playframework",
@@ -5293,7 +7276,10 @@
     "language": "Scala",
     "stars": "12578",
     "created": "2011-09-07T09:24:08Z",
-    "last_update": "2025-05-25T08:52:31Z"
+    "last_update": "2025-05-25T08:52:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/scala/scala",
@@ -5301,7 +7287,10 @@
     "language": "Scala",
     "stars": "14380",
     "created": "2011-12-01T05:02:34Z",
-    "last_update": "2025-05-23T18:52:00Z"
+    "last_update": "2025-05-23T18:52:00Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "JVM Languages",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arrow-kt/arrow-fx",
@@ -5309,7 +7298,10 @@
     "language": "Kotlin",
     "stars": "65",
     "created": "2020-02-14T17:44:24Z",
-    "last_update": "2025-05-20T04:19:36Z"
+    "last_update": "2025-05-20T04:19:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arrow-kt/arrow-core",
@@ -5317,7 +7309,10 @@
     "language": "Kotlin",
     "stars": "79",
     "created": "2020-02-14T17:41:01Z",
-    "last_update": "2025-05-20T04:19:35Z"
+    "last_update": "2025-05-20T04:19:35Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arrow-kt/arrow",
@@ -5325,7 +7320,10 @@
     "language": "Kotlin",
     "stars": "6353",
     "created": "2017-03-24T10:43:11Z",
-    "last_update": "2025-05-23T15:40:05Z"
+    "last_update": "2025-05-23T15:40:05Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ktorio/ktor",
@@ -5333,7 +7331,10 @@
     "language": "Kotlin",
     "stars": "13595",
     "created": "2015-08-03T16:49:36Z",
-    "last_update": "2025-05-24T09:43:22Z"
+    "last_update": "2025-05-24T09:43:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/akka/akka-http",
@@ -5341,7 +7342,10 @@
     "language": "Scala",
     "stars": "1333",
     "created": "2016-08-19T11:33:36Z",
-    "last_update": "2025-05-22T14:22:40Z"
+    "last_update": "2025-05-22T14:22:40Z",
+    "category": "Reactive Programming",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/graphql-java/graphql-java",
@@ -5349,7 +7353,10 @@
     "language": "Java",
     "stars": "6180",
     "created": "2015-07-06T06:52:20Z",
-    "last_update": "2025-05-23T22:05:27Z"
+    "last_update": "2025-05-23T22:05:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-graphql",
@@ -5357,7 +7364,10 @@
     "language": "Java",
     "stars": "1558",
     "created": "2020-07-20T16:35:00Z",
-    "last_update": "2025-05-23T22:06:10Z"
+    "last_update": "2025-05-23T22:06:10Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mp911de/spring-boot-virtual-threads-experiment",
@@ -5365,7 +7375,10 @@
     "language": "Java",
     "stars": "116",
     "created": "2020-09-25T12:29:34Z",
-    "last_update": "2025-05-25T04:47:52Z"
+    "last_update": "2025-05-25T04:47:52Z",
+    "category": "Language Features & Experiments",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/micronaut-projects/micronaut-core",
@@ -5373,7 +7386,10 @@
     "language": "Java",
     "stars": "6230",
     "created": "2018-03-07T12:05:08Z",
-    "last_update": "2025-05-24T09:44:22Z"
+    "last_update": "2025-05-24T09:44:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Frameworks",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quarkusio/quarkus",
@@ -5381,7 +7397,10 @@
     "language": "Java",
     "stars": "14537",
     "created": "2018-07-06T00:44:20Z",
-    "last_update": "2025-05-24T21:52:27Z"
+    "last_update": "2025-05-24T21:52:27Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "JVM Frameworks",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JetBrains/kotlin-compiler-server",
@@ -5389,7 +7408,10 @@
     "language": "Kotlin",
     "stars": "268",
     "created": "2019-11-04T10:50:44Z",
-    "last_update": "2025-05-22T18:54:28Z"
+    "last_update": "2025-05-22T18:54:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/neXenio/BLE-Indoor-Positioning",
@@ -5397,7 +7419,10 @@
     "language": "Java",
     "stars": "442",
     "created": "2017-11-14T12:16:43Z",
-    "last_update": "2025-05-23T10:07:54Z"
+    "last_update": "2025-05-23T10:07:54Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lalyos/jfiglet",
@@ -5405,7 +7430,10 @@
     "language": "Java",
     "stars": "148",
     "created": "2013-11-04T22:06:27Z",
-    "last_update": "2025-05-02T01:30:59Z"
+    "last_update": "2025-05-02T01:30:59Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tongo/ble-java",
@@ -5413,7 +7441,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2016-11-20T15:00:27Z",
-    "last_update": "2024-12-03T05:53:51Z"
+    "last_update": "2024-12-03T05:53:51Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/c-guntur/java-katas",
@@ -5421,7 +7452,10 @@
     "language": "Java",
     "stars": "389",
     "created": "2019-04-13T01:20:29Z",
-    "last_update": "2025-05-14T07:49:04Z"
+    "last_update": "2025-05-14T07:49:04Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/naimul-haque-sagar/java_functional_programming",
@@ -5429,7 +7463,10 @@
     "language": "Java",
     "stars": "14",
     "created": "2020-06-24T15:13:36Z",
-    "last_update": "2024-06-16T19:20:43Z"
+    "last_update": "2024-06-16T19:20:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fkunnen/Optionals",
@@ -5437,7 +7474,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2018-04-26T10:45:07Z",
-    "last_update": "2024-02-12T09:42:18Z"
+    "last_update": "2024-02-12T09:42:18Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/verhas/fluflu",
@@ -5445,7 +7485,10 @@
     "language": "Java",
     "stars": "73",
     "created": "2013-03-09T11:43:35Z",
-    "last_update": "2025-04-14T11:48:40Z"
+    "last_update": "2025-04-14T11:48:40Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jwoschitz/jcstress-examples",
@@ -5453,7 +7496,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2017-10-08T11:23:00Z",
-    "last_update": "2024-11-22T07:52:58Z"
+    "last_update": "2024-11-22T07:52:58Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-dataflow-samples",
@@ -5461,7 +7507,10 @@
     "language": "Java",
     "stars": "227",
     "created": "2015-12-09T17:48:43Z",
-    "last_update": "2025-05-18T12:57:46Z"
+    "last_update": "2025-05-18T12:57:46Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/loom-fiber",
@@ -5469,7 +7518,10 @@
     "language": "Java",
     "stars": "117",
     "created": "2018-07-28T17:30:23Z",
-    "last_update": "2024-10-14T07:37:41Z"
+    "last_update": "2024-10-14T07:37:41Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lz4/lz4-java",
@@ -5477,7 +7529,10 @@
     "language": "Java",
     "stars": "1142",
     "created": "2012-07-18T17:26:42Z",
-    "last_update": "2025-05-23T02:29:43Z"
+    "last_update": "2025-05-23T02:29:43Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/OpenHFT/Java-Thread-Affinity",
@@ -5485,7 +7540,10 @@
     "language": "Java",
     "stars": "1840",
     "created": "2013-09-20T13:34:25Z",
-    "last_update": "2025-05-24T16:48:56Z"
+    "last_update": "2025-05-24T16:48:56Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/pulsar",
@@ -5493,7 +7551,10 @@
     "language": "Java",
     "stars": "14618",
     "created": "2016-06-28T07:00:03Z",
-    "last_update": "2025-05-24T17:47:53Z"
+    "last_update": "2025-05-24T17:47:53Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jdubois/azure-native-spring-function",
@@ -5501,7 +7562,10 @@
     "language": "Java",
     "stars": "73",
     "created": "2020-05-29T21:12:17Z",
-    "last_update": "2025-02-18T04:42:56Z"
+    "last_update": "2025-02-18T04:42:56Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/david-streamlio/pulsar-in-action",
@@ -5509,7 +7573,10 @@
     "language": "Java",
     "stars": "48",
     "created": "2019-06-14T14:50:13Z",
-    "last_update": "2025-04-13T22:54:58Z"
+    "last_update": "2025-04-13T22:54:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mohamed-taman/Springy-Store-Microservices",
@@ -5517,7 +7584,10 @@
     "language": "Java",
     "stars": "601",
     "created": "2020-03-29T00:34:49Z",
-    "last_update": "2025-05-20T12:29:25Z"
+    "last_update": "2025-05-20T12:29:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jdegoes/functional-design",
@@ -5525,7 +7595,10 @@
     "language": "Scala",
     "stars": "236",
     "created": "2020-04-26T23:23:17Z",
-    "last_update": "2025-02-06T15:01:10Z"
+    "last_update": "2025-02-06T15:01:10Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/marcingrzejszczak/mockito-cookbook",
@@ -5533,7 +7606,10 @@
     "language": "Java",
     "stars": "83",
     "created": "2014-05-09T23:30:52Z",
-    "last_update": "2024-12-07T18:57:21Z"
+    "last_update": "2024-12-07T18:57:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jbytecode/rcaller",
@@ -5541,7 +7617,10 @@
     "language": "Java",
     "stars": "75",
     "created": "2015-03-13T21:49:17Z",
-    "last_update": "2025-04-17T08:47:21Z"
+    "last_update": "2025-04-17T08:47:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/s-u/rJava",
@@ -5549,7 +7628,10 @@
     "language": "Java",
     "stars": "235",
     "created": "2013-12-29T16:37:44Z",
-    "last_update": "2025-05-11T21:13:01Z"
+    "last_update": "2025-05-11T21:13:01Z",
+    "category": "Data Processing & Analytics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lightbend/config",
@@ -5557,7 +7639,10 @@
     "language": "Java",
     "stars": "6227",
     "created": "2011-12-06T08:02:29Z",
-    "last_update": "2025-05-22T06:37:09Z"
+    "last_update": "2025-05-22T06:37:09Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mvpjava/google-guice-tutorials",
@@ -5565,7 +7650,10 @@
     "language": "Java",
     "stars": "30",
     "created": "2017-04-19T19:27:19Z",
-    "last_update": "2025-05-19T21:29:21Z"
+    "last_update": "2025-05-19T21:29:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ketan-gote/ddd-example",
@@ -5573,7 +7661,10 @@
     "language": "Java",
     "stars": "111",
     "created": "2018-04-26T04:40:27Z",
-    "last_update": "2025-05-24T23:21:51Z"
+    "last_update": "2025-05-24T23:21:51Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/plantuml/plantuml-stdlib",
@@ -5581,7 +7672,10 @@
     "language": "Java",
     "stars": "593",
     "created": "2017-11-17T16:05:22Z",
-    "last_update": "2025-05-21T11:26:16Z"
+    "last_update": "2025-05-21T11:26:16Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gdcorp-commerce/postman-runner",
@@ -5589,7 +7683,10 @@
     "language": "Java",
     "stars": "49",
     "created": "2014-05-22T22:58:06Z",
-    "last_update": "2025-04-14T12:22:03Z"
+    "last_update": "2025-04-14T12:22:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Azure/azure-functions-java-worker",
@@ -5597,7 +7694,10 @@
     "language": "Java",
     "stars": "94",
     "created": "2017-05-02T08:29:46Z",
-    "last_update": "2025-05-23T23:20:17Z"
+    "last_update": "2025-05-23T23:20:17Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microsoft/azure-maven-plugins",
@@ -5605,7 +7705,10 @@
     "language": "Java",
     "stars": "283",
     "created": "2017-06-29T07:52:01Z",
-    "last_update": "2025-05-19T23:44:13Z"
+    "last_update": "2025-05-19T23:44:13Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/corretto/amazon-corretto-crypto-provider",
@@ -5613,7 +7716,10 @@
     "language": "Java",
     "stars": "249",
     "created": "2019-04-01T23:52:24Z",
-    "last_update": "2025-05-19T07:37:33Z"
+    "last_update": "2025-05-19T07:37:33Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aeron-io/agrona",
@@ -5621,7 +7727,10 @@
     "language": "Java",
     "stars": "3008",
     "created": "2014-11-03T20:14:21Z",
-    "last_update": "2025-05-23T15:08:10Z"
+    "last_update": "2025-05-23T15:08:10Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Azure/azure-functions-java-library",
@@ -5629,7 +7738,10 @@
     "language": "Java",
     "stars": "42",
     "created": "2018-05-14T21:39:07Z",
-    "last_update": "2025-05-19T05:09:12Z"
+    "last_update": "2025-05-19T05:09:12Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/snowdrop/istio-java-api",
@@ -5637,7 +7749,10 @@
     "language": "Java",
     "stars": "112",
     "created": "2017-12-05T20:52:34Z",
-    "last_update": "2025-05-15T13:25:33Z"
+    "last_update": "2025-05-15T13:25:33Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/piomin/spring-boot-logging",
@@ -5645,7 +7760,10 @@
     "language": "Java",
     "stars": "250",
     "created": "2019-04-30T14:09:23Z",
-    "last_update": "2025-05-15T19:23:13Z"
+    "last_update": "2025-05-15T19:23:13Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/operator-framework/java-operator-sdk",
@@ -5653,7 +7771,10 @@
     "language": "Java",
     "stars": "855",
     "created": "2019-05-25T17:11:25Z",
-    "last_update": "2025-05-24T18:39:20Z"
+    "last_update": "2025-05-24T18:39:20Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fabric8io/fabric8-maven-plugin",
@@ -5661,7 +7782,10 @@
     "language": "Java",
     "stars": "333",
     "created": "2016-04-05T12:05:45Z",
-    "last_update": "2025-02-28T18:11:55Z"
+    "last_update": "2025-02-28T18:11:55Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/square/javapoet",
@@ -5669,7 +7793,10 @@
     "language": "Java",
     "stars": "10863",
     "created": "2013-02-01T16:56:30Z",
-    "last_update": "2025-05-23T12:40:53Z"
+    "last_update": "2025-05-23T12:40:53Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/clojure-goes-fast/jvm-hiccup-meter",
@@ -5677,7 +7804,10 @@
     "language": "Java",
     "stars": "80",
     "created": "2018-06-12T21:12:17Z",
-    "last_update": "2024-10-27T08:22:40Z"
+    "last_update": "2024-10-27T08:22:40Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sormuras/bach",
@@ -5685,7 +7815,10 @@
     "language": "Java",
     "stars": "236",
     "created": "2017-05-17T10:51:49Z",
-    "last_update": "2025-05-20T04:14:50Z"
+    "last_update": "2025-05-20T04:14:50Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jerolba/bikey",
@@ -5693,7 +7826,10 @@
     "language": "Java",
     "stars": "14",
     "created": "2019-04-19T11:32:23Z",
-    "last_update": "2025-04-29T00:28:30Z"
+    "last_update": "2025-04-29T00:28:30Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/microsoft/malmo",
@@ -5701,7 +7837,10 @@
     "language": "Java",
     "stars": "4169",
     "created": "2016-05-17T14:58:40Z",
-    "last_update": "2025-05-22T07:50:07Z"
+    "last_update": "2025-05-22T07:50:07Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/macrozheng/mall-swarm",
@@ -5709,7 +7848,10 @@
     "language": "Java",
     "stars": "12369",
     "created": "2019-11-25T06:55:31Z",
-    "last_update": "2025-05-24T16:38:44Z"
+    "last_update": "2025-05-24T16:38:44Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/liverobots",
@@ -5717,7 +7859,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2013-09-28T15:01:16Z",
-    "last_update": "2024-07-28T08:02:46Z"
+    "last_update": "2024-07-28T08:02:46Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jabrena/livingrobots",
@@ -5725,7 +7870,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2014-05-04T08:10:08Z",
-    "last_update": "2024-10-14T19:12:50Z"
+    "last_update": "2024-10-14T19:12:50Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/salesforce/reactive-grpc",
@@ -5733,7 +7881,10 @@
     "language": "Java",
     "stars": "841",
     "created": "2017-11-07T20:29:10Z",
-    "last_update": "2025-05-21T19:56:13Z"
+    "last_update": "2025-05-21T19:56:13Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/venth/training-webflux-grpc",
@@ -5741,7 +7892,10 @@
     "language": "Java",
     "stars": "11",
     "created": "2018-01-13T15:38:35Z",
-    "last_update": "2024-09-23T09:24:04Z"
+    "last_update": "2024-09-23T09:24:04Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/derive4j/derive4j",
@@ -5749,7 +7903,10 @@
     "language": "Java",
     "stars": "571",
     "created": "2015-09-18T18:59:34Z",
-    "last_update": "2025-04-30T14:06:17Z"
+    "last_update": "2025-04-30T14:06:17Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nikhilnanivadekar/CollectionsCompare",
@@ -5757,7 +7914,10 @@
     "language": "Java",
     "stars": "36",
     "created": "2017-02-21T02:41:04Z",
-    "last_update": "2024-08-06T15:40:53Z"
+    "last_update": "2024-08-06T15:40:53Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mariofusco/from-gof-to-lambda",
@@ -5765,7 +7925,10 @@
     "language": "Java",
     "stars": "857",
     "created": "2016-03-02T16:34:02Z",
-    "last_update": "2025-04-19T12:45:39Z"
+    "last_update": "2025-04-19T12:45:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jhipster/prettier-java",
@@ -5773,7 +7936,10 @@
     "language": "Java",
     "stars": "1137",
     "created": "2018-01-04T17:28:57Z",
-    "last_update": "2025-05-22T16:23:30Z"
+    "last_update": "2025-05-22T16:23:30Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pedrovgs/KotlinKatas",
@@ -5781,7 +7947,10 @@
     "language": "Kotlin",
     "stars": "136",
     "created": "2018-12-11T10:05:32Z",
-    "last_update": "2025-04-17T20:21:02Z"
+    "last_update": "2025-04-17T20:21:02Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/functionaljava/functionaljava",
@@ -5789,7 +7958,10 @@
     "language": "Java",
     "stars": "1616",
     "created": "2010-10-29T00:19:26Z",
-    "last_update": "2025-05-16T16:25:56Z"
+    "last_update": "2025-05-16T16:25:56Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/open-jumpco/kfsm",
@@ -5797,7 +7969,10 @@
     "language": "Kotlin",
     "stars": "93",
     "created": "2019-06-20T15:33:05Z",
-    "last_update": "2025-02-19T18:00:42Z"
+    "last_update": "2025-02-19T18:00:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/angryziber/kotlin-puzzlers",
@@ -5805,7 +7980,10 @@
     "language": "Kotlin",
     "stars": "421",
     "created": "2016-06-12T18:41:58Z",
-    "last_update": "2025-05-23T04:19:06Z"
+    "last_update": "2025-05-23T04:19:06Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/testcontainers/workshop",
@@ -5813,7 +7991,10 @@
     "language": "Java",
     "stars": "104",
     "created": "2018-07-10T08:21:59Z",
-    "last_update": "2025-04-11T20:16:18Z"
+    "last_update": "2025-04-11T20:16:18Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vmzakharov/mutate-test-kata",
@@ -5821,7 +8002,10 @@
     "language": "Java",
     "stars": "98",
     "created": "2019-05-14T14:45:16Z",
-    "last_update": "2025-02-07T11:50:04Z"
+    "last_update": "2025-02-07T11:50:04Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/arrow-kt/arrow-meta",
@@ -5829,7 +8013,10 @@
     "language": "Kotlin",
     "stars": "404",
     "created": "2019-10-24T19:28:44Z",
-    "last_update": "2025-05-20T02:05:02Z"
+    "last_update": "2025-05-20T02:05:02Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jdegoes/functional-effects",
@@ -5837,7 +8024,10 @@
     "language": "Scala",
     "stars": "194",
     "created": "2019-10-28T21:59:22Z",
-    "last_update": "2024-11-15T06:02:33Z"
+    "last_update": "2024-11-15T06:02:33Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/johanvos/quantumjava",
@@ -5845,7 +8035,10 @@
     "language": "Java",
     "stars": "142",
     "created": "2019-02-27T19:27:04Z",
-    "last_update": "2025-05-19T17:36:14Z"
+    "last_update": "2025-05-19T17:36:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/KindedJ/KindedJ",
@@ -5853,7 +8046,10 @@
     "language": "Java",
     "stars": "98",
     "created": "2017-08-18T21:22:16Z",
-    "last_update": "2024-11-07T10:30:59Z"
+    "last_update": "2024-11-07T10:30:59Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aol/cyclops-integration",
@@ -5861,7 +8057,10 @@
     "language": "Java",
     "stars": "441",
     "created": "2015-05-29T16:27:55Z",
-    "last_update": "2025-02-28T06:55:22Z"
+    "last_update": "2025-02-28T06:55:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bcgit/bc-java",
@@ -5869,7 +8068,10 @@
     "language": "Java",
     "stars": "2456",
     "created": "2013-06-01T02:38:42Z",
-    "last_update": "2025-05-25T11:27:31Z"
+    "last_update": "2025-05-25T11:27:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openjsse/openjsse",
@@ -5877,7 +8079,10 @@
     "language": "Java",
     "stars": "108",
     "created": "2019-07-05T15:29:35Z",
-    "last_update": "2025-05-21T05:23:22Z"
+    "last_update": "2025-05-21T05:23:22Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sdeleuze/spring-boot-graal-demo",
@@ -5885,7 +8090,10 @@
     "language": "Java",
     "stars": "46",
     "created": "2018-09-06T11:52:50Z",
-    "last_update": "2024-11-15T22:53:20Z"
+    "last_update": "2024-11-15T22:53:20Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tomdw/java-modules-context-boot",
@@ -5893,7 +8101,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2017-10-08T12:41:37Z",
-    "last_update": "2025-04-26T17:07:28Z"
+    "last_update": "2025-04-26T17:07:28Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/qutax/jpms-spring-example",
@@ -5901,7 +8112,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2019-01-29T22:30:30Z",
-    "last_update": "2024-10-22T19:29:01Z"
+    "last_update": "2024-10-22T19:29:01Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/barend/java-iban",
@@ -5909,7 +8123,10 @@
     "language": "Java",
     "stars": "117",
     "created": "2013-04-07T20:46:56Z",
-    "last_update": "2025-04-02T07:35:10Z"
+    "last_update": "2025-04-02T07:35:10Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zio/zio",
@@ -5917,7 +8134,10 @@
     "language": "Scala",
     "stars": "4208",
     "created": "2018-05-19T16:40:37Z",
-    "last_update": "2025-05-25T04:31:16Z"
+    "last_update": "2025-05-25T04:31:16Z",
+    "category": "Reactive Programming",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/yavi",
@@ -5925,7 +8145,10 @@
     "language": "Java",
     "stars": "810",
     "created": "2018-08-21T10:39:38Z",
-    "last_update": "2025-05-25T10:35:19Z"
+    "last_update": "2025-05-25T10:35:19Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/unitsofmeasurement/indriya",
@@ -5933,7 +8156,10 @@
     "language": "Java",
     "stars": "129",
     "created": "2017-07-19T19:21:06Z",
-    "last_update": "2025-05-19T11:02:25Z"
+    "last_update": "2025-05-19T11:02:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lucav76/Fibry",
@@ -5941,7 +8167,10 @@
     "language": "Java",
     "stars": "226",
     "created": "2019-07-07T17:41:27Z",
-    "last_update": "2025-05-10T07:28:28Z"
+    "last_update": "2025-05-10T07:28:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ros2-java/ros2_android_examples",
@@ -5949,7 +8178,10 @@
     "language": "Java",
     "stars": "38",
     "created": "2016-08-23T17:22:45Z",
-    "last_update": "2025-05-14T20:26:06Z"
+    "last_update": "2025-05-14T20:26:06Z",
+    "category": "Mobile Development",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AGKhalil/Cellphone_Robot",
@@ -5957,7 +8189,10 @@
     "language": "Java",
     "stars": "11",
     "created": "2017-05-29T20:56:16Z",
-    "last_update": "2025-04-30T09:00:35Z"
+    "last_update": "2025-04-30T09:00:35Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eddumelendez/reactor-kotlin-workshop",
@@ -5965,7 +8200,10 @@
     "language": "Kotlin",
     "stars": "61",
     "created": "2017-03-30T02:24:19Z",
-    "last_update": "2025-05-14T08:10:27Z"
+    "last_update": "2025-05-14T08:10:27Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-attic/spring-native",
@@ -5973,7 +8211,10 @@
     "language": "Java",
     "stars": "2721",
     "created": "2019-09-05T23:40:14Z",
-    "last_update": "2025-05-22T16:24:31Z"
+    "last_update": "2025-05-22T16:24:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "false"
   },
   {
     "url": "https://github.com/jaapcoomans/spring-boot-modules",
@@ -5981,7 +8222,10 @@
     "language": "Java",
     "stars": "57",
     "created": "2019-03-11T18:00:29Z",
-    "last_update": "2025-04-01T21:58:58Z"
+    "last_update": "2025-04-01T21:58:58Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-attic/spring-init",
@@ -5989,7 +8233,10 @@
     "language": "Java",
     "stars": "82",
     "created": "2018-12-14T16:53:02Z",
-    "last_update": "2024-07-24T16:19:53Z"
+    "last_update": "2024-07-24T16:19:53Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bsideup/jabel",
@@ -5997,7 +8244,10 @@
     "language": "Java",
     "stars": "803",
     "created": "2019-08-31T08:29:18Z",
-    "last_update": "2025-05-14T05:55:54Z"
+    "last_update": "2025-05-14T05:55:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/brettwooldridge/HikariCP",
@@ -6005,7 +8255,10 @@
     "language": "Java",
     "stars": "20454",
     "created": "2013-10-08T05:43:03Z",
-    "last_update": "2025-05-24T18:27:35Z"
+    "last_update": "2025-05-24T18:27:35Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Database & ORM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openjdk/loom",
@@ -6013,7 +8266,10 @@
     "language": "Java",
     "stars": "1914",
     "created": "2019-04-18T06:05:24Z",
-    "last_update": "2025-05-25T07:28:41Z"
+    "last_update": "2025-05-25T07:28:41Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "false"
   },
   {
     "url": "https://github.com/palatable/lambda",
@@ -6021,7 +8277,10 @@
     "language": "Java",
     "stars": "871",
     "created": "2014-01-26T22:09:10Z",
-    "last_update": "2025-05-20T21:21:25Z"
+    "last_update": "2025-05-20T21:21:25Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Spartronics4915/SpartronicsLib",
@@ -6029,7 +8288,10 @@
     "language": "Java",
     "stars": "19",
     "created": "2019-05-05T06:16:32Z",
-    "last_update": "2025-04-16T23:40:59Z"
+    "last_update": "2025-04-16T23:40:59Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/dagger",
@@ -6037,7 +8299,10 @@
     "language": "Java",
     "stars": "17566",
     "created": "2013-02-01T23:14:14Z",
-    "last_update": "2025-05-25T00:34:39Z"
+    "last_update": "2025-05-25T00:34:39Z",
+    "category": "Mobile Development",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/akarnokd/RxJavaFiberInterop",
@@ -6045,7 +8310,10 @@
     "language": "Java",
     "stars": "37",
     "created": "2019-07-31T13:39:38Z",
-    "last_update": "2024-12-19T13:53:08Z"
+    "last_update": "2024-12-19T13:53:08Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/chrishantha/jfr-flame-graph",
@@ -6053,7 +8321,10 @@
     "language": "Java",
     "stars": "267",
     "created": "2015-04-22T08:02:29Z",
-    "last_update": "2025-02-22T09:23:45Z"
+    "last_update": "2025-02-22T09:23:45Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/failsafe-lib/failsafe",
@@ -6061,7 +8332,10 @@
     "language": "Java",
     "stars": "4255",
     "created": "2015-06-30T00:56:39Z",
-    "last_update": "2025-05-23T20:38:07Z"
+    "last_update": "2025-05-23T20:38:07Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/remkop/picocli",
@@ -6069,7 +8343,10 @@
     "language": "Java",
     "stars": "5111",
     "created": "2017-02-01T16:38:41Z",
-    "last_update": "2025-05-23T22:02:57Z"
+    "last_update": "2025-05-23T22:02:57Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Terminal & Command Line",
+    "visible": "true"
   },
   {
     "url": "https://github.com/linux-china/reactive-demo",
@@ -6077,7 +8354,10 @@
     "language": "Java",
     "stars": "19",
     "created": "2016-11-12T04:04:45Z",
-    "last_update": "2025-02-21T23:15:04Z"
+    "last_update": "2025-02-21T23:15:04Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/grpc/grpc-java",
@@ -6085,7 +8365,10 @@
     "language": "Java",
     "stars": "11741",
     "created": "2014-12-08T19:00:00Z",
-    "last_update": "2025-05-23T06:54:24Z"
+    "last_update": "2025-05-23T06:54:24Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zolyfarkas/spf4j",
@@ -6093,7 +8376,10 @@
     "language": "Java",
     "stars": "207",
     "created": "2012-12-14T02:06:21Z",
-    "last_update": "2024-12-17T04:00:32Z"
+    "last_update": "2024-12-17T04:00:32Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sbt/sbt-jmh",
@@ -6101,7 +8387,10 @@
     "language": "Scala",
     "stars": "788",
     "created": "2014-05-19T18:39:03Z",
-    "last_update": "2025-05-22T16:56:18Z"
+    "last_update": "2025-05-22T16:56:18Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/akarnokd/jmh-compare-gui",
@@ -6109,7 +8398,10 @@
     "language": "Java",
     "stars": "70",
     "created": "2015-02-25T14:26:56Z",
-    "last_update": "2024-06-23T06:26:51Z"
+    "last_update": "2024-06-23T06:26:51Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nurkiewicz/rxjava-workshop",
@@ -6117,7 +8409,10 @@
     "language": "Java",
     "stars": "65",
     "created": "2016-10-17T21:32:54Z",
-    "last_update": "2024-08-09T12:28:18Z"
+    "last_update": "2024-08-09T12:28:18Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vsilaev/tascalate-concurrent",
@@ -6125,7 +8420,10 @@
     "language": "Java",
     "stars": "217",
     "created": "2017-04-05T13:14:18Z",
-    "last_update": "2025-05-17T13:16:59Z"
+    "last_update": "2025-05-17T13:16:59Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/doocs/advanced-java",
@@ -6133,7 +8431,10 @@
     "language": "Java",
     "stars": "77667",
     "created": "2018-10-06T11:38:30Z",
-    "last_update": "2025-05-25T11:05:33Z"
+    "last_update": "2025-05-25T11:05:33Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Valloric/jmh-playground",
@@ -6141,7 +8442,10 @@
     "language": "Java",
     "stars": "82",
     "created": "2018-03-30T04:38:26Z",
-    "last_update": "2025-04-24T21:11:47Z"
+    "last_update": "2025-04-24T21:11:47Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pholser/junit-quickcheck",
@@ -6149,7 +8453,10 @@
     "language": "Java",
     "stars": "968",
     "created": "2010-10-18T22:33:36Z",
-    "last_update": "2025-05-09T07:15:22Z"
+    "last_update": "2025-05-09T07:15:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/forax/exotic",
@@ -6157,7 +8464,10 @@
     "language": "Java",
     "stars": "131",
     "created": "2018-02-20T22:15:53Z",
-    "last_update": "2025-05-20T11:33:10Z"
+    "last_update": "2025-05-20T11:33:10Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mtumilowicz/java11-category-theory-optional-is-not-functor",
@@ -6165,7 +8475,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2018-12-28T17:23:03Z",
-    "last_update": "2024-11-25T09:33:58Z"
+    "last_update": "2024-11-25T09:33:58Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/code-not-found/spring-kafka",
@@ -6173,7 +8486,10 @@
     "language": "Java",
     "stars": "230",
     "created": "2016-09-27T17:24:10Z",
-    "last_update": "2025-05-21T11:14:11Z"
+    "last_update": "2025-05-21T11:14:11Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dsyer/spring-boot-micro-apps",
@@ -6181,7 +8497,10 @@
     "language": "Java",
     "stars": "138",
     "created": "2018-05-23T09:17:05Z",
-    "last_update": "2025-03-23T21:30:22Z"
+    "last_update": "2025-03-23T21:30:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dsyer/spring-boot-allocations",
@@ -6189,7 +8508,10 @@
     "language": "Java",
     "stars": "107",
     "created": "2018-05-31T11:34:32Z",
-    "last_update": "2024-07-03T01:36:39Z"
+    "last_update": "2024-07-03T01:36:39Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aclement/spring-boot-graal-feature",
@@ -6197,7 +8519,10 @@
     "language": "Java",
     "stars": "70",
     "created": "2019-04-28T21:49:01Z",
-    "last_update": "2024-06-04T04:16:24Z"
+    "last_update": "2024-06-04T04:16:24Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/joshlong-attic/reactive-revolution",
@@ -6205,7 +8530,10 @@
     "language": "Java",
     "stars": "142",
     "created": "2019-04-25T06:59:22Z",
-    "last_update": "2025-02-09T13:26:19Z"
+    "last_update": "2025-02-09T13:26:19Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nurkiewicz/reactor-workshop",
@@ -6213,7 +8541,10 @@
     "language": "Java",
     "stars": "139",
     "created": "2018-08-28T20:33:10Z",
-    "last_update": "2025-02-22T21:26:35Z"
+    "last_update": "2025-02-22T21:26:35Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/daniellavoie/reactor-workshop",
@@ -6221,7 +8552,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2019-04-23T17:18:28Z",
-    "last_update": "2024-01-20T18:45:13Z"
+    "last_update": "2024-01-20T18:45:13Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/vanilla-spring-webflux-fn-blank",
@@ -6229,7 +8563,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2017-12-20T15:29:15Z",
-    "last_update": "2024-12-09T19:53:20Z"
+    "last_update": "2024-12-09T19:53:20Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/making/functional-spring-cookbook",
@@ -6237,7 +8574,10 @@
     "language": "Java",
     "stars": "27",
     "created": "2019-05-01T06:40:29Z",
-    "last_update": "2024-04-22T02:52:26Z"
+    "last_update": "2024-04-22T02:52:26Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thegreystone/jmc-tutorial",
@@ -6245,7 +8585,10 @@
     "language": "Java",
     "stars": "218",
     "created": "2018-10-29T23:15:50Z",
-    "last_update": "2025-05-16T03:16:49Z"
+    "last_update": "2025-05-16T03:16:49Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JDKMissionControl/jmc",
@@ -6253,7 +8596,10 @@
     "language": "Java",
     "stars": "197",
     "created": "2018-07-03T18:23:01Z",
-    "last_update": "2024-07-29T05:30:51Z"
+    "last_update": "2024-07-29T05:30:51Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/reactor/BlockHound",
@@ -6261,7 +8607,10 @@
     "language": "Java",
     "stars": "1412",
     "created": "2018-12-04T20:00:53Z",
-    "last_update": "2025-05-23T08:54:22Z"
+    "last_update": "2025-05-23T08:54:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Reactive Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alibaba/Sentinel",
@@ -6269,7 +8618,10 @@
     "language": "Java",
     "stars": "22726",
     "created": "2018-04-04T06:37:33Z",
-    "last_update": "2025-05-25T05:23:29Z"
+    "last_update": "2025-05-25T05:23:29Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/springframeworkguru/spring-cloud-contract-oa3",
@@ -6277,7 +8629,10 @@
     "language": "Groovy",
     "stars": "67",
     "created": "2018-07-26T16:13:35Z",
-    "last_update": "2025-01-17T10:29:09Z"
+    "last_update": "2025-01-17T10:29:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alimate/errors-spring-boot-starter",
@@ -6285,7 +8640,10 @@
     "language": "Java",
     "stars": "269",
     "created": "2018-09-09T19:22:35Z",
-    "last_update": "2025-02-24T07:54:40Z"
+    "last_update": "2025-02-24T07:54:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/konrad-kaminski/spring-kotlin-coroutine",
@@ -6293,7 +8651,10 @@
     "language": "Kotlin",
     "stars": "449",
     "created": "2017-04-19T22:09:10Z",
-    "last_update": "2025-03-27T05:36:31Z"
+    "last_update": "2025-03-27T05:36:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/BrendanL79/epub2pdf",
@@ -6301,7 +8662,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2018-04-15T12:33:17Z",
-    "last_update": "2025-02-19T14:14:04Z"
+    "last_update": "2025-02-19T14:14:04Z",
+    "category": "Utilities & Libraries",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aol/cyclops",
@@ -6309,7 +8673,10 @@
     "language": "Java",
     "stars": "1325",
     "created": "2015-01-20T22:17:32Z",
-    "last_update": "2025-05-20T06:31:11Z"
+    "last_update": "2025-05-20T06:31:11Z",
+    "category": "Database & ORM",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gatling/gatling-maven-plugin",
@@ -6317,7 +8684,10 @@
     "language": "Java",
     "stars": "37",
     "created": "2014-10-14T11:47:48Z",
-    "last_update": "2025-05-20T15:53:05Z"
+    "last_update": "2025-05-20T15:53:05Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aress31/openapi-parser",
@@ -6325,7 +8695,10 @@
     "language": "Java",
     "stars": "200",
     "created": "2016-10-05T09:32:42Z",
-    "last_update": "2025-05-18T17:17:34Z"
+    "last_update": "2025-05-18T17:17:34Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/aguibert/basic-liberty",
@@ -6333,7 +8706,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2018-01-26T04:48:02Z",
-    "last_update": "2024-03-29T02:33:56Z"
+    "last_update": "2024-03-29T02:33:56Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/amu007/springcloud-idempotent-starter",
@@ -6341,7 +8717,10 @@
     "language": "Java",
     "stars": "21",
     "created": "2017-10-17T07:12:36Z",
-    "last_update": "2024-03-31T14:20:05Z"
+    "last_update": "2024-03-31T14:20:05Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/naturalprogrammer/spring-lemon",
@@ -6349,7 +8728,10 @@
     "language": "Java",
     "stars": "708",
     "created": "2015-04-22T05:15:02Z",
-    "last_update": "2025-04-09T19:16:44Z"
+    "last_update": "2025-04-09T19:16:44Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vdmeer/asciitable",
@@ -6357,7 +8739,10 @@
     "language": "Java",
     "stars": "510",
     "created": "2014-12-10T20:03:46Z",
-    "last_update": "2025-05-22T04:43:27Z"
+    "last_update": "2025-05-22T04:43:27Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Terminal & Command Line",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jonashackt/spring-boot-rest-clientcertificates-docker-compose",
@@ -6365,7 +8750,10 @@
     "language": "Java",
     "stars": "22",
     "created": "2017-12-12T09:25:43Z",
-    "last_update": "2025-04-24T07:15:08Z"
+    "last_update": "2025-04-24T07:15:08Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jonashackt/spring-boot-rest-clientcertificate",
@@ -6373,7 +8761,10 @@
     "language": "Java",
     "stars": "94",
     "created": "2017-11-09T07:00:00Z",
-    "last_update": "2025-01-26T11:39:39Z"
+    "last_update": "2025-01-26T11:39:39Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/myzhan/locust4j",
@@ -6381,7 +8772,10 @@
     "language": "Java",
     "stars": "83",
     "created": "2017-11-28T07:15:51Z",
-    "last_update": "2025-05-07T23:10:45Z"
+    "last_update": "2025-05-07T23:10:45Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rstoyanchev/demo-reactive-spring",
@@ -6389,7 +8783,10 @@
     "language": "Java",
     "stars": "162",
     "created": "2017-08-14T14:16:51Z",
-    "last_update": "2025-04-30T06:23:14Z"
+    "last_update": "2025-04-30T06:23:14Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DrewEaster/jester",
@@ -6397,7 +8794,10 @@
     "language": "Java",
     "stars": "21",
     "created": "2016-06-12T20:33:53Z",
-    "last_update": "2025-01-14T16:09:56Z"
+    "last_update": "2025-01-14T16:09:56Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/adamtornhill/code-maat",
@@ -6405,7 +8805,10 @@
     "language": "Clojure",
     "stars": "2463",
     "created": "2013-08-08T13:48:26Z",
-    "last_update": "2025-05-23T00:07:20Z"
+    "last_update": "2025-05-23T00:07:20Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/politrons/reactive",
@@ -6413,7 +8816,10 @@
     "language": "Java",
     "stars": "327",
     "created": "2015-09-08T06:11:22Z",
-    "last_update": "2025-04-27T09:07:30Z"
+    "last_update": "2025-04-27T09:07:30Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/everit-org/json-schema",
@@ -6421,7 +8827,10 @@
     "language": "Java",
     "stars": "885",
     "created": "2015-09-12T19:14:35Z",
-    "last_update": "2025-05-14T17:15:22Z"
+    "last_update": "2025-05-14T17:15:22Z",
+    "category": "API & Integration",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/carlphilipp/clean-architecture-example",
@@ -6429,7 +8838,10 @@
     "language": "Java",
     "stars": "535",
     "created": "2018-04-11T01:09:36Z",
-    "last_update": "2025-05-12T06:44:56Z"
+    "last_update": "2025-05-12T06:44:56Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mp911de/microbenchmark-runner",
@@ -6437,7 +8849,10 @@
     "language": "Java",
     "stars": "82",
     "created": "2018-10-09T13:58:11Z",
-    "last_update": "2025-04-19T10:54:38Z"
+    "last_update": "2025-04-19T10:54:38Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pivovarit/parallel-collectors",
@@ -6445,7 +8860,10 @@
     "language": "Java",
     "stars": "626",
     "created": "2019-01-20T12:46:03Z",
-    "last_update": "2025-05-23T08:51:18Z"
+    "last_update": "2025-05-23T08:51:18Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/redfx-quantum/strange",
@@ -6453,7 +8871,10 @@
     "language": "Java",
     "stars": "224",
     "created": "2018-03-26T16:06:29Z",
-    "last_update": "2025-05-23T01:32:51Z"
+    "last_update": "2025-05-23T01:32:51Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dekorateio/dekorate",
@@ -6461,7 +8882,10 @@
     "language": "Java",
     "stars": "483",
     "created": "2018-11-14T15:30:03Z",
-    "last_update": "2025-05-22T03:47:43Z"
+    "last_update": "2025-05-22T03:47:43Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/awaitility/awaitility",
@@ -6469,7 +8893,10 @@
     "language": "Java",
     "stars": "3919",
     "created": "2010-01-22T15:12:52Z",
-    "last_update": "2025-05-23T14:42:34Z"
+    "last_update": "2025-05-23T14:42:34Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mkheck/spring-into-kotlin",
@@ -6477,7 +8904,10 @@
     "language": "Java",
     "stars": "18",
     "created": "2017-11-13T17:06:14Z",
-    "last_update": "2024-03-23T20:52:47Z"
+    "last_update": "2024-03-23T20:52:47Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/RobWin/assertj-swagger",
@@ -6485,7 +8915,10 @@
     "language": "Java",
     "stars": "171",
     "created": "2015-05-07T13:25:14Z",
-    "last_update": "2024-08-09T12:24:28Z"
+    "last_update": "2024-08-09T12:24:28Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/resilience4j/resilience4j-spring-boot-demo",
@@ -6493,7 +8926,10 @@
     "language": "Java",
     "stars": "110",
     "created": "2017-01-09T12:11:05Z",
-    "last_update": "2025-04-14T17:48:48Z"
+    "last_update": "2025-04-14T17:48:48Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/resilience4j/resilience4j",
@@ -6501,7 +8937,10 @@
     "language": "Java",
     "stars": "10181",
     "created": "2015-06-03T09:21:01Z",
-    "last_update": "2025-05-25T11:23:04Z"
+    "last_update": "2025-05-25T11:23:04Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dogecv/DogeCV",
@@ -6509,7 +8948,10 @@
     "language": "Java",
     "stars": "68",
     "created": "2017-11-25T05:56:06Z",
-    "last_update": "2024-12-27T18:23:54Z"
+    "last_update": "2024-12-27T18:23:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jqno/equalsverifier",
@@ -6517,7 +8959,10 @@
     "language": "Java",
     "stars": "721",
     "created": "2015-03-29T09:12:21Z",
-    "last_update": "2025-05-23T19:50:49Z"
+    "last_update": "2025-05-23T19:50:49Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/javafxports/javafxmobile-plugin",
@@ -6525,7 +8970,10 @@
     "language": "Java",
     "stars": "43",
     "created": "2018-01-08T08:44:29Z",
-    "last_update": "2024-10-10T01:58:01Z"
+    "last_update": "2024-10-10T01:58:01Z",
+    "category": "Mobile Development",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MaartenSmeets/gs-reactive-rest-service",
@@ -6533,7 +8981,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2018-11-01T10:30:41Z",
-    "last_update": "2025-02-21T14:54:01Z"
+    "last_update": "2025-02-21T14:54:01Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/adoptium/installer",
@@ -6541,7 +8992,10 @@
     "language": "Java",
     "stars": "158",
     "created": "2017-08-27T18:32:38Z",
-    "last_update": "2025-05-22T15:11:05Z"
+    "last_update": "2025-05-22T15:11:05Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/puniverse/capsule",
@@ -6549,7 +9003,10 @@
     "language": "Java",
     "stars": "1151",
     "created": "2014-04-18T12:15:41Z",
-    "last_update": "2025-05-11T22:48:03Z"
+    "last_update": "2025-05-11T22:48:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/benwilcock/pcf-axon-cqrs-demo",
@@ -6557,7 +9014,10 @@
     "language": "Java",
     "stars": "52",
     "created": "2017-04-18T12:14:11Z",
-    "last_update": "2024-07-30T16:55:55Z"
+    "last_update": "2024-07-30T16:55:55Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/wpilibsuite/GradleRIO",
@@ -6565,7 +9025,10 @@
     "language": "Java",
     "stars": "267",
     "created": "2015-01-16T15:21:41Z",
-    "last_update": "2025-04-21T18:18:06Z"
+    "last_update": "2025-04-21T18:18:06Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/openjdk/jdk",
@@ -6573,7 +9036,10 @@
     "language": "Java",
     "stars": "21073",
     "created": "2018-09-17T12:29:20Z",
-    "last_update": "2025-05-25T06:35:47Z"
+    "last_update": "2025-05-25T06:35:47Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/null93/drawille",
@@ -6581,7 +9047,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2017-12-25T03:12:31Z",
-    "last_update": "2024-07-17T04:08:33Z"
+    "last_update": "2024-07-17T04:08:33Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hypfvieh/bluez-dbus",
@@ -6589,7 +9058,10 @@
     "language": "Java",
     "stars": "76",
     "created": "2017-02-05T13:52:52Z",
-    "last_update": "2025-05-12T14:19:18Z"
+    "last_update": "2025-05-12T14:19:18Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/hypfvieh/dbus-java",
@@ -6597,7 +9069,10 @@
     "language": "Java",
     "stars": "198",
     "created": "2017-02-05T13:04:45Z",
-    "last_update": "2025-05-20T09:05:10Z"
+    "last_update": "2025-05-20T09:05:10Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Valkryst/V2DSprite",
@@ -6605,7 +9080,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2018-04-27T01:53:39Z",
-    "last_update": "2025-05-09T16:17:48Z"
+    "last_update": "2025-05-09T16:17:48Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/twitter/finagle",
@@ -6613,7 +9091,10 @@
     "language": "Scala",
     "stars": "8823",
     "created": "2010-10-19T22:10:09Z",
-    "last_update": "2025-05-22T21:30:11Z"
+    "last_update": "2025-05-22T21:30:11Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Pravoru/gatling-junitrunner",
@@ -6621,7 +9102,10 @@
     "language": "Scala",
     "stars": "3",
     "created": "2017-07-26T10:43:01Z",
-    "last_update": "2024-10-07T07:46:34Z"
+    "last_update": "2024-10-07T07:46:34Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/krizsan/gatling-examples",
@@ -6629,7 +9113,10 @@
     "language": "Scala",
     "stars": "44",
     "created": "2016-03-29T21:08:56Z",
-    "last_update": "2025-04-24T03:44:05Z"
+    "last_update": "2025-04-24T03:44:05Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mtumilowicz/spring-boot-async",
@@ -6637,7 +9124,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2018-07-26T18:10:04Z",
-    "last_update": "2025-03-15T21:03:13Z"
+    "last_update": "2025-03-15T21:03:13Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eugenp/tutorials",
@@ -6645,7 +9135,10 @@
     "language": "Java",
     "stars": "37152",
     "created": "2013-04-29T18:26:36Z",
-    "last_update": "2025-05-25T05:11:39Z"
+    "last_update": "2025-05-25T05:11:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jOOQ/jOOL",
@@ -6653,7 +9146,10 @@
     "language": "Java",
     "stars": "2108",
     "created": "2014-03-02T14:27:38Z",
-    "last_update": "2025-05-20T06:31:33Z"
+    "last_update": "2025-05-20T06:31:33Z",
+    "category": "Database & ORM",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/GoogleContainerTools/jib",
@@ -6661,7 +9157,10 @@
     "language": "Java",
     "stars": "13923",
     "created": "2018-01-22T18:30:43Z",
-    "last_update": "2025-05-24T16:06:13Z"
+    "last_update": "2025-05-24T16:06:13Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dsyer/spring-boot-startup-bench",
@@ -6669,7 +9168,10 @@
     "language": "Java",
     "stars": "311",
     "created": "2016-11-30T10:42:25Z",
-    "last_update": "2025-04-26T16:05:26Z"
+    "last_update": "2025-04-26T16:05:26Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/SvenBayer/spring-cloud-contract-swagger",
@@ -6677,7 +9179,10 @@
     "language": "Java",
     "stars": "26",
     "created": "2018-07-15T20:08:14Z",
-    "last_update": "2024-12-09T19:55:05Z"
+    "last_update": "2024-12-09T19:55:05Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud-samples/spring-cloud-contract-samples",
@@ -6685,7 +9190,10 @@
     "language": "Java",
     "stars": "387",
     "created": "2016-11-09T12:30:56Z",
-    "last_update": "2025-05-18T12:48:14Z"
+    "last_update": "2025-05-18T12:48:14Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/piomin/sample-spring-chaosmonkey",
@@ -6693,7 +9201,10 @@
     "language": "Java",
     "stars": "27",
     "created": "2018-05-19T15:46:43Z",
-    "last_update": "2025-05-21T19:35:49Z"
+    "last_update": "2025-05-21T19:35:49Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/java-native-access/jna",
@@ -6701,7 +9212,10 @@
     "language": "Java",
     "stars": "8720",
     "created": "2011-04-29T13:30:29Z",
-    "last_update": "2025-05-25T10:59:50Z"
+    "last_update": "2025-05-25T10:59:50Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nebula-plugins/gradle-contacts-plugin",
@@ -6709,7 +9223,10 @@
     "language": "Groovy",
     "stars": "14",
     "created": "2014-04-04T04:39:51Z",
-    "last_update": "2025-04-25T22:50:51Z"
+    "last_update": "2025-04-25T22:50:51Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fernandoalexandre/PC-to-Android-Bluetooth-Example",
@@ -6717,7 +9234,10 @@
     "language": "Java",
     "stars": "21",
     "created": "2011-08-04T00:12:36Z",
-    "last_update": "2024-03-24T12:55:29Z"
+    "last_update": "2024-03-24T12:55:29Z",
+    "category": "Mobile Development",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/antbern/gridmap-slam-robot",
@@ -6725,7 +9245,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2018-07-05T16:01:28Z",
-    "last_update": "2025-02-04T19:07:01Z"
+    "last_update": "2025-02-04T19:07:01Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/codecentric/chaos-monkey-spring-boot",
@@ -6733,7 +9256,10 @@
     "language": "Java",
     "stars": "923",
     "created": "2017-04-06T07:56:01Z",
-    "last_update": "2025-05-23T22:43:34Z"
+    "last_update": "2025-05-23T22:43:34Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/sayed12025/Spring-Boot-Jpa-Mysql",
@@ -6741,7 +9267,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2017-07-14T17:28:28Z",
-    "last_update": "2025-03-05T22:14:11Z"
+    "last_update": "2025-03-05T22:14:11Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Muhaiminur/E-commerce-Website-by-Java-Spring-Boot",
@@ -6749,7 +9278,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2018-01-20T00:35:44Z",
-    "last_update": "2024-07-05T11:43:45Z"
+    "last_update": "2024-07-05T11:43:45Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/dzinot/spring-boot-jpa-data-rest-soft-delete",
@@ -6757,7 +9289,10 @@
     "language": "Java",
     "stars": "92",
     "created": "2016-12-05T16:58:35Z",
-    "last_update": "2024-12-16T16:10:51Z"
+    "last_update": "2024-12-16T16:10:51Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/IBM/spring-cloud-kubernetes-with-istio",
@@ -6765,7 +9300,10 @@
     "language": "Java",
     "stars": "95",
     "created": "2018-01-22T20:08:48Z",
-    "last_update": "2025-05-25T11:34:42Z"
+    "last_update": "2025-05-25T11:34:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/testcontainers/testcontainers-java",
@@ -6773,7 +9311,10 @@
     "language": "Java",
     "stars": "8226",
     "created": "2015-04-12T12:44:59Z",
-    "last_update": "2025-05-24T10:13:18Z"
+    "last_update": "2025-05-24T10:13:18Z",
+    "category": "Database & ORM",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jenkinsci/job-dsl-plugin",
@@ -6781,7 +9322,10 @@
     "language": "Groovy",
     "stars": "1914",
     "created": "2012-07-25T19:17:25Z",
-    "last_update": "2025-05-19T17:11:03Z"
+    "last_update": "2025-05-19T17:11:03Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jenkinsci/configuration-as-code-plugin",
@@ -6789,7 +9333,10 @@
     "language": "Java",
     "stars": "2729",
     "created": "2017-10-20T12:43:10Z",
-    "last_update": "2025-05-24T17:11:38Z"
+    "last_update": "2025-05-24T17:11:38Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jenkinsci/pipeline-model-definition-plugin",
@@ -6797,7 +9344,10 @@
     "language": "Groovy",
     "stars": "561",
     "created": "2016-08-26T20:28:39Z",
-    "last_update": "2025-05-17T16:38:48Z"
+    "last_update": "2025-05-17T16:38:48Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/trekawek/toxiproxy-java",
@@ -6805,7 +9355,10 @@
     "language": "Java",
     "stars": "115",
     "created": "2016-02-19T13:42:09Z",
-    "last_update": "2024-12-30T10:44:59Z"
+    "last_update": "2024-12-30T10:44:59Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/trekawek/coffee-gb",
@@ -6813,7 +9366,10 @@
     "language": "Java",
     "stars": "1121",
     "created": "2017-01-06T12:38:41Z",
-    "last_update": "2025-04-24T21:46:15Z"
+    "last_update": "2025-04-24T21:46:15Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/frohoff/ysoserial",
@@ -6821,7 +9377,10 @@
     "language": "Java",
     "stars": "8228",
     "created": "2015-01-28T07:13:55Z",
-    "last_update": "2025-05-25T09:53:35Z"
+    "last_update": "2025-05-25T09:53:35Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects-experimental/spring-fu",
@@ -6829,7 +9388,10 @@
     "language": "Java",
     "stars": "1681",
     "created": "2018-05-24T15:16:16Z",
-    "last_update": "2025-05-20T13:56:10Z"
+    "last_update": "2025-05-20T13:56:10Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/thegreystone/jmc-flame-view",
@@ -6837,7 +9399,10 @@
     "language": "Java",
     "stars": "104",
     "created": "2018-06-08T15:09:39Z",
-    "last_update": "2024-11-20T03:31:13Z"
+    "last_update": "2024-11-20T03:31:13Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jenkinsci/build-monitor-plugin",
@@ -6845,7 +9410,10 @@
     "language": "Java",
     "stars": "726",
     "created": "2013-07-06T11:39:57Z",
-    "last_update": "2025-05-11T09:52:40Z"
+    "last_update": "2025-05-11T09:52:40Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/appium/java-client",
@@ -6853,7 +9421,10 @@
     "language": "Java",
     "stars": "1244",
     "created": "2014-04-04T22:05:23Z",
-    "last_update": "2025-05-23T13:06:40Z"
+    "last_update": "2025-05-23T13:06:40Z",
+    "category": "Database & ORM",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jinput/jinput",
@@ -6861,7 +9432,10 @@
     "language": "Java",
     "stars": "158",
     "created": "2014-07-11T13:39:39Z",
-    "last_update": "2025-05-23T00:36:37Z"
+    "last_update": "2025-05-23T00:36:37Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rickfast/consul-client",
@@ -6869,7 +9443,10 @@
     "language": "Java",
     "stars": "567",
     "created": "2014-08-11T16:06:56Z",
-    "last_update": "2025-05-09T08:48:29Z"
+    "last_update": "2025-05-09T08:48:29Z",
+    "category": "API & Integration",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/swagger-akka-http/swagger-akka-http",
@@ -6877,7 +9454,10 @@
     "language": "Scala",
     "stars": "278",
     "created": "2016-01-27T22:42:00Z",
-    "last_update": "2025-02-09T03:11:39Z"
+    "last_update": "2025-02-09T03:11:39Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/akka/alpakka-kafka",
@@ -6885,7 +9465,10 @@
     "language": "Scala",
     "stars": "1416",
     "created": "2014-12-30T15:30:02Z",
-    "last_update": "2025-05-15T09:05:25Z"
+    "last_update": "2025-05-15T09:05:25Z",
+    "category": "Reactive Programming",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/akka/alpakka",
@@ -6893,7 +9476,10 @@
     "language": "Scala",
     "stars": "1264",
     "created": "2016-10-13T13:08:14Z",
-    "last_update": "2025-05-05T09:15:11Z"
+    "last_update": "2025-05-05T09:15:11Z",
+    "category": "Reactive Programming",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/akka/akka",
@@ -6901,7 +9487,10 @@
     "language": "Scala",
     "stars": "13162",
     "created": "2009-02-16T12:51:54Z",
-    "last_update": "2025-05-25T06:16:56Z"
+    "last_update": "2025-05-25T06:16:56Z",
+    "category": "Database & ORM",
+    "category_corrected": "Actor Model",
+    "visible": "true"
   },
   {
     "url": "https://github.com/theiterators/akka-http-microservice",
@@ -6909,7 +9498,10 @@
     "language": "Scala",
     "stars": "746",
     "created": "2015-01-12T21:20:34Z",
-    "last_update": "2025-03-06T04:09:47Z"
+    "last_update": "2025-03-06T04:09:47Z",
+    "category": "Reactive Programming",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ota4j-team/opentest4j",
@@ -6917,7 +9509,10 @@
     "language": "Java",
     "stars": "293",
     "created": "2015-12-10T17:48:35Z",
-    "last_update": "2025-05-24T14:44:31Z"
+    "last_update": "2025-05-24T14:44:31Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cl4es/bytestacks",
@@ -6925,7 +9520,10 @@
     "language": "Java",
     "stars": "42",
     "created": "2018-01-02T09:29:57Z",
-    "last_update": "2025-02-15T08:48:43Z"
+    "last_update": "2025-02-15T08:48:43Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/plswiderski/gmail-api-sample",
@@ -6933,7 +9531,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2018-03-18T13:13:32Z",
-    "last_update": "2025-05-24T03:46:24Z"
+    "last_update": "2025-05-24T03:46:24Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/oracle/graal",
@@ -6941,7 +9542,10 @@
     "language": "Java",
     "stars": "20867",
     "created": "2016-01-14T17:11:35Z",
-    "last_update": "2025-05-25T08:42:58Z"
+    "last_update": "2025-05-25T08:42:58Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "JVM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/AdoptOpenJDK/jitwatch",
@@ -6949,7 +9553,10 @@
     "language": "Java",
     "stars": "3157",
     "created": "2013-09-30T14:18:17Z",
-    "last_update": "2025-05-22T02:10:44Z"
+    "last_update": "2025-05-22T02:10:44Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/siom79/japicmp",
@@ -6957,7 +9564,10 @@
     "language": "Java",
     "stars": "734",
     "created": "2013-09-29T11:28:08Z",
-    "last_update": "2025-05-13T12:44:44Z"
+    "last_update": "2025-05-13T12:44:44Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "JVM Utilities",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ev3dev-lang-java/template-project-gradle",
@@ -6965,7 +9575,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2017-05-18T18:44:54Z",
-    "last_update": "2024-02-02T20:16:10Z"
+    "last_update": "2024-02-02T20:16:10Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ddd-by-examples/factory",
@@ -6973,7 +9586,10 @@
     "language": "Java",
     "stars": "1359",
     "created": "2017-12-04T07:53:57Z",
-    "last_update": "2025-05-10T19:02:19Z"
+    "last_update": "2025-05-10T19:02:19Z",
+    "category": "Database & ORM",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/netopyr/javafx-ik",
@@ -6981,7 +9597,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2013-02-27T23:06:23Z",
-    "last_update": "2025-01-02T01:40:42Z"
+    "last_update": "2025-01-02T01:40:42Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/checkstyle/checkstyle",
@@ -6989,7 +9608,10 @@
     "language": "Java",
     "stars": "8591",
     "created": "2013-08-31T02:05:05Z",
-    "last_update": "2025-05-25T02:46:44Z"
+    "last_update": "2025-05-25T02:46:44Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LeonardoZ/java-concurrency-patterns",
@@ -6997,7 +9619,10 @@
     "language": "Java",
     "stars": "1573",
     "created": "2018-01-10T12:13:22Z",
-    "last_update": "2025-05-25T07:12:29Z"
+    "last_update": "2025-05-25T07:12:29Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/palantir/gradle-docker",
@@ -7005,7 +9630,10 @@
     "language": "Groovy",
     "stars": "754",
     "created": "2015-09-17T21:24:35Z",
-    "last_update": "2025-05-20T14:55:03Z"
+    "last_update": "2025-05-20T14:55:03Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/java9-modularity/examples",
@@ -7013,7 +9641,10 @@
     "language": "Java",
     "stars": "162",
     "created": "2017-07-10T19:41:50Z",
-    "last_update": "2025-03-05T00:49:33Z"
+    "last_update": "2025-03-05T00:49:33Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/raphw/byte-buddy",
@@ -7021,7 +9652,10 @@
     "language": "Java",
     "stars": "6507",
     "created": "2013-11-25T19:38:03Z",
-    "last_update": "2025-05-24T17:51:42Z"
+    "last_update": "2025-05-24T17:51:42Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects-experimental/spring-boot-thin-launcher",
@@ -7029,7 +9663,10 @@
     "language": "Java",
     "stars": "689",
     "created": "2016-10-18T09:13:45Z",
-    "last_update": "2025-05-02T15:41:40Z"
+    "last_update": "2025-05-02T15:41:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/saturnism/istio-by-example-java",
@@ -7037,7 +9674,10 @@
     "language": "Java",
     "stars": "254",
     "created": "2017-06-18T02:38:18Z",
-    "last_update": "2025-05-09T05:33:49Z"
+    "last_update": "2025-05-09T05:33:49Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spotify/dockerfile-maven",
@@ -7045,7 +9685,10 @@
     "language": "Java",
     "stars": "2753",
     "created": "2016-03-16T12:42:37Z",
-    "last_update": "2025-04-27T09:00:45Z"
+    "last_update": "2025-04-27T09:00:45Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ev3dev-lang-java/ev3dev-lang-java",
@@ -7053,7 +9696,10 @@
     "language": "Java",
     "stars": "100",
     "created": "2015-10-29T19:27:15Z",
-    "last_update": "2025-03-22T18:12:26Z"
+    "last_update": "2025-03-22T18:12:26Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Azure/azure-iot-sdk-java",
@@ -7061,7 +9707,10 @@
     "language": "Java",
     "stars": "200",
     "created": "2016-10-14T18:08:25Z",
-    "last_update": "2025-01-22T17:56:10Z"
+    "last_update": "2025-01-22T17:56:10Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Netflix/ribbon",
@@ -7069,7 +9718,10 @@
     "language": "Java",
     "stars": "4608",
     "created": "2013-01-15T01:08:04Z",
-    "last_update": "2025-05-18T12:32:34Z"
+    "last_update": "2025-05-18T12:32:34Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/networknt/light-4j",
@@ -7077,7 +9729,10 @@
     "language": "Java",
     "stars": "3652",
     "created": "2016-09-09T22:28:14Z",
-    "last_update": "2025-05-25T05:44:03Z"
+    "last_update": "2025-05-25T05:44:03Z",
+    "category": "Networking & Communication",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-kubernetes",
@@ -7085,7 +9740,10 @@
     "language": "Java",
     "stars": "3497",
     "created": "2016-12-13T21:36:25Z",
-    "last_update": "2025-05-24T09:32:07Z"
+    "last_update": "2025-05-24T09:32:07Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fabric8io/spring-cloud-kubernetes",
@@ -7093,7 +9751,10 @@
     "language": "Java",
     "stars": "704",
     "created": "2016-03-25T14:32:54Z",
-    "last_update": "2025-05-14T02:58:20Z"
+    "last_update": "2025-05-14T02:58:20Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/swagger-api/swagger-parser",
@@ -7101,7 +9762,10 @@
     "language": "Java",
     "stars": "809",
     "created": "2014-04-21T16:00:22Z",
-    "last_update": "2025-05-22T13:56:43Z"
+    "last_update": "2025-05-22T13:56:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/linkerd/linkerd",
@@ -7109,7 +9773,10 @@
     "language": "Scala",
     "stars": "5336",
     "created": "2016-01-13T22:14:52Z",
-    "last_update": "2025-05-18T00:39:23Z"
+    "last_update": "2025-05-18T00:39:23Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/unterstein/binance-trader",
@@ -7117,7 +9784,10 @@
     "language": "Java",
     "stars": "281",
     "created": "2017-12-28T22:45:00Z",
-    "last_update": "2025-05-24T17:12:17Z"
+    "last_update": "2025-05-24T17:12:17Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/konsoletyper/teavm",
@@ -7125,7 +9795,10 @@
     "language": "Java",
     "stars": "2825",
     "created": "2013-09-23T20:04:15Z",
-    "last_update": "2025-05-25T05:04:41Z"
+    "last_update": "2025-05-25T05:04:41Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "WebAssembly",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pinterest/DoctorK",
@@ -7133,7 +9806,10 @@
     "language": "Java",
     "stars": "629",
     "created": "2017-08-21T15:30:24Z",
-    "last_update": "2025-05-03T12:35:28Z"
+    "last_update": "2025-05-03T12:35:28Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bijukunjummen/sample-spring-kafka-producer-consumer",
@@ -7141,7 +9817,10 @@
     "language": "Java",
     "stars": "42",
     "created": "2016-11-13T00:52:29Z",
-    "last_update": "2024-04-25T10:51:29Z"
+    "last_update": "2024-04-25T10:51:29Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/yahoo/CMAK",
@@ -7149,7 +9828,10 @@
     "language": "Scala",
     "stars": "11900",
     "created": "2015-01-28T18:33:21Z",
-    "last_update": "2025-05-22T08:06:31Z"
+    "last_update": "2025-05-22T08:06:31Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jfcorugedo/RJavaServer",
@@ -7157,7 +9839,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2015-09-08T14:55:43Z",
-    "last_update": "2024-08-15T21:14:58Z"
+    "last_update": "2024-08-15T21:14:58Z",
+    "category": "Data Processing & Analytics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JamesKingdon/openj9",
@@ -7165,7 +9850,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2017-09-21T01:05:05Z",
-    "last_update": "2025-01-20T21:28:10Z"
+    "last_update": "2025-01-20T21:28:10Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "JVM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-gateway",
@@ -7173,7 +9861,10 @@
     "language": "Java",
     "stars": "4670",
     "created": "2016-11-16T21:42:51Z",
-    "last_update": "2025-05-25T00:39:18Z"
+    "last_update": "2025-05-25T00:39:18Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Netflix/SimianArmy",
@@ -7181,7 +9872,10 @@
     "language": "Java",
     "stars": "7985",
     "created": "2012-07-06T22:00:05Z",
-    "last_update": "2025-05-19T12:30:09Z"
+    "last_update": "2025-05-19T12:30:09Z",
+    "category": "Database & ORM",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-statemachine",
@@ -7189,7 +9883,10 @@
     "language": "Java",
     "stars": "1610",
     "created": "2015-02-04T17:15:36Z",
-    "last_update": "2025-05-23T02:16:04Z"
+    "last_update": "2025-05-23T02:16:04Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/PhilipsHue/PhilipsHueSDK-Java-MultiPlatform-Android",
@@ -7197,7 +9894,10 @@
     "language": "Java",
     "stars": "274",
     "created": "2013-09-21T18:30:16Z",
-    "last_update": "2025-05-10T12:22:14Z"
+    "last_update": "2025-05-10T12:22:14Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cqfn/jpeek",
@@ -7205,7 +9905,10 @@
     "language": "Java",
     "stars": "211",
     "created": "2017-10-16T16:42:26Z",
-    "last_update": "2025-05-19T09:47:51Z"
+    "last_update": "2025-05-19T09:47:51Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-framework",
@@ -7213,7 +9916,10 @@
     "language": "Java",
     "stars": "58082",
     "created": "2010-12-08T04:04:45Z",
-    "last_update": "2025-05-25T10:30:39Z"
+    "last_update": "2025-05-25T10:30:39Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Frameworks",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-function",
@@ -7221,7 +9927,10 @@
     "language": "Java",
     "stars": "1051",
     "created": "2016-09-22T02:34:34Z",
-    "last_update": "2025-05-23T20:50:54Z"
+    "last_update": "2025-05-23T20:50:54Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/danielwegener/logback-kafka-appender",
@@ -7229,7 +9938,10 @@
     "language": "Java",
     "stars": "648",
     "created": "2015-02-11T19:10:14Z",
-    "last_update": "2025-01-03T21:44:26Z"
+    "last_update": "2025-01-03T21:44:26Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ibmruntimes/java-resource-monitor",
@@ -7237,7 +9949,10 @@
     "language": "Java",
     "stars": "4",
     "created": "2017-07-10T08:20:42Z",
-    "last_update": "2025-01-20T07:59:30Z"
+    "last_update": "2025-01-20T07:59:30Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ibmruntimes/openj9-openjdk-jdk9",
@@ -7245,7 +9960,10 @@
     "language": "Java",
     "stars": "67",
     "created": "2017-09-11T20:40:20Z",
-    "last_update": "2024-05-17T16:46:34Z"
+    "last_update": "2024-05-17T16:46:34Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eclipse-openj9/openj9",
@@ -7253,7 +9971,10 @@
     "language": "Java",
     "stars": "3411",
     "created": "2017-08-25T13:46:07Z",
-    "last_update": "2025-05-25T10:29:32Z"
+    "last_update": "2025-05-25T10:29:32Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "JVM",
+    "visible": "true"
   },
   {
     "url": "https://github.com/TheGreyGhost/MinecraftByExample",
@@ -7261,7 +9982,10 @@
     "language": "Java",
     "stars": "1271",
     "created": "2014-12-06T13:08:01Z",
-    "last_update": "2025-05-21T15:53:18Z"
+    "last_update": "2025-05-21T15:53:18Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MinecraftForge/MinecraftForge",
@@ -7269,7 +9993,10 @@
     "language": "Java",
     "stars": "7182",
     "created": "2012-01-30T01:35:01Z",
-    "last_update": "2025-05-24T08:26:34Z"
+    "last_update": "2025-05-24T08:26:34Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Gaming & Entertainment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/miguelcordovam/leJOS_plugin",
@@ -7277,7 +10004,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2017-05-16T22:40:16Z",
-    "last_update": "2025-05-01T03:02:45Z"
+    "last_update": "2025-05-01T03:02:45Z",
+    "category": "IDE & Editor Extensions",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/intrbiz/hs110",
@@ -7285,7 +10015,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2017-08-10T15:02:37Z",
-    "last_update": "2024-12-29T13:15:19Z"
+    "last_update": "2024-12-29T13:15:19Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/quartz-scheduler/quartz",
@@ -7293,7 +10026,10 @@
     "language": "Java",
     "stars": "6507",
     "created": "2016-03-07T14:05:37Z",
-    "last_update": "2025-05-24T13:04:20Z"
+    "last_update": "2025-05-24T13:04:20Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jline/jline2",
@@ -7301,7 +10037,10 @@
     "language": "Java",
     "stars": "715",
     "created": "2011-04-06T14:53:44Z",
-    "last_update": "2025-01-29T19:28:32Z"
+    "last_update": "2025-01-29T19:28:32Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Terminal & Command Line",
+    "visible": "true"
   },
   {
     "url": "https://github.com/square/dagger",
@@ -7309,7 +10048,10 @@
     "language": "Java",
     "stars": "7299",
     "created": "2012-08-02T23:25:32Z",
-    "last_update": "2025-05-25T00:34:30Z"
+    "last_update": "2025-05-25T00:34:30Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/peichhorn/lombok-pg",
@@ -7317,7 +10059,10 @@
     "language": "Java",
     "stars": "329",
     "created": "2011-01-22T12:08:12Z",
-    "last_update": "2025-04-29T07:38:22Z"
+    "last_update": "2025-04-29T07:38:22Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mplushnikov/lombok-intellij-plugin",
@@ -7325,7 +10070,10 @@
     "language": "Java",
     "stars": "3101",
     "created": "2013-10-09T21:49:01Z",
-    "last_update": "2025-05-21T11:54:31Z"
+    "last_update": "2025-05-21T11:54:31Z",
+    "category": "IDE & Editor Extensions",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/projectlombok/lombok",
@@ -7333,7 +10081,10 @@
     "language": "Java",
     "stars": "13171",
     "created": "2009-06-08T19:46:41Z",
-    "last_update": "2025-05-25T03:28:24Z"
+    "last_update": "2025-05-25T03:28:24Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/espertechinc/esper",
@@ -7341,7 +10092,10 @@
     "language": "Java",
     "stars": "856",
     "created": "2015-04-06T16:21:10Z",
-    "last_update": "2025-05-10T06:54:02Z"
+    "last_update": "2025-05-10T06:54:02Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mockito/mockito",
@@ -7349,7 +10103,10 @@
     "language": "Java",
     "stars": "15163",
     "created": "2012-10-13T20:27:12Z",
-    "last_update": "2025-05-25T05:25:23Z"
+    "last_update": "2025-05-25T05:25:23Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/felHR85/UsbSerial",
@@ -7357,7 +10114,10 @@
     "language": "Java",
     "stars": "1871",
     "created": "2014-03-20T11:23:57Z",
-    "last_update": "2025-05-23T06:31:41Z"
+    "last_update": "2025-05-23T06:31:41Z",
+    "category": "Mobile Development",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/carlemil/RPLidarA2AndroidThingsAPI",
@@ -7365,7 +10125,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2017-07-29T16:12:29Z",
-    "last_update": "2024-10-24T07:17:22Z"
+    "last_update": "2024-10-24T07:17:22Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jsimomaa/LASlibJNI",
@@ -7373,7 +10136,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2016-12-01T18:37:39Z",
-    "last_update": "2025-01-29T17:57:22Z"
+    "last_update": "2025-01-29T17:57:22Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/trygvis/javax-usb-libusb1",
@@ -7381,7 +10147,10 @@
     "language": "Java",
     "stars": "44",
     "created": "2010-06-29T21:19:16Z",
-    "last_update": "2024-01-02T08:11:36Z"
+    "last_update": "2024-01-02T08:11:36Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/PavelDusek/AudioRecorder",
@@ -7389,7 +10158,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2013-01-26T19:53:28Z",
-    "last_update": "2025-03-25T12:29:22Z"
+    "last_update": "2025-03-25T12:29:22Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rchampeimont/AchaMaze",
@@ -7397,7 +10169,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2013-09-04T09:50:13Z",
-    "last_update": "2025-01-26T01:34:01Z"
+    "last_update": "2025-01-26T01:34:01Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/h2r/java_rosbridge",
@@ -7405,7 +10180,10 @@
     "language": "Java",
     "stars": "37",
     "created": "2014-12-19T21:47:53Z",
-    "last_update": "2025-04-21T08:15:38Z"
+    "last_update": "2025-04-21T08:15:38Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rctoris/jrosbridge",
@@ -7413,7 +10191,10 @@
     "language": "Java",
     "stars": "73",
     "created": "2014-02-05T00:01:08Z",
-    "last_update": "2025-04-13T00:45:43Z"
+    "last_update": "2025-04-13T00:45:43Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JetBrains/kotlin",
@@ -7421,7 +10202,10 @@
     "language": "Kotlin",
     "stars": "50611",
     "created": "2012-02-13T17:29:58Z",
-    "last_update": "2025-05-25T11:12:47Z"
+    "last_update": "2025-05-25T11:12:47Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Languages",
+    "visible": "true"
   },
   {
     "url": "https://github.com/junit-team/junit5",
@@ -7429,7 +10213,10 @@
     "language": "Java",
     "stars": "6635",
     "created": "2015-01-11T19:06:10Z",
-    "last_update": "2025-05-25T11:01:02Z"
+    "last_update": "2025-05-25T11:01:02Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/junit-team/junit4",
@@ -7437,7 +10224,10 @@
     "language": "Java",
     "stars": "8529",
     "created": "2009-01-13T03:41:26Z",
-    "last_update": "2025-05-23T02:15:32Z"
+    "last_update": "2025-05-23T02:15:32Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "false"
   },
   {
     "url": "https://github.com/mreutegg/laszip4j",
@@ -7445,7 +10235,10 @@
     "language": "Java",
     "stars": "40",
     "created": "2016-11-12T21:08:58Z",
-    "last_update": "2025-05-23T18:00:30Z"
+    "last_update": "2025-05-23T18:00:30Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tjrantal/madgwickAHRS",
@@ -7453,7 +10246,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2014-04-04T02:49:09Z",
-    "last_update": "2025-05-05T07:58:27Z"
+    "last_update": "2025-05-05T07:58:27Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/soywiz-archive/jtransc",
@@ -7461,7 +10257,10 @@
     "language": "Java",
     "stars": "632",
     "created": "2016-02-08T17:32:38Z",
-    "last_update": "2025-05-08T21:29:08Z"
+    "last_update": "2025-05-08T21:29:08Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "false"
   },
   {
     "url": "https://github.com/googlearchive/tango-examples-java",
@@ -7469,7 +10268,10 @@
     "language": "Java",
     "stars": "503",
     "created": "2014-07-23T17:48:52Z",
-    "last_update": "2025-05-23T17:32:25Z"
+    "last_update": "2025-05-23T17:32:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lcm-proj/lcm",
@@ -7477,7 +10279,10 @@
     "language": "Java",
     "stars": "1071",
     "created": "2014-09-12T05:01:03Z",
-    "last_update": "2025-05-22T12:59:39Z"
+    "last_update": "2025-05-22T12:59:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jiaqi/jmxterm",
@@ -7485,7 +10290,10 @@
     "language": "Java",
     "stars": "527",
     "created": "2011-06-04T21:17:00Z",
-    "last_update": "2025-05-14T03:04:00Z"
+    "last_update": "2025-05-14T03:04:00Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/GradleUp/shadow",
@@ -7493,7 +10301,10 @@
     "language": "Kotlin",
     "stars": "3940",
     "created": "2012-12-19T16:13:32Z",
-    "last_update": "2025-05-24T21:32:39Z"
+    "last_update": "2025-05-24T21:32:39Z",
+    "category": "Database & ORM",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vlotar/spring-boot-elk",
@@ -7501,7 +10312,10 @@
     "language": "Java",
     "stars": "57",
     "created": "2016-03-30T08:14:31Z",
-    "last_update": "2024-11-03T15:07:27Z"
+    "last_update": "2024-11-03T15:07:27Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/digitalheir/java-nfa",
@@ -7509,7 +10323,10 @@
     "language": "Java",
     "stars": "12",
     "created": "2016-06-17T19:42:07Z",
-    "last_update": "2024-09-02T11:32:50Z"
+    "last_update": "2024-09-02T11:32:50Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/UnquietCode/JState",
@@ -7517,7 +10334,10 @@
     "language": "Java",
     "stars": "97",
     "created": "2012-06-10T21:23:30Z",
-    "last_update": "2024-03-31T14:12:51Z"
+    "last_update": "2024-03-31T14:12:51Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/riy/degraph",
@@ -7525,7 +10345,10 @@
     "language": "Scala",
     "stars": "312",
     "created": "2011-09-01T15:00:22Z",
-    "last_update": "2025-02-01T16:23:47Z"
+    "last_update": "2025-02-01T16:23:47Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bhaeussermann/MidiReader",
@@ -7533,7 +10356,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2014-12-27T13:19:29Z",
-    "last_update": "2024-09-01T19:32:37Z"
+    "last_update": "2024-09-01T19:32:37Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/perkowitz/sequence",
@@ -7541,7 +10367,10 @@
     "language": "Java",
     "stars": "14",
     "created": "2016-07-09T01:11:50Z",
-    "last_update": "2024-02-04T17:26:26Z"
+    "last_update": "2024-02-04T17:26:26Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/benjmyers/MIDIPiano",
@@ -7549,7 +10378,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2013-01-12T21:16:27Z",
-    "last_update": "2024-07-17T03:42:15Z"
+    "last_update": "2024-07-17T03:42:15Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jcodec/jcodec",
@@ -7557,7 +10389,10 @@
     "language": "Java",
     "stars": "1256",
     "created": "2012-09-30T21:47:38Z",
-    "last_update": "2025-05-14T14:53:24Z"
+    "last_update": "2025-05-14T14:53:24Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LearningByExample/KotlinReactiveMS",
@@ -7565,7 +10400,10 @@
     "language": "Kotlin",
     "stars": "33",
     "created": "2017-05-22T22:46:12Z",
-    "last_update": "2025-01-03T21:46:10Z"
+    "last_update": "2025-01-03T21:46:10Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lasarobotics/FTCVision",
@@ -7573,7 +10411,10 @@
     "language": "Java",
     "stars": "86",
     "created": "2015-08-14T20:39:16Z",
-    "last_update": "2025-02-14T20:50:50Z"
+    "last_update": "2025-02-14T20:50:50Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/qos-ch/logback",
@@ -7581,7 +10422,10 @@
     "language": "Java",
     "stars": "3104",
     "created": "2009-08-20T18:48:24Z",
-    "last_update": "2025-05-15T11:40:09Z"
+    "last_update": "2025-05-15T11:40:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/qos-ch/slf4j",
@@ -7589,7 +10433,10 @@
     "language": "Java",
     "stars": "2409",
     "created": "2009-08-20T16:25:49Z",
-    "last_update": "2025-05-21T09:29:32Z"
+    "last_update": "2025-05-21T09:29:32Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/tlaukkan/lejos-nxj-room-rover",
@@ -7597,7 +10444,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2010-07-13T12:55:54Z",
-    "last_update": "2024-03-27T14:14:18Z"
+    "last_update": "2024-03-27T14:14:18Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/marytts/marytts",
@@ -7605,7 +10455,10 @@
     "language": "Java",
     "stars": "2478",
     "created": "2011-12-20T16:44:48Z",
-    "last_update": "2025-05-25T10:03:10Z"
+    "last_update": "2025-05-25T10:03:10Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/redisson/redisson",
@@ -7613,7 +10466,10 @@
     "language": "Java",
     "stars": "23815",
     "created": "2014-01-11T14:06:25Z",
-    "last_update": "2025-05-25T07:22:15Z"
+    "last_update": "2025-05-25T07:22:15Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mattjlewis/diozero",
@@ -7621,7 +10477,10 @@
     "language": "Java",
     "stars": "271",
     "created": "2016-02-02T21:01:19Z",
-    "last_update": "2025-05-16T01:06:11Z"
+    "last_update": "2025-05-16T01:06:11Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/oldratlee/java-compiler-demo",
@@ -7629,7 +10488,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2013-03-05T07:48:30Z",
-    "last_update": "2025-05-24T11:50:17Z"
+    "last_update": "2025-05-24T11:50:17Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/gary-rowe/hid4java",
@@ -7637,7 +10499,10 @@
     "language": "Java",
     "stars": "241",
     "created": "2014-10-11T17:14:54Z",
-    "last_update": "2025-05-13T13:00:26Z"
+    "last_update": "2025-05-13T13:00:26Z",
+    "category": "Database & ORM",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nyholku/purejavahidapi",
@@ -7645,7 +10510,10 @@
     "language": "Java",
     "stars": "124",
     "created": "2014-10-19T09:52:20Z",
-    "last_update": "2025-03-23T14:18:36Z"
+    "last_update": "2025-03-23T14:18:36Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/demonsgalore/Xbox-Gamepad-Controller-Input",
@@ -7653,7 +10521,10 @@
     "language": "Java",
     "stars": "1",
     "created": "2016-06-22T11:50:43Z",
-    "last_update": "2024-04-18T20:33:03Z"
+    "last_update": "2024-04-18T20:33:03Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jcabi/jcabi-github",
@@ -7661,7 +10532,10 @@
     "language": "Java",
     "stars": "309",
     "created": "2013-11-07T13:23:16Z",
-    "last_update": "2025-05-23T09:35:29Z"
+    "last_update": "2025-05-23T09:35:29Z",
+    "category": "API & Integration",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JavaMoney/jsr354-ri",
@@ -7669,7 +10543,10 @@
     "language": "Java",
     "stars": "351",
     "created": "2013-10-08T20:22:06Z",
-    "last_update": "2025-05-15T16:07:44Z"
+    "last_update": "2025-05-15T16:07:44Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Glank/Java-Games",
@@ -7677,7 +10554,10 @@
     "language": "Java",
     "stars": "272",
     "created": "2012-07-20T16:26:42Z",
-    "last_update": "2025-04-27T00:20:24Z"
+    "last_update": "2025-04-27T00:20:24Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/inoryy/game-of-life-java",
@@ -7685,7 +10565,10 @@
     "language": "Java",
     "stars": "43",
     "created": "2015-03-05T15:18:10Z",
-    "last_update": "2024-11-28T01:23:07Z"
+    "last_update": "2024-11-28T01:23:07Z",
+    "category": "Gaming & Entertainment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ros2-java/ros2_java_examples",
@@ -7693,7 +10576,10 @@
     "language": "Java",
     "stars": "15",
     "created": "2016-08-23T17:40:57Z",
-    "last_update": "2025-01-02T11:42:42Z"
+    "last_update": "2025-01-02T11:42:42Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/amw8/rlpark",
@@ -7701,7 +10587,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2011-07-28T19:39:38Z",
-    "last_update": "2025-03-22T12:55:37Z"
+    "last_update": "2025-03-22T12:55:37Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ros2-java/ros2_java",
@@ -7709,7 +10598,10 @@
     "language": "Java",
     "stars": "185",
     "created": "2016-03-01T05:22:50Z",
-    "last_update": "2025-05-19T10:48:26Z"
+    "last_update": "2025-05-19T10:48:26Z",
+    "category": "Mobile Development",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/guice",
@@ -7717,7 +10609,10 @@
     "language": "Java",
     "stars": "12599",
     "created": "2014-05-28T23:18:53Z",
-    "last_update": "2025-05-24T05:10:08Z"
+    "last_update": "2025-05-24T05:10:08Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Team488/SeriouslyCommonLib",
@@ -7725,7 +10620,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2015-04-18T18:47:14Z",
-    "last_update": "2025-04-04T20:08:23Z"
+    "last_update": "2025-04-04T20:08:23Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/falon3/VisualServoing",
@@ -7733,7 +10631,10 @@
     "language": "Java",
     "stars": "2",
     "created": "2016-03-02T22:48:53Z",
-    "last_update": "2024-04-26T05:28:18Z"
+    "last_update": "2024-04-26T05:28:18Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/strongback/strongback-java",
@@ -7741,7 +10642,10 @@
     "language": "Java",
     "stars": "41",
     "created": "2015-05-07T16:21:53Z",
-    "last_update": "2024-05-03T18:04:08Z"
+    "last_update": "2024-05-03T18:04:08Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ihmcrobotics/ihmc-open-robotics-software",
@@ -7749,7 +10653,10 @@
     "language": "Java",
     "stars": "277",
     "created": "2016-01-28T21:00:16Z",
-    "last_update": "2025-05-22T19:12:02Z"
+    "last_update": "2025-05-22T19:12:02Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pveentjer/Multiverse",
@@ -7757,7 +10664,10 @@
     "language": "Java",
     "stars": "240",
     "created": "2012-01-06T16:23:30Z",
-    "last_update": "2025-04-18T10:46:08Z"
+    "last_update": "2025-04-18T10:46:08Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/yegor256/elegantobjects",
@@ -7765,7 +10675,10 @@
     "language": "Java",
     "stars": "23",
     "created": "2016-08-14T18:22:39Z",
-    "last_update": "2024-04-24T07:37:32Z"
+    "last_update": "2024-04-24T07:37:32Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/moditect/moditect",
@@ -7773,7 +10686,10 @@
     "language": "Java",
     "stars": "563",
     "created": "2017-03-06T15:22:29Z",
-    "last_update": "2025-05-24T12:48:44Z"
+    "last_update": "2025-05-24T12:48:44Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ajoberstar/gradle-git-publish",
@@ -7781,7 +10697,10 @@
     "language": "Java",
     "stars": "96",
     "created": "2016-11-05T20:30:25Z",
-    "last_update": "2025-05-07T02:55:19Z"
+    "last_update": "2025-05-07T02:55:19Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/vavr-io/vavr",
@@ -7789,7 +10708,10 @@
     "language": "Java",
     "stars": "5900",
     "created": "2014-01-30T14:07:25Z",
-    "last_update": "2025-05-25T05:25:35Z"
+    "last_update": "2025-05-25T05:25:35Z",
+    "category": "Database & ORM",
+    "category_corrected": "Functional Programming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/zeromq/jeromq",
@@ -7797,7 +10719,10 @@
     "language": "Java",
     "stars": "2399",
     "created": "2012-08-01T09:28:37Z",
-    "last_update": "2025-05-23T07:01:41Z"
+    "last_update": "2025-05-23T07:01:41Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bennidi/mbassador",
@@ -7805,7 +10730,10 @@
     "language": "Java",
     "stars": "957",
     "created": "2012-10-23T07:27:32Z",
-    "last_update": "2025-05-14T04:42:02Z"
+    "last_update": "2025-05-14T04:42:02Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kohsuke/akuma",
@@ -7813,7 +10741,10 @@
     "language": "Java",
     "stars": "133",
     "created": "2011-08-09T21:00:46Z",
-    "last_update": "2025-01-30T00:53:39Z"
+    "last_update": "2025-01-30T00:53:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lkuza2/java-speech-api",
@@ -7821,7 +10752,10 @@
     "language": "Java",
     "stars": "541",
     "created": "2012-01-09T00:21:15Z",
-    "last_update": "2025-05-21T09:12:47Z"
+    "last_update": "2025-05-21T09:12:47Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/cmusphinx/sphinx4",
@@ -7829,7 +10763,10 @@
     "language": "Java",
     "stars": "1430",
     "created": "2014-04-07T10:09:02Z",
-    "last_update": "2025-05-25T06:18:24Z"
+    "last_update": "2025-05-25T06:18:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/HubSpot/SlimFast",
@@ -7837,7 +10774,10 @@
     "language": "Java",
     "stars": "278",
     "created": "2016-02-05T14:24:37Z",
-    "last_update": "2025-04-22T17:01:43Z"
+    "last_update": "2025-04-22T17:01:43Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nanosai/modrun",
@@ -7845,7 +10785,10 @@
     "language": "Java",
     "stars": "99",
     "created": "2016-10-23T17:48:48Z",
-    "last_update": "2025-01-05T05:02:52Z"
+    "last_update": "2025-01-05T05:02:52Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/javaparser/javaparser",
@@ -7853,7 +10796,10 @@
     "language": "Java",
     "stars": "5797",
     "created": "2011-10-30T14:03:44Z",
-    "last_update": "2025-05-25T09:57:59Z"
+    "last_update": "2025-05-25T09:57:59Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/LearningByExample/reactive-ms-example",
@@ -7861,7 +10807,10 @@
     "language": "Java",
     "stars": "174",
     "created": "2017-03-28T00:29:11Z",
-    "last_update": "2025-02-21T10:33:48Z"
+    "last_update": "2025-02-21T10:33:48Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/WPIRoboticsProjects/opencv-installer",
@@ -7869,7 +10818,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2016-09-10T20:42:29Z",
-    "last_update": "2024-03-31T14:18:21Z"
+    "last_update": "2024-03-31T14:18:21Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bytedeco/javacpp",
@@ -7877,7 +10829,10 @@
     "language": "Java",
     "stars": "4584",
     "created": "2014-04-21T12:47:21Z",
-    "last_update": "2025-05-24T01:01:21Z"
+    "last_update": "2025-05-24T01:01:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nyholku/purejavacomm",
@@ -7885,7 +10840,10 @@
     "language": "Java",
     "stars": "375",
     "created": "2011-04-11T04:18:44Z",
-    "last_update": "2025-05-15T16:51:21Z"
+    "last_update": "2025-05-15T16:51:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nativelibs4java/JNAerator",
@@ -7893,7 +10851,10 @@
     "language": "Java",
     "stars": "520",
     "created": "2015-03-08T15:59:23Z",
-    "last_update": "2025-04-26T03:52:21Z"
+    "last_update": "2025-04-26T03:52:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/code4craft/webmagic",
@@ -7901,7 +10862,10 @@
     "language": "Java",
     "stars": "11559",
     "created": "2013-04-23T12:57:36Z",
-    "last_update": "2025-05-24T11:37:51Z"
+    "last_update": "2025-05-24T11:37:51Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Robo4J/robo4j",
@@ -7909,7 +10873,10 @@
     "language": "Java",
     "stars": "75",
     "created": "2016-05-01T20:27:59Z",
-    "last_update": "2024-12-19T16:39:03Z"
+    "last_update": "2024-12-19T16:39:03Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ecmnet/MAVSlam",
@@ -7917,7 +10884,10 @@
     "language": "Java",
     "stars": "51",
     "created": "2016-03-12T14:44:03Z",
-    "last_update": "2024-12-27T23:57:35Z"
+    "last_update": "2024-12-27T23:57:35Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lessthanoptimal/jrplidar",
@@ -7925,7 +10895,10 @@
     "language": "Java",
     "stars": "11",
     "created": "2014-09-11T17:27:46Z",
-    "last_update": "2025-02-04T07:38:05Z"
+    "last_update": "2025-02-04T07:38:05Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/lessthanoptimal/BoofCV",
@@ -7933,7 +10906,10 @@
     "language": "Java",
     "stars": "1125",
     "created": "2011-04-19T14:51:10Z",
-    "last_update": "2025-05-23T09:34:26Z"
+    "last_update": "2025-05-23T09:34:26Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/puniverse/quasar",
@@ -7941,7 +10917,10 @@
     "language": "Java",
     "stars": "4571",
     "created": "2013-03-27T14:51:24Z",
-    "last_update": "2025-05-23T06:13:47Z"
+    "last_update": "2025-05-23T06:13:47Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fusesource/mqtt-client",
@@ -7949,7 +10928,10 @@
     "language": "Java",
     "stars": "1279",
     "created": "2011-12-17T05:12:58Z",
-    "last_update": "2025-05-09T09:40:08Z"
+    "last_update": "2025-05-09T09:40:08Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/pascaldekloe/colfer",
@@ -7957,7 +10939,10 @@
     "language": "Java",
     "stars": "749",
     "created": "2015-09-05T16:42:41Z",
-    "last_update": "2025-05-02T20:03:46Z"
+    "last_update": "2025-05-02T20:03:46Z",
+    "category": "Database & ORM",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eishay/jvm-serializers",
@@ -7965,7 +10950,10 @@
     "language": "Java",
     "stars": "3294",
     "created": "2010-04-25T03:12:00Z",
-    "last_update": "2025-05-15T07:53:47Z"
+    "last_update": "2025-05-15T07:53:47Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/mp911de/testing-with-spring-boot",
@@ -7973,7 +10961,10 @@
     "language": "Java",
     "stars": "52",
     "created": "2016-08-20T14:34:09Z",
-    "last_update": "2024-08-21T12:18:29Z"
+    "last_update": "2024-08-21T12:18:29Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rosjava/zeroconf_jmdns_suite",
@@ -7981,7 +10972,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2011-09-14T07:50:36Z",
-    "last_update": "2024-02-09T07:12:27Z"
+    "last_update": "2024-02-09T07:12:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rosjava/android_apps",
@@ -7989,7 +10983,10 @@
     "language": "Java",
     "stars": "133",
     "created": "2013-04-27T04:13:45Z",
-    "last_update": "2024-09-12T03:40:42Z"
+    "last_update": "2024-09-12T03:40:42Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/yandooo/graphql-spring-boot",
@@ -7997,7 +10994,10 @@
     "language": "Java",
     "stars": "181",
     "created": "2016-03-21T20:21:28Z",
-    "last_update": "2024-09-09T09:13:48Z"
+    "last_update": "2024-09-09T09:13:48Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/DexterInd/PivotPi",
@@ -8005,7 +11005,10 @@
     "language": "Java",
     "stars": "9",
     "created": "2016-11-22T15:58:32Z",
-    "last_update": "2024-02-01T12:45:21Z"
+    "last_update": "2024-02-01T12:45:21Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/centic9/jgit-cookbook",
@@ -8013,7 +11016,10 @@
     "language": "Java",
     "stars": "1782",
     "created": "2013-05-27T07:28:23Z",
-    "last_update": "2025-05-21T04:39:53Z"
+    "last_update": "2025-05-21T04:39:53Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/PawelWlodarski/old-workshops-java",
@@ -8021,7 +11027,10 @@
     "language": "Java",
     "stars": "5",
     "created": "2016-04-26T17:19:41Z",
-    "last_update": "2024-07-11T23:13:40Z"
+    "last_update": "2024-07-11T23:13:40Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ab0oo/javAPRSlib",
@@ -8029,7 +11038,10 @@
     "language": "Java",
     "stars": "29",
     "created": "2011-11-17T13:39:21Z",
-    "last_update": "2025-05-08T05:54:54Z"
+    "last_update": "2025-05-08T05:54:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fabric8io/kubernetes-client",
@@ -8037,7 +11049,10 @@
     "language": "Java",
     "stars": "3511",
     "created": "2015-07-09T15:43:13Z",
-    "last_update": "2025-05-24T13:03:18Z"
+    "last_update": "2025-05-24T13:03:18Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/reactive-streams/reactive-streams-jvm",
@@ -8045,7 +11060,10 @@
     "language": "Java",
     "stars": "4838",
     "created": "2014-02-28T13:16:15Z",
-    "last_update": "2025-05-23T05:48:31Z"
+    "last_update": "2025-05-23T05:48:31Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Ordina-Group/microservices-dashboard",
@@ -8053,7 +11071,10 @@
     "language": "Java",
     "stars": "409",
     "created": "2016-03-15T17:52:27Z",
-    "last_update": "2025-05-14T02:57:31Z"
+    "last_update": "2025-05-14T02:57:31Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/guava",
@@ -8061,7 +11082,10 @@
     "language": "Java",
     "stars": "50798",
     "created": "2014-05-29T16:23:17Z",
-    "last_update": "2025-05-25T09:28:05Z"
+    "last_update": "2025-05-25T09:28:05Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/kosch/NanoVM",
@@ -8069,7 +11093,10 @@
     "language": "Java",
     "stars": "13",
     "created": "2012-09-01T14:32:56Z",
-    "last_update": "2024-05-14T12:24:23Z"
+    "last_update": "2024-05-14T12:24:23Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/unofficial-openjdk/openjdk",
@@ -8077,7 +11104,10 @@
     "language": "Java",
     "stars": "2162",
     "created": "2012-08-09T20:39:52Z",
-    "last_update": "2025-05-23T02:46:07Z"
+    "last_update": "2025-05-23T02:46:07Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "false"
   },
   {
     "url": "https://github.com/wiremock/wiremock",
@@ -8085,7 +11115,10 @@
     "language": "Java",
     "stars": "6802",
     "created": "2011-10-09T20:27:24Z",
-    "last_update": "2025-05-25T07:50:43Z"
+    "last_update": "2025-05-25T07:50:43Z",
+    "category": "API & Integration",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-contract",
@@ -8093,7 +11126,10 @@
     "language": "Java",
     "stars": "722",
     "created": "2016-06-12T17:11:44Z",
-    "last_update": "2025-05-23T20:28:57Z"
+    "last_update": "2025-05-23T20:28:57Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spotify/completable-futures",
@@ -8101,7 +11137,10 @@
     "language": "Java",
     "stars": "398",
     "created": "2016-02-26T09:56:53Z",
-    "last_update": "2025-05-13T15:05:48Z"
+    "last_update": "2025-05-13T15:05:48Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/wouterbulten/kalmanjs",
@@ -8109,7 +11148,10 @@
     "language": "Java",
     "stars": "432",
     "created": "2015-09-24T21:13:05Z",
-    "last_update": "2025-05-22T10:19:07Z"
+    "last_update": "2025-05-22T10:19:07Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jmxtrans/jmxtrans",
@@ -8117,7 +11159,10 @@
     "language": "Java",
     "stars": "1701",
     "created": "2011-12-07T17:24:36Z",
-    "last_update": "2025-03-13T08:00:27Z"
+    "last_update": "2025-03-13T08:00:27Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/google/thread-weaver",
@@ -8125,7 +11170,10 @@
     "language": "Java",
     "stars": "308",
     "created": "2014-10-07T23:01:49Z",
-    "last_update": "2025-04-07T16:58:09Z"
+    "last_update": "2025-04-07T16:58:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Netflix/Hystrix",
@@ -8133,7 +11181,10 @@
     "language": "Java",
     "stars": "24327",
     "created": "2012-11-19T20:14:46Z",
-    "last_update": "2025-05-25T11:22:39Z"
+    "last_update": "2025-05-25T11:22:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/codecentric/spring-boot-admin",
@@ -8141,7 +11192,10 @@
     "language": "Java",
     "stars": "12573",
     "created": "2014-07-25T11:39:13Z",
-    "last_update": "2025-05-25T06:39:06Z"
+    "last_update": "2025-05-25T06:39:06Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ralfstx/minimal-json",
@@ -8149,7 +11203,10 @@
     "language": "Java",
     "stars": "735",
     "created": "2013-02-20T12:09:31Z",
-    "last_update": "2025-04-09T06:16:54Z"
+    "last_update": "2025-04-09T06:16:54Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/apache/jmeter",
@@ -8157,7 +11214,10 @@
     "language": "Java",
     "stars": "8794",
     "created": "2010-05-26T23:38:07Z",
-    "last_update": "2025-05-24T14:45:08Z"
+    "last_update": "2025-05-24T14:45:08Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jolokia/jolokia",
@@ -8165,7 +11225,10 @@
     "language": "Java",
     "stars": "830",
     "created": "2010-07-15T20:08:44Z",
-    "last_update": "2025-05-22T11:19:11Z"
+    "last_update": "2025-05-22T11:19:11Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Itiviti/simple-slack-api",
@@ -8173,7 +11236,10 @@
     "language": "Java",
     "stars": "470",
     "created": "2014-10-06T16:13:21Z",
-    "last_update": "2025-03-27T09:08:07Z"
+    "last_update": "2025-03-27T09:08:07Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/java-decompiler/jd-gui",
@@ -8181,7 +11247,10 @@
     "language": "Java",
     "stars": "14516",
     "created": "2015-03-25T05:28:41Z",
-    "last_update": "2025-05-24T14:50:13Z"
+    "last_update": "2025-05-24T14:50:13Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Build & Deployment",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-bus",
@@ -8189,7 +11258,10 @@
     "language": "Java",
     "stars": "426",
     "created": "2014-08-22T20:17:27Z",
-    "last_update": "2025-05-07T02:17:07Z"
+    "last_update": "2025-05-07T02:17:07Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-commons",
@@ -8197,7 +11269,10 @@
     "language": "Java",
     "stars": "721",
     "created": "2014-12-01T21:52:43Z",
-    "last_update": "2025-05-21T05:49:09Z"
+    "last_update": "2025-05-21T05:49:09Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-projects/spring-boot",
@@ -8205,7 +11280,10 @@
     "language": "Java",
     "stars": "77235",
     "created": "2012-10-19T15:02:57Z",
-    "last_update": "2025-05-25T07:53:11Z"
+    "last_update": "2025-05-25T07:53:11Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "JVM Frameworks",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-attic/spring-cloud-security",
@@ -8213,7 +11291,10 @@
     "language": "Java",
     "stars": "531",
     "created": "2014-09-23T10:47:51Z",
-    "last_update": "2025-05-21T02:02:22Z"
+    "last_update": "2025-05-21T02:02:22Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-config",
@@ -8221,7 +11302,10 @@
     "language": "Java",
     "stars": "1992",
     "created": "2014-06-13T16:59:44Z",
-    "last_update": "2025-05-23T12:39:59Z"
+    "last_update": "2025-05-23T12:39:59Z",
+    "category": "Configuration & Environment",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rest-assured/rest-assured",
@@ -8229,7 +11313,10 @@
     "language": "Java",
     "stars": "6969",
     "created": "2010-10-21T08:35:43Z",
-    "last_update": "2025-05-23T22:02:39Z"
+    "last_update": "2025-05-23T22:02:39Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "Testing",
+    "visible": "true"
   },
   {
     "url": "https://github.com/spring-cloud/spring-cloud-netflix",
@@ -8237,7 +11324,10 @@
     "language": "Java",
     "stars": "4915",
     "created": "2014-07-11T15:46:12Z",
-    "last_update": "2025-05-22T15:28:37Z"
+    "last_update": "2025-05-22T15:28:37Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bat-cha/gradle-plugin-git-dependencies",
@@ -8245,7 +11335,10 @@
     "language": "Groovy",
     "stars": "153",
     "created": "2013-01-01T01:24:18Z",
-    "last_update": "2024-10-11T13:45:15Z"
+    "last_update": "2024-10-11T13:45:15Z",
+    "category": "Build & Deployment",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rlsutton1/piBot",
@@ -8253,7 +11346,10 @@
     "language": "Java",
     "stars": "14",
     "created": "2014-02-01T11:29:39Z",
-    "last_update": "2024-10-30T04:57:06Z"
+    "last_update": "2024-10-30T04:57:06Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bijukunjummen/spring-cloud-ping-pong-sample",
@@ -8261,7 +11357,10 @@
     "language": "Java",
     "stars": "110",
     "created": "2015-05-30T04:20:51Z",
-    "last_update": "2025-01-13T15:16:52Z"
+    "last_update": "2025-01-13T15:16:52Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/alexa/alexa-skills-kit-sdk-for-java",
@@ -8269,7 +11368,10 @@
     "language": "Java",
     "stars": "819",
     "created": "2015-07-10T22:21:51Z",
-    "last_update": "2025-05-23T18:54:04Z"
+    "last_update": "2025-05-23T18:54:04Z",
+    "category": "Development Tools & SDK Management",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/odrotbohm/rest-microservices",
@@ -8277,7 +11379,10 @@
     "language": "Java",
     "stars": "195",
     "created": "2014-03-21T07:49:14Z",
-    "last_update": "2025-05-04T04:48:36Z"
+    "last_update": "2025-05-04T04:48:36Z",
+    "category": "Microservices & Architecture",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/meddle0x53/learning-rxjava",
@@ -8285,7 +11390,10 @@
     "language": "Java",
     "stars": "275",
     "created": "2015-03-05T10:11:03Z",
-    "last_update": "2025-02-21T23:51:15Z"
+    "last_update": "2025-02-21T23:51:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bithatch/linuxio4j",
@@ -8293,7 +11401,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2015-02-10T18:51:55Z",
-    "last_update": "2025-04-15T14:57:25Z"
+    "last_update": "2025-04-15T14:57:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ttww/JavaFrameBuffer",
@@ -8301,7 +11412,10 @@
     "language": "Java",
     "stars": "34",
     "created": "2013-10-31T10:08:29Z",
-    "last_update": "2025-05-01T12:00:52Z"
+    "last_update": "2025-05-01T12:00:52Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/eclipse-vertx/vert.x",
@@ -8309,7 +11423,10 @@
     "language": "Java",
     "stars": "14482",
     "created": "2011-06-17T14:54:55Z",
-    "last_update": "2025-05-25T07:22:34Z"
+    "last_update": "2025-05-25T07:22:34Z",
+    "category": "Reactive Programming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rosjava/rosjava_core",
@@ -8317,7 +11434,10 @@
     "language": "Java",
     "stars": "215",
     "created": "2013-01-03T01:36:41Z",
-    "last_update": "2025-04-20T07:07:35Z"
+    "last_update": "2025-04-20T07:07:35Z",
+    "category": "Mobile Development",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/Pi4J/pi4j-v1",
@@ -8325,7 +11445,10 @@
     "language": "Java",
     "stars": "1299",
     "created": "2012-09-08T06:00:38Z",
-    "last_update": "2025-04-15T06:41:27Z"
+    "last_update": "2025-04-15T06:41:27Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Utility Libraries",
+    "visible": "true"
   },
   {
     "url": "https://github.com/shekhargulati/java8-the-missing-tutorial",
@@ -8333,7 +11456,10 @@
     "language": "Java",
     "stars": "1577",
     "created": "2015-11-17T18:26:41Z",
-    "last_update": "2025-05-21T15:18:02Z"
+    "last_update": "2025-05-21T15:18:02Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/yusugomori/DeepLearning",
@@ -8341,7 +11467,10 @@
     "language": "Java",
     "stars": "3115",
     "created": "2013-01-01T16:23:53Z",
-    "last_update": "2025-05-18T12:01:34Z"
+    "last_update": "2025-05-18T12:01:34Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/webbit/webbit",
@@ -8349,7 +11478,10 @@
     "language": "Java",
     "stars": "820",
     "created": "2011-01-16T22:49:46Z",
-    "last_update": "2025-05-06T08:45:14Z"
+    "last_update": "2025-05-06T08:45:14Z",
+    "category": "Networking & Communication",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/MegaMek/megamek",
@@ -8357,7 +11489,10 @@
     "language": "Java",
     "stars": "319",
     "created": "2015-08-15T14:47:29Z",
-    "last_update": "2025-05-25T05:45:36Z"
+    "last_update": "2025-05-25T05:45:36Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/nyatla/NyARToolkit",
@@ -8365,7 +11500,10 @@
     "language": "Java",
     "stars": "51",
     "created": "2015-05-16T13:48:28Z",
-    "last_update": "2025-03-05T08:44:12Z"
+    "last_update": "2025-03-05T08:44:12Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bign8/Robot",
@@ -8373,7 +11511,10 @@
     "language": "Java",
     "stars": "6",
     "created": "2012-04-20T19:57:02Z",
-    "last_update": "2024-08-12T19:20:58Z"
+    "last_update": "2024-08-12T19:20:58Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jimmikaelkael/simbad",
@@ -8381,7 +11522,10 @@
     "language": "Java",
     "stars": "17",
     "created": "2011-08-16T09:05:40Z",
-    "last_update": "2024-11-21T12:24:41Z"
+    "last_update": "2024-11-21T12:24:41Z",
+    "category": "AI & Machine Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/rafalmag/EV3-projects",
@@ -8389,7 +11533,10 @@
     "language": "Java",
     "stars": "3",
     "created": "2013-11-16T11:57:50Z",
-    "last_update": "2025-01-26T22:15:52Z"
+    "last_update": "2025-01-26T22:15:52Z",
+    "category": "Robotics & IoT",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/fmorbini/scxmlgui",
@@ -8397,7 +11544,10 @@
     "language": "Java",
     "stars": "109",
     "created": "2015-04-06T05:41:20Z",
-    "last_update": "2025-04-27T09:17:33Z"
+    "last_update": "2025-04-27T09:17:33Z",
+    "category": "Web Frameworks & HTTP",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/iluwatar/java-design-patterns",
@@ -8405,7 +11555,10 @@
     "language": "Java",
     "stars": "91863",
     "created": "2014-08-09T16:45:18Z",
-    "last_update": "2025-05-25T10:53:25Z"
+    "last_update": "2025-05-25T10:53:25Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Educational & Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/winterbe/java8-tutorial",
@@ -8413,7 +11566,10 @@
     "language": "Java",
     "stars": "16758",
     "created": "2014-03-16T17:25:43Z",
-    "last_update": "2025-05-23T02:58:19Z"
+    "last_update": "2025-05-23T02:58:19Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/YangMann/drone-slam",
@@ -8421,7 +11577,10 @@
     "language": "Java",
     "stars": "7",
     "created": "2014-05-12T12:16:38Z",
-    "last_update": "2025-01-16T08:41:13Z"
+    "last_update": "2025-01-16T08:41:13Z",
+    "category": "Documentation & Diagramming",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/JavaOpenCVBook/code",
@@ -8429,7 +11588,10 @@
     "language": "Java",
     "stars": "70",
     "created": "2013-12-13T20:00:13Z",
-    "last_update": "2024-08-12T19:23:15Z"
+    "last_update": "2024-08-12T19:23:15Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/ben-manes/caffeine",
@@ -8437,7 +11599,10 @@
     "language": "Java",
     "stars": "16660",
     "created": "2014-12-13T08:45:11Z",
-    "last_update": "2025-05-25T08:45:17Z"
+    "last_update": "2025-05-25T08:45:17Z",
+    "category": "Performance & Monitoring",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/square/leakcanary",
@@ -8445,7 +11610,10 @@
     "language": "Kotlin",
     "stars": "29691",
     "created": "2015-04-29T23:54:16Z",
-    "last_update": "2025-05-25T05:43:03Z"
+    "last_update": "2025-05-25T05:43:03Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Performance & Monitoring",
+    "visible": "true"
   },
   {
     "url": "https://github.com/UniconLabs/java-keystore-ssl-test",
@@ -8453,7 +11621,10 @@
     "language": "Java",
     "stars": "90",
     "created": "2012-08-22T23:02:01Z",
-    "last_update": "2025-03-27T08:38:21Z"
+    "last_update": "2025-03-27T08:38:21Z",
+    "category": "Security & Cryptography",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/bytedeco/javacv",
@@ -8461,7 +11632,10 @@
     "language": "Java",
     "stars": "7796",
     "created": "2014-04-21T13:50:26Z",
-    "last_update": "2025-05-25T11:21:14Z"
+    "last_update": "2025-05-25T11:21:14Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "AI & Machine Learning",
+    "visible": "true"
   },
   {
     "url": "https://github.com/socketio/socket.io-client-java",
@@ -8469,7 +11643,10 @@
     "language": "Java",
     "stars": "5385",
     "created": "2013-04-28T17:04:05Z",
-    "last_update": "2025-05-22T09:47:39Z"
+    "last_update": "2025-05-22T09:47:39Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/carlos-verdes/scxml-java",
@@ -8477,7 +11654,10 @@
     "language": "Java",
     "stars": "10",
     "created": "2014-09-02T17:46:22Z",
-    "last_update": "2024-09-17T15:32:24Z"
+    "last_update": "2024-09-17T15:32:24Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/perwendel/spark",
@@ -8485,7 +11665,10 @@
     "language": "Java",
     "stars": "9663",
     "created": "2011-05-05T11:52:05Z",
-    "last_update": "2025-05-25T06:21:11Z"
+    "last_update": "2025-05-25T06:21:11Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Messaging & Streaming",
+    "visible": "true"
   },
   {
     "url": "https://github.com/jcip/jcip.github.com",
@@ -8493,7 +11676,10 @@
     "language": "Java",
     "stars": "390",
     "created": "2013-01-31T16:37:31Z",
-    "last_update": "2025-05-25T07:37:38Z"
+    "last_update": "2025-05-25T07:37:38Z",
+    "category": "Educational & Learning",
+    "category_corrected": "",
+    "visible": "true"
   },
   {
     "url": "https://github.com/stleary/JSON-java",
@@ -8501,7 +11687,10 @@
     "language": "Java",
     "stars": "4625",
     "created": "2010-12-21T17:46:09Z",
-    "last_update": "2025-05-25T05:30:34Z"
+    "last_update": "2025-05-25T05:30:34Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/NanoHttpd/nanohttpd",
@@ -8509,7 +11698,10 @@
     "language": "Java",
     "stars": "7086",
     "created": "2012-08-10T21:52:42Z",
-    "last_update": "2025-05-25T00:32:32Z"
+    "last_update": "2025-05-25T00:32:32Z",
+    "category": "Networking & Communication",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   },
   {
     "url": "https://github.com/TooTallNate/Java-WebSocket",
@@ -8517,6 +11709,9 @@
     "language": "Java",
     "stars": "10660",
     "created": "2010-01-20T23:33:04Z",
-    "last_update": "2025-05-25T00:32:31Z"
+    "last_update": "2025-05-25T00:32:31Z",
+    "category": "Computer Vision & Graphics",
+    "category_corrected": "Web Frameworks & HTTP",
+    "visible": "true"
   }
 ]
