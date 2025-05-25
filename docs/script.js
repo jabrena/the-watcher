@@ -112,6 +112,7 @@ async function loadRepositories() {
         loadFiltersFromUrl();
         filterRepositories();
         updateStats();
+        updateLastReviewDate();
 
         document.getElementById('loading').style.display = 'none';
         document.getElementById('reposGrid').style.display = 'grid';
@@ -155,14 +156,33 @@ function displayRepositories() {
     }).join('');
 }
 
-function updateStats() {
-    const totalRepos = allRepos.length;
-    const totalStars = allRepos.reduce((sum, repo) => sum + parseInt(repo.stars), 0);
-    const avgStars = Math.round(totalStars / totalRepos);
+function updateStats(repos = allRepos) {
+    const totalRepos = repos.length;
+    const totalStars = repos.reduce((sum, repo) => sum + parseInt(repo.stars), 0);
+    const avgStars = totalRepos > 0 ? Math.round(totalStars / totalRepos) : 0;
 
     document.getElementById('totalRepos').textContent = totalRepos.toLocaleString();
     document.getElementById('totalStars').textContent = totalStars.toLocaleString();
     document.getElementById('avgStars').textContent = avgStars.toLocaleString();
+}
+
+function updateLastReviewDate() {
+    if (allRepos.length === 0) return;
+
+    // Find the most recent last_update date
+    const mostRecentDate = allRepos.reduce((latest, repo) => {
+        const repoDate = new Date(repo.last_update);
+        return repoDate > latest ? repoDate : latest;
+    }, new Date(0));
+
+    // Format the date in a readable format
+    const formattedDate = mostRecentDate.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
+
+    document.getElementById('lastReviewDate').textContent = formattedDate;
 }
 
 function openRepository(url) {
@@ -253,6 +273,7 @@ function filterRepositories() {
     });
 
     displayRepositories();
+    updateStats(filteredRepos);
 }
 
 // Keep the old function name for backward compatibility
