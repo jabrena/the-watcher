@@ -93,6 +93,7 @@ body::after {
 .header {
     text-align: center;
     margin-bottom: 40px;
+    padding-top: 10px;
     color: white;
     position: relative;
 }
@@ -109,7 +110,6 @@ body::after {
     width: 60px;
     height: 60px;
     filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));
-    animation: float 6s ease-in-out infinite;
 }
 
 .header h1 {
@@ -360,12 +360,16 @@ body::after {
         grid-template-columns: 1fr;
     }
 
+    .header {
+        margin-bottom: 20px;
+    }
+
     .header h1 {
         font-size: 2rem;
     }
 
     .header-content {
-        flex-direction: column;
+        flex-direction: row;
         gap: 15px;
     }
 
@@ -410,11 +414,11 @@ body::after {
 }
 
 .footer {
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(15px);
     border-radius: 20px;
-    padding: 25px;
-    margin-top: 50px;
+    padding: 20px;
+    margin-top: 10px;
     margin-bottom: 20px;
     text-align: center;
     color: white;
