@@ -1,6 +1,6 @@
 # The Watcher
 
-It is a project to visualize the evolution of JVM ecosystem.
+Observe the JVM ecosystem in Github without any intervention.
 
 ![](./docs/the-watcher.jpg)
 
