@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Starred Repositories - JVM Only</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 20px;
+            color: white;
+            text-align: center;
+            min-width: 150px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            margin-top: 5px;
+        }
+
+        .search-container {
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .search-box {
+            width: 100%;
+            max-width: 500px;
+            padding: 15px 20px;
+            border: none;
+            border-radius: 25px;
+            font-size: 1rem;
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            outline: none;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+
+        .search-box::placeholder {
+            color: #666;
+        }
+
+        .repos-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .repo-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .repo-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+            background-size: 400% 100%;
+            animation: gradient 3s ease infinite;
+        }
+
+        @keyframes gradient {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+
+        .repo-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+        }
+
+        .repo-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+
+        .repo-name {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #2c3e50;
+            word-break: break-word;
+            flex: 1;
+            margin-right: 15px;
+        }
+
+        .repo-stars {
+            background: linear-gradient(135deg, #ffd700, #ffed4e);
+            color: #8b6914;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+            flex-shrink: 0;
+        }
+
+        .repo-stars::before {
+            content: '⭐';
+            font-size: 1rem;
+        }
+
+        .repo-description {
+            color: #5a6c7d;
+            font-size: 1rem;
+            line-height: 1.5;
+            margin-bottom: 20px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .repo-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .repo-language {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .repo-date {
+            color: #7f8c8d;
+            font-size: 0.85rem;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.5rem;
+            margin: 50px 0;
+        }
+
+        .loading::after {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s ease-in-out infinite;
+            margin-left: 10px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .no-results {
+            text-align: center;
+            color: white;
+            font-size: 1.5rem;
+            margin: 50px 0;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .repos-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .stats {
+                gap: 20px;
+            }
+
+            .repo-meta {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌟 GitHub Starred Repositories</h1>
+            <p>JVM Languages Collection - Sorted by Stars</p>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <span class="stat-number" id="totalRepos">-</span>
+                <div class="stat-label">Total Repositories</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="totalStars">-</span>
+                <div class="stat-label">Total Stars</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="avgStars">-</span>
+                <div class="stat-label">Average Stars</div>
+            </div>
+        </div>
+
+        <div class="search-container">
+            <input type="text" class="search-box" id="searchInput" placeholder="🔍 Search repositories by name, description, or language...">
+        </div>
+
+        <div id="loading" class="loading">Loading repositories...</div>
+        <div id="reposGrid" class="repos-grid" style="display: none;"></div>
+        <div id="noResults" class="no-results" style="display: none;">No repositories found matching your search.</div>
+    </div>
+
+    <script>
+        let allRepos = [];
+        let filteredRepos = [];
+
+        async function loadRepositories() {
+            try {
+                const response = await fetch('starred_repos_jvm_only.json');
+                const repos = await response.json();
+
+                // Sort by stars (descending)
+                allRepos = repos.sort((a, b) => parseInt(b.stars) - parseInt(a.stars));
+                filteredRepos = [...allRepos];
+
+                displayRepositories();
+                updateStats();
+
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('reposGrid').style.display = 'grid';
+            } catch (error) {
+                console.error('Error loading repositories:', error);
+                document.getElementById('loading').innerHTML = '❌ Error loading repositories. Please check if the JSON file exists.';
+            }
+        }
+
+        function displayRepositories() {
+            const grid = document.getElementById('reposGrid');
+            const noResults = document.getElementById('noResults');
+
+            if (filteredRepos.length === 0) {
+                grid.style.display = 'none';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            grid.style.display = 'grid';
+            noResults.style.display = 'none';
+
+            grid.innerHTML = filteredRepos.map((repo, index) => {
+                const repoName = repo.url.split('/').slice(-2).join('/');
+                const createdDate = new Date(repo.created).toLocaleDateString();
+                const updatedDate = new Date(repo.last_update).toLocaleDateString();
+
+                return `
+                    <div class="repo-card fade-in" onclick="openRepository('${repo.url}')" style="animation-delay: ${index * 0.05}s">
+                        <div class="repo-header">
+                            <div class="repo-name">${repoName}</div>
+                            <div class="repo-stars">${parseInt(repo.stars).toLocaleString()}</div>
+                        </div>
+                        <div class="repo-description">${repo.description || 'No description available'}</div>
+                        <div class="repo-meta">
+                            <div class="repo-language">${repo.language}</div>
+                            <div class="repo-date">Updated: ${updatedDate}</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function updateStats() {
+            const totalRepos = allRepos.length;
+            const totalStars = allRepos.reduce((sum, repo) => sum + parseInt(repo.stars), 0);
+            const avgStars = Math.round(totalStars / totalRepos);
+
+            document.getElementById('totalRepos').textContent = totalRepos.toLocaleString();
+            document.getElementById('totalStars').textContent = totalStars.toLocaleString();
+            document.getElementById('avgStars').textContent = avgStars.toLocaleString();
+        }
+
+        function openRepository(url) {
+            window.open(url, '_blank');
+        }
+
+        function searchRepositories() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+
+            if (searchTerm === '') {
+                filteredRepos = [...allRepos];
+            } else {
+                filteredRepos = allRepos.filter(repo => {
+                    const repoName = repo.url.split('/').slice(-2).join('/').toLowerCase();
+                    const description = (repo.description || '').toLowerCase();
+                    const language = repo.language.toLowerCase();
+
+                    return repoName.includes(searchTerm) ||
+                           description.includes(searchTerm) ||
+                           language.includes(searchTerm);
+                });
+            }
+
+            displayRepositories();
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', searchRepositories);
+
+        // Load repositories when page loads
+        document.addEventListener('DOMContentLoaded', loadRepositories);
+    </script>
+</body>
+</html>
