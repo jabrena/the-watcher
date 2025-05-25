@@ -1,6 +1,6 @@
 # The Watcher
 
-Observe the JVM ecosystem in Github without any intervention.
+Observe the JVM ecosystem in Github without any intervention in some Categories.
 
 ![](./docs/the-watcher.jpg)
 
